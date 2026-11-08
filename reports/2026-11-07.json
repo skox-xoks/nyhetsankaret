@@ -1,0 +1,340 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-07T14:30:00+01:00",
+ "lede": "Regeringsbildningen har tagit en ny vändning sedan SD släppt kravet på ministerposter och Centerpartiet krävt politiska totalpaket av både M och S till nästa fredag. Utomlands har Paraguays president avsatts, Trump har gjort Stephen Miller till stabschef och Ryssland har angripit Kyiv inför nya fredssamtal.",
+ "sections": [
+  {
+   "id": "teknik",
+   "items": [
+    {
+     "assessment": "RTÉ, Reuters/AFP, TT och Computer Sweden rapporterar oberoende av varandra och uppgifterna stämmer överens. Det rör sig om officiella men preliminära slutsatser; Tiktok kallar dem ”i grunden felaktiga” och kan svara innan ett slutligt beslut fattas.",
+     "independentSources": 4,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "RTÉ",
+       "url": "https://www.rte.ie/news/europe/2026/1106/1598263-eu-tiktok-videos/"
+      },
+      {
+       "name": "Dawn (Reuters/AFP)",
+       "url": "https://www.dawn.com/news/2042623/eu-charges-tiktok-over-harmful-algorithmic-rabbit-hole-effects-tells-it-to-change-for-you-feed"
+      },
+      {
+       "name": "TV4 (TT)",
+       "url": "https://www.tv4.se/artikel/tt-261106-eutiktok1-5c2f3bc9/tiktok-riskerar-boter-for-kaninhal"
+      },
+      {
+       "name": "Computer Sweden",
+       "url": "https://computersweden.se/article/4245699/eu-kraver-att-tiktok-andrar-sitt-skadliga-for-dig-flode.html"
+      }
+     ],
+     "summary": "EU-kommissionen har kommit med preliminära slutsatser om att Tiktoks rekommendationssystem bryter mot förordningen om digitala tjänster (DSA). Enligt kommissionen leder flödet särskilt unga in i ”kaninhål” med innehåll om nedstämdhet och kroppsideal. Tiktok uppmanas bland annat att sluta använda tittartid som signal och att göra användarnas inställningar mer verkningsfulla. Ett fastställt brott kan ge böter på upp till sex procent av den globala omsättningen.",
+     "title": "EU: Tiktoks ”För dig”-flöde bryter mot DSA",
+     "weak": false
+    },
+    {
+     "assessment": "Två separata avslöjanden (FT och NYT) har vidarerapporterats av bland andra TT och The Week, men kärnuppgifterna bygger på anonyma källor och ett opublicerat dokument. Inga åtal finns. Källorna skiljer sig åt om när Trump informerades. Begäran om utfrågning är däremot bekräftad.",
+     "independentSources": 3,
+     "reliability": "medel",
+     "sources": [
+      {
+       "name": "Göteborgs-Posten (TT)",
+       "url": "https://www.gp.se/ekonomi/huang-kallas-till-forhor-efter-spionuppgifter.63ad04bf-48ff-5a17-86b5-abb53703e794"
+      },
+      {
+       "name": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html"
+      },
+      {
+       "name": "The Week",
+       "url": "https://www.theweek.in/news/world/2026/11/07/us-intelligence-believes-nvidia-ceo-jensen-huang-had-romance-link-with-suspected-chinese-spy.html"
+      },
+      {
+       "name": "Yahoo News (återger FT)",
+       "url": "https://www.yahoo.com/news/politics/articles/nvidia-ceo-jensen-huang-alleged-103955689.html"
+      }
+     ],
+     "summary": "Financial Times och New York Times rapporterar, med hänvisning till en amerikansk myndighets-PM, att Nvidias vd Jensen Huang ska ha haft en romantisk relation med en chef på en Nvidia-kund som amerikansk underrättelsetjänst misstänker rekryterats av Kinas säkerhetstjänst. Tre republikanska utskottsordförande i representanthuset har begärt en stängd genomgång med Huang den 18 november. Nvidia avböjer att kommentera PM:et och kallar bolaget i fråga en vanlig kund.",
+     "title": "Uppgifter om Nvidia-chefen och misstänkt kinesisk spion",
+     "weak": false
+    },
+    {
+     "assessment": "Bara två redaktioner med egna källor (Bloomberg och Reuters); övriga återger Bloomberg. Uppgifterna om den ursprungliga målvärderingen skiljer sig (1 400 respektive 1 500 miljarder dollar), och Openai har inte bekräftat.",
+     "independentSources": 2,
+     "reliability": "medel",
+     "sources": [
+      {
+       "name": "Bloomberg (via Yahoo Finance)",
+       "url": "https://finance.yahoo.com/technology/ai/articles/openai-completes-11-billion-portion-205841010.html"
+      },
+      {
+       "name": "Reuters (via The Star)",
+       "url": "https://www.thestar.com.my/tech/tech-news/2026/11/07/openai-secures-11-billion-funding-at-125-trillion-valuation-bloomberg-news-reports"
+      },
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+      }
+     ],
+     "summary": "Openai har enligt Bloomberg och Reuters stängt en första del på omkring 11 miljarder dollar i en finansieringsrunda som värderar bolaget till 1 250 miljarder dollar. Rundan kan växa till cirka 20 miljarder dollar. Målet var ursprungligen högre, men det sänktes efter raset för AI-aktier efter mellanårsvalet i USA.",
+     "title": "Openai tar in 11 miljarder dollar till lägre värdering än planerat",
+     "weak": true
+    }
+   ]
+  },
+  {
+   "id": "hallbarhet",
+   "items": [
+    {
+     "assessment": "AFP, Climate Home News, TRT World och Guardian bekräftar schemat och huvudfrågorna. Siffror om deltagande och åtaganden kommer främst från värdlandet, och turkisk statsmedia beskriver ambitionerna mer positivt än kritiker gör.",
+     "independentSources": 4,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "Türkiye Today (AFP)",
+       "url": "https://www.turkiyetoday.com/nation/what-to-watch-as-cop31-climate-talks-begin-in-antalya-3231859"
+      },
+      {
+       "name": "Climate Home News",
+       "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/"
+      },
+      {
+       "name": "TRT World",
+       "url": "https://www.trtworld.com/article/6860876fe300"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://theguardian.com/environment/2026/nov/06/cop31-coal-turkey-fossil-fuel-reliance"
+      }
+     ],
+     "summary": "FN:s klimatmöte COP31 öppnar den 9 november i Antalya med Turkiet som värd och Australien som ledare för förhandlingarna. Värdländerna vill få in ett mål om att elens andel av världens slutliga energianvändning ska öka från cirka 20 till 35 procent till 2035. EU vill att målet ska gälla ren el, vilket öppnar frågan om fossila bränslen igen. Klimatanpassningens finansiering och mekanismen för rättvis omställning väntas också bli stridsfrågor.",
+     "title": "COP31 inleds på måndag i Antalya",
+     "weak": false
+    },
+    {
+     "assessment": "Reuters, Eunews, EUobserver och spanska Demócrata rapporterar samstämmigt om rådets beslut. Uppgifterna skiljer sig i detaljer om hur många ytterligare uppskov som är möjliga, och miljöorganisationer kritiserar beslutet.",
+     "independentSources": 4,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "Reuters (via Global Banking & Finance Review)",
+       "url": "https://www.globalbankingandfinance.com/eu-backs-one-year-delay-methane-rules-over-iran-war/"
+      },
+      {
+       "name": "Eunews",
+       "url": "https://www.eunews.it/en/2026/11/06/eu-council-approves-one-year-delay-to-methane-restrictions-with-possible-extension/"
+      },
+      {
+       "name": "EUobserver",
+       "url": "https://euobserver.com/247446/eu-states-back-one-year-methane-delay-but-leave-door-open-for-more/"
+      },
+      {
+       "name": "Demócrata",
+       "url": "https://www.democrata.es/en/economy/the-eu-postpones-for-a-year-methane-controls-on-imports-of-fossil-fuels/"
+      }
+     ],
+     "summary": "EU-ländernas ambassadörer enades på fredagen om att skjuta upp metankraven på importerad olja, gas och kol med ett år, bland annat med hänvisning till energimarknadens oro efter Irankriget. Kommissionen ska senast i september 2027 bedöma om fler förseningar behövs. Nu väntar förhandlingar med Europaparlamentet, som röstat för tre års uppskov.",
+     "title": "EU-länderna vill skjuta upp metanregler för importerad olja och gas",
+     "weak": false
+    },
+    {
+     "assessment": "Rapporten publicerades tidigt den 6 november, strax före bevakningsperioden, men bevakningen har fortsatt under dygnet. Reuters och flera fackmedier återger samma huvudsiffror, men de bygger troligen alla på IEA:s pressmaterial och skiljer sig i detaljer. Siffrorna är prognoser.",
+     "independentSources": 4,
+     "reliability": "medel",
+     "sources": [
+      {
+       "name": "CNBC Africa (Reuters)",
+       "url": "https://www.cnbcafrica.com/2026/emerging-economies-set-to-match-advanced-nations-renewable-capacity-additions-iea-says"
+      },
+      {
+       "name": "APA",
+       "url": "https://en.apa.az/energy-and-industry/iea-global-renewable-energy-capacity-to-increase-by-4800-gw-in-2026-2031-534459"
+      },
+      {
+       "name": "GreentechLead",
+       "url": "https://greentechlead.com/renewable-energy/iea-renewables-2026-global-renewable-capacity-to-grow-4800-gw-by-2031-india-emerges-as-second-largest-market-56352"
+      },
+      {
+       "name": "Green Building Africa",
+       "url": "https://www.greenbuildingafrica.co.za/renewables-set-for-record-growth-as-energy-security-drives-deployment-across-emerging-markets-says-iea/"
+      }
+     ],
+     "summary": "Internationella energiorganet IEA räknar i sin nya rapport med att världens förnybara kapacitet växer med nästan 4 800 gigawatt 2026–2031, till stor del solkraft. För första gången väntas tillväxtekonomier utanför Kina bygga ut lika mycket som de rika länderna, och energisäkerhet har gått om klimatet som drivkraft. Väntetiden för nätanslutning är en växande flaskhals, särskilt i Europa.",
+     "title": "IEA: Tillväxtekonomier bygger lika mycket förnybart som rika länder",
+     "weak": false
+    }
+   ]
+  },
+  {
+   "id": "inrikes",
+   "items": [
+    {
+     "assessment": "SVT, TT, The Local, Sveriges Radio och en internationell nyhetsbyrå rapporterar samstämmigt om det offentliga beskedet. Alla betonar att utfallet avgörs av Centerpartiet. Beskedet kom vid tolvtiden den 6 november, precis i början av bevakningsperioden.",
+     "independentSources": 5,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "SVT",
+       "url": "https://www.svt.se/nyheter/lokalt/blekinge/jimmie-akesson-sd-slapper-kravet-pa-att-sitta-i-regering"
+      },
+      {
+       "name": "Fokus (TT)",
+       "url": "https://www.fokus.se/nyheter/sd-slapper-ministerkrav/"
+      },
+      {
+       "name": "The Local",
+       "url": "https://www.thelocal.se/20261106/sweden-democrats-drop-minister-demand-say-they-will-be-in-opposition-until-2030"
+      },
+      {
+       "name": "Sveriges Radio",
+       "url": "https://www.sverigesradio.se/artikel/sd-gar-i-opposition-och-slapper-krav-pa-ministerposter"
+      },
+      {
+       "name": "Arab News (nyhetsbyrå)",
+       "url": "https://www.arabnews.pk/world/swedens-far-right-party-gives-up-on-cabinet-posts-amid-post-election-gridlock-3006300"
+      }
+     ],
+     "summary": "Jimmie Åkesson meddelade att SD inte längre kräver att ingå i regeringen och är berett att släppa fram en regering med M, KD, L och C för att sedan gå i opposition. Utspelet förutsätter att C ansluter till Ulf Kristersson, något C hittills avvisat så länge regeringen är beroende av SD. Kristersson kallade beskedet ansvarstagande, medan S menar att det inte ändrar något eftersom en sådan regering ändå vore beroende av SD.",
+     "title": "SD släpper kravet på ministerposter",
+     "weak": false
+    },
+    {
+     "assessment": "GP:s egen rapportering, SVT och TV4 bekräftar både C:s krav och förlängningen. Fakta är bekräftade, medan bedömningarna av vem som har mest att erbjuda C går isär mellan kommentatorer. Läget är under utveckling.",
+     "independentSources": 3,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "Göteborgs-Posten",
+       "url": "https://www.gp.se/politik/centerpartiet-kraver-totalpaket-av-m-och-s-pa-en-vecka.a68c2af2-bf70-5dbf-9b26-035f90283906"
+      },
+      {
+       "name": "SVT",
+       "url": "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026?inlagg=8cc33a6a2e8023b144f91b5871570eb9"
+      },
+      {
+       "name": "TV4",
+       "url": "https://www.tv4.se/artikel/4VkqT6X8HbvyDF7zqZEhUI/skulle-kunna-goera-uppgiften-lite-mindre-omoejlig"
+      },
+      {
+       "name": "SVT Text",
+       "url": "https://texttv.nu/110"
+      }
+     ],
+     "summary": "Centerpartiets Elisabeth Thand Ringqvist kräver att både Ulf Kristersson och Magdalena Andersson presenterar ett samlat politiskt erbjudande senast fredag den 13 november. C utesluter fortfarande SD och V ur regeringen men kan samarbeta med antingen M eller S. Talman Andreas Norlén gav samtidigt Kristersson några dagar till för sitt sonderingsuppdrag med hänvisning till dagens nya besked, och Kristersson beskriver alla lösningar som ”rätt osannolika”.",
+     "title": "C kräver totalpaket av M och S, Kristersson får mer tid",
+     "weak": false
+    },
+    {
+     "assessment": "Inlägget har verifierats av SVT och TV4 och Ali bekräftar det själv. Uppgiften kom ursprungligen från en enskild skribent. Reaktioner från andra partier har inte hittats.",
+     "independentSources": 3,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "SVT",
+       "url": "https://www.svt.se/nyheter/inrikes/v-ledamoten-mohamed-ali-ville-stoppa-prideflaggor"
+      },
+      {
+       "name": "TV4",
+       "url": "https://www.tv4.se/artikel/7HytNcdYbkXx6cWlyRmHWH/mohamed-ali-om-pride-inlaegget-kortfattat-och-ogenomtaenkt"
+      },
+      {
+       "name": "Joakim Lamotte (ursprungskälla)",
+       "url": "https://www.joakimlamotte.se/p/avslojar-vansterpartiets-mohamed"
+      }
+     ],
+     "summary": "Vänsterpartiets riksdagsledamot Mohamed Ali svarade 2024 ”Yes pls” på ett inlägg på X om att förbjuda prideflaggor på myndighetsbyggnader. Ali kallar nu inlägget kortfattat och ogenomtänkt och säger att han stödjer hbtq-rättigheter. Partisekreterare Maria Forsberg säger att Ali i dag delar partiets syn.",
+     "title": "V-ledamot ångrar inlägg om prideflaggor",
+     "weak": false
+    }
+   ]
+  },
+  {
+   "id": "utrikes",
+   "items": [
+    {
+     "assessment": "SVT/TT, AP, Xinhua, CNN och Rio Times bekräftar avsättningen. Uppgifterna om röstsiffrorna skiljer sig något. Peña kritiserar processen som orättvis och är misstänkt, inte dömd.",
+     "independentSources": 5,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "SVT",
+       "url": "https://www.svt.se/nyheter/utrikes/paraguays-president-avsatt-kan-atalas"
+      },
+      {
+       "name": "AP (via WSLS)",
+       "url": "https://www.wsls.com/news/2026/11/06/paraguays-pena-loses-top-aides-as-impeachment-trial-resumes-over-failed-bank/"
+      },
+      {
+       "name": "Rio Times",
+       "url": "https://www.riotimesonline.com/paraguay-senate-removes-pena-alliana-sworn-in-2026/"
+      },
+      {
+       "name": "Tribune India (ANI/CNN)",
+       "url": "https://www.tribuneindia.com/news/impeachment/paraguay-senate-votes-to-impeach-prez-santiago-pena-over-bank-collapse-vp-sworn-in"
+      },
+      {
+       "name": "China Daily (Xinhua)",
+       "url": "https://www.chinadailyasia.com/hk/article/642375"
+      }
+     ],
+     "summary": "Paraguays senat avsatte president Santiago Peña i en snabb riksrättsprocess efter kollapsen för den digitala banken Ueno Bank, som frös sparpengar för nästan tre miljoner kunder. Vicepresident Pedro Alliana svors in kort därefter. Peña har satts i husarrest och en domstolsförhandling hålls på lördagen.",
+     "title": "Paraguays president avsatt av senaten",
+     "weak": false
+    },
+    {
+     "assessment": "AP, CBS och NPR bekräftar utnämningen; det officiella skälet till Wiles avgång är oklart. Bevakningen kommer framför allt från amerikanska medier, och några senatslopp (Alaska, Mississippi) är fortfarande oavgjorda.",
+     "independentSources": 3,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "AP (via WRAL)",
+       "url": "https://www.wral.com/news/ap/95690-susie-wiles-trumps-longest-serving-white-house-chief-of-staff-is-leaving-the-administration/"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/"
+      },
+      {
+       "name": "NPR",
+       "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff"
+      },
+      {
+       "name": "Yahoo News",
+       "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+      }
+     ],
+     "summary": "Efter republikanernas förluster i mellanårsvalet har Donald Trump utsett Stephen Miller, arkitekten bakom hans migrationspolitik, till stabschef efter Susie Wiles. Enligt de senaste rösträkningarna har Demokraterna tagit kontroll över både senaten och representanthuset, där några lopp fortfarande är oavgjorda. Demokrater kritiserar utnämningen, och flera medier tolkar den som att Trump håller fast vid sin linje snarare än att närma sig motståndarna.",
+     "title": "Stephen Miller blir Vita husets stabschef",
+     "weak": false
+    },
+    {
+     "assessment": "AP, RFE/RL, TRT World och Middle East Monitor (med ryska källor) bekräftar attackerna och samtalsdatumet. Antalet robotar och dödsoffer skiljer sig mellan källorna, och de ryska uppgifterna om nedskjutna drönare är obekräftade.",
+     "independentSources": 4,
+     "reliability": "medel",
+     "sources": [
+      {
+       "name": "AP (via KSAT)",
+       "url": "https://www.ksat.com/news/world/2026/11/07/missiles-target-kyiv-and-injure-5-as-ukraine-prepares-for-talks-with-russia-and-the-us/"
+      },
+      {
+       "name": "RFE/RL",
+       "url": "https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html"
+      },
+      {
+       "name": "Middle East Monitor",
+       "url": "https://www.middleeastmonitor.com/20261106-putin-confirms-russia-us-ukraine-talks-scheduled-for-next-tuesday-in-abu-dhabi/"
+      },
+      {
+       "name": "TRT World",
+       "url": "https://www.trtworld.com/article/2e8d1745001d"
+      }
+     ],
+     "summary": "Ryssland angrep natten till lördag främst Kyivregionen med ett stort antal drönare och robotar; minst fem personer skadades och el, värme och vatten slogs ut på flera håll. Attacken kom dagen efter att Vladimir Putin bekräftat att nya samtal mellan Ryssland, Ukraina och USA inleds i Abu Dhabi på tisdag. Ukraina har samtidigt angripit mål i Ryssland, bland annat ett raffinaderi i Saratov.",
+     "title": "Ryska attacker mot Kyiv inför samtal i Abu Dhabi",
+     "weak": false
+    }
+   ]
+  }
+ ],
+ "watch": "Fredag 13 november, när Centerpartiet väntar sig M:s och S:s erbjudanden, kan avgöra regeringsfrågan. Samma vecka pågår COP31 och fredssamtalen i Abu Dhabi."
+}

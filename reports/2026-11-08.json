@@ -1,0 +1,302 @@
+{
+ "date": "2026-11-08",
+ "generatedAt": "2026-11-08T08:33:45+01:00",
+ "lede": "En masskjutning i Kraków med sex döda och misstänkta högerextrema motiv präglar dygnet, samtidigt som Netanyahus rival Gadi Eisenkot får första chansen att bilda regering i Israel. I Sverige fortsätter regeringssamtalen över helgen och i morgon inleds klimatmötet COP31 i Antalya.",
+ "sections": [
+  {
+   "id": "teknik",
+   "items": [
+    {
+     "assessment": "AP, CNN, NBC och NPR är samstämmiga om förloppet, men uppskattningarna av torsdagens värdebortfall skiljer sig (2–3 biljoner dollar). Orsakssambandet är marknadstolkning, inte ett fastslaget faktum.",
+     "independentSources": 4,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "AP via The Business Journal",
+       "url": "https://thebusinessjournal.com/ai-stocks-rebound-worldwide-sell-off/"
+      },
+      {
+       "name": "NBC News",
+       "url": "https://www.nbcnews.com/business/markets/global-markets-tech-stocks-ai-midterms-democrats-asia-europe-rcna607794"
+      },
+      {
+       "name": "CNN",
+       "url": "https://www.cnn.com/2026/11/05/investing/tech-heavy-nasdaq-plunges"
+      },
+      {
+       "name": "NPR",
+       "url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections"
+      }
+     ],
+     "summary": "S&P 500 steg 0,3 procent på fredagen men föll 2,7 procent under veckan, den största veckonedgången sedan tullchocken i april 2025. Oron gäller att Demokraternas seger i mellanårsvalet, bland annat guvernörsposten i datacentertäta Texas, kan bromsa utbyggnaden av AI-infrastruktur. Vissa analytiker kallar nedgången överdriven medan andra väntar sig fortsatt turbulens.",
+     "title": "AI-bolagen bakom värsta börsveckan sedan april 2025",
+     "weak": false
+    },
+    {
+     "assessment": "Bygger främst på Reuters och Bloomberg med anonyma källor; 24/7 Wall St uppger att OpenAI:s finanschef bekräftat värderingen. Uppgifterna om Anthropic spretar från 1,1 till 1,5 biljoner dollar. Obs: Anthropic är företaget bakom Claude, som har skrivit denna sammanställning.",
+     "independentSources": 2,
+     "reliability": "medel",
+     "sources": [
+      {
+       "name": "TechCrunch (om Bloombergs uppgifter)",
+       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+      },
+      {
+       "name": "American Bazaar (om Reuters uppgifter)",
+       "url": "https://americanbazaaronline.com/2026/11/07/openai-raises-11-billion-at-1-25-trillion-valuation-491769/"
+      },
+      {
+       "name": "24/7 Wall St",
+       "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
+      }
+     ],
+     "summary": "OpenAI har enligt uppgifter tagit in 11 miljarder dollar i en första del av en finansieringsrunda som värderar bolaget till 1,25 biljoner dollar, under de ursprungliga målen på upp till 30 miljarder dollar och en högre värdering. Även investerarnas förväntningar på konkurrenten Anthropics börsnotering ska ha sjunkit efter veckans börsfall. Rundan väntas stängas de kommande veckorna och kan enligt Bloomberg landa på omkring 20 miljarder dollar.",
+     "title": "OpenAI tar in 11 miljarder dollar till lägre värdering än planerat",
+     "weak": true
+    },
+    {
+     "assessment": "Granskningen är SVT:s egen, medan själva attackerna är väl belagda av bland annat Reuters och TV4. Ansvarsfrågan är obekräftad; även Truesec har tidigare ifrågasatt gruppernas anspråk.",
+     "independentSources": 2,
+     "reliability": "medel",
+     "sources": [
+      {
+       "name": "SVT Verifierar",
+       "url": "https://www.svt.se/nyheter/inrikes/hackergruppernas-mystiska-bevis-for-frysattackerna-sagas"
+      },
+      {
+       "name": "TV4",
+       "url": "https://www.tv4.se/artikel/66R5BkJ3UrbeYw1PATImLk/uppgifter-proyska-hackare-tar-pa-sig-frysattackerna"
+      },
+      {
+       "name": "Bulletin",
+       "url": "https://bulletin.nu/gamla-frysar-raddade-butik-fran-hackerattack"
+      },
+      {
+       "name": "Reuters via News Tribune",
+       "url": "https://www.newstribune.com/news/2026/nov/03/new-cyberattack-on-supermarket-fridges-sweeps-across-europe/"
+      }
+     ],
+     "summary": "Den proryska hackergruppen NoName057(16) har publicerat filer med mejladresser och lösenord som bevis för att ligga bakom attackerna mot butikernas kyl- och frysanläggningar i Europa i början av november. SVT:s granskning visar att adresserna förekommit i tidigare dataläckor, och säkerhetsexperter säger att materialet inte bevisar att några inställningar ändrats. Vem som låg bakom attackerna, som drabbade flera svenska butiker, är fortfarande oklart.",
+     "title": "SVT: Hackergruppens ”bevis” för frysattackerna håller inte",
+     "weak": true
+    }
+   ]
+  },
+  {
+   "id": "hallbarhet",
+   "items": [
+    {
+     "assessment": "AFP, Reuters, AP och ABC ger samma bild av agenda och konfliktlinjer, medan uppgifterna om framgångsutsikter är bedömningar från parter och experter. Dagens elandel anges olika (cirka 20–23 procent) beroende på källa och beräkning.",
+     "independentSources": 4,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "AFP via Jakarta Post",
+       "url": "https://www.thejakartapost.com/world/2026/11/08/cop31-faces-tough-test-as-climate-threats-mount"
+      },
+      {
+       "name": "Reuters via KSEV",
+       "url": "https://ksevradio.com/turkish-villagers-demand-cop31-leaders-see-for-themselves-devastation-caused-by-coal/"
+      },
+      {
+       "name": "AP via NBC News",
+       "url": "https://www.nbcnews.com/science/climate-change/un-climate-talks-cop-31-disasters-energy-price-shocks-heat-rcna607881"
+      },
+      {
+       "name": "ABC News",
+       "url": "https://abcnews.com/US/cop31-international-climate-conference-begins-monday/story?id=137885179"
+      },
+      {
+       "name": "Copernicus",
+       "url": "https://climate.copernicus.eu/copernicus-warmest-october-record-2026-virtually-certain-exceed-15degc"
+      }
+     ],
+     "summary": "Nästan 200 länder samlas från måndag i Turkiet, där Australien leder förhandlingarna, och värden driver målet att el ska stå för 35 procent av världens energianvändning 2035. Striderna väntas gälla klimatfinansiering och fossila bränslen, medan USA:s regering inte deltar i förhandlingarna; däremot kommer en kongressdelegation samt delstats- och kommunpolitiker. Mötet inleds efter att Copernicus i fredags rapporterade varmaste oktober som uppmätts.",
+     "title": "COP31 öppnar i Antalya med låga förväntningar på genombrott",
+     "weak": false
+    },
+    {
+     "assessment": "AP, TT, Euronews och The Register bekräftar att protesterna ägde rum. Deltagar- och gripandetal kommer från enstaka uppgiftslämnare, och uppgifter om antal länder och syften härrör delvis från arrangörerna.",
+     "independentSources": 4,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "TT via Sweden Herald",
+       "url": "https://swedenherald.com/article/protests-against-data-centers-take-place-across-europe-from-finland-to-france"
+      },
+      {
+       "name": "AP via CTV News",
+       "url": "https://www.ctvnews.ca/sci-tech/article/protesters-break-into-microsoft-data-centre-site-in-amsterdam-as-europes-backlash-spreads/"
+      },
+      {
+       "name": "Euronews",
+       "url": "https://www.euronews.com/2026/11/05/protesters-across-europe-to-call-for-freeze-on-energy-hungry-data-centres"
+      },
+      {
+       "name": "The Register",
+       "url": "https://www.theregister.com/a/5307790"
+      }
+     ],
+     "summary": "Över hundra organisationer stod under fredagen och lördagen bakom samordnade protester mot stora datacenter under parollen Stop Dirty Data Centres, med krav på ett omedelbart moratorium. I Amsterdam tog sig demonstranter in på Microsofts byggarbetsplats och upp till 200 greps, medan upp till 1 500 personer marscherade i Helsingfors enligt Yle. Bakgrunden är oro för energi- och vattenförbrukning när AI-utbyggnaden ökar.",
+     "title": "Protester mot datacenter i flera europeiska länder",
+     "weak": false
+    }
+   ]
+  },
+  {
+   "id": "inrikes",
+   "items": [
+    {
+     "assessment": "Beskeden är dokumenterade av riksdagen och samstämmigt rapporterade av SVT, Sveriges Radio, TV4 och GP, men kom på fredagseftermiddagen och alltså strax före det senaste dygnet. Inga nya formella besked från helgen har hittats, och utfallet är öppet.",
+     "independentSources": 4,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "Sveriges riksdag",
+       "url": "https://www.riksdagen.se/sv/aktuellt/aktuelltnotiser/2026/nov/6/talmannen-forlanger-ulf-kristerssons_cmsaf0961e5-8ddf-4cc8-844a-b1d95411414asv/"
+      },
+      {
+       "name": "SVT",
+       "url": "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026"
+      },
+      {
+       "name": "Sveriges Radio Ekot",
+       "url": "https://www.sverigesradio.se/artikel/centerpartiet-kraver-regeringsbesked-av-andersson-och-kristersson"
+      },
+      {
+       "name": "TV4",
+       "url": "https://www.tv4.se/artikel/4VkqT6X8HbvyDF7zqZEhUI/skulle-kunna-goera-uppgiften-lite-mindre-omoejlig"
+      },
+      {
+       "name": "Göteborgs-Posten",
+       "url": "https://www.gp.se/politik/centerpartiet-kraver-totalpaket-av-m-och-s-pa-en-vecka.a68c2af2-bf70-5dbf-9b26-035f90283906"
+      },
+      {
+       "name": "Omni (om TV4:s uppgifter om C:s sakpolitik)",
+       "url": "https://www.pressen.se/1371676219.html"
+      }
+     ],
+     "summary": "Sverigedemokraterna har släppt kravet på ministerposter och säger sig beredda att lägga ned rösterna för Ulf Kristersson (M) i en borgerlig fyrpartiregering. Centerpartiet kräver senast fredag ett ”totalpaket” av både M och S, inklusive hur SD:s respektive V:s inflytande ska begränsas, och S säger att beskeden inte ändrar de parlamentariska förutsättningarna. Talmannen har förlängt Kristerssons sonderingsuppdrag och nytt rapportdatum ska meddelas.",
+     "title": "Regeringsfrågan: samtalen fortsätter över helgen efter SD:s och C:s nya besked",
+     "weak": false
+    },
+    {
+     "assessment": "Spridd i många medier men bygger på samma TT-text med siffror från Arbetsmiljöverket, så det är i praktiken en källa. Anmälningar speglar inte nödvändigtvis det faktiska våldet och exakta siffror har inte kunnat kontrolleras här.",
+     "independentSources": 1,
+     "reliability": "medel",
+     "sources": [
+      {
+       "name": "TT via Pressen.se (samlad händelse)",
+       "url": "https://www.pressen.se/handelse/1371676262/"
+      },
+      {
+       "name": "Omni",
+       "url": "https://www.pressen.se/1371676313.html"
+      }
+     ],
+     "summary": "Skolornas anmälningar om våld till Arbetsmiljöverket är enligt färsk statistik rekordmånga i år, rapporterar TT. Skyddsombud och lärare beskriver läget som ett växande problem, med elever som utövar våld.",
+     "title": "Rekordmånga anmälningar om våld i skolan",
+     "weak": true
+    }
+   ]
+  },
+  {
+   "id": "utrikes",
+   "items": [
+    {
+     "assessment": "AP, CNN, CBS och ABC är samstämmiga om dödstal och förlopp, medan antalet skadade växlat något under dygnet och åldern anges olika (24 eller 25 år). Motivet är myndigheternas uppgift och utredningen pågår.",
+     "independentSources": 4,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "AP via CTV News",
+       "url": "https://www.ctvnews.ca/world/article/krakow-gunman-who-killed-6-injured-15-in-poland-shooting-held-very-radical-far-right-views/"
+      },
+      {
+       "name": "CNN",
+       "url": "https://www.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/"
+      },
+      {
+       "name": "ABC News",
+       "url": "https://abcnews.com/International/5-killed-injured-shooting-polish-market-square/story?id=137941731"
+      }
+     ],
+     "summary": "En polsk man öppnade på lördagen eld från en bil på Stora torget i Kraków, dödade sex personer och skadade minst 15 innan polisen sköt och skadade honom. Polska myndigheter fann därefter tre döda i hans hem, troligen familjemedlemmar. Polens försvarsminister kallar dådet en terrorhandling och enligt en minister hade mannen ultranationalistiska åsikter.",
+     "title": "Masskjutning i Kraków: sex döda, tre till funna i gärningsmannens hem",
+     "weak": false
+    },
+    {
+     "assessment": "NPR, Fox News och Reuters ger samma siffror och förlopp. Stödet för Eisenkot inkluderar arabiska partier som han hittills uteslutit att regera med, så regeringsfrågan är långt ifrån avgjord.",
+     "independentSources": 3,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "NPR",
+       "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
+      },
+      {
+       "name": "Fox News",
+       "url": "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms"
+      },
+      {
+       "name": "Reuters via Devdiscourse",
+       "url": "https://www.devdiscourse.com/article/international/4002324-netanyahu-weakened-as-rival-eisenkot-secures-broad-backing-to-try-to-form-government"
+      }
+     ],
+     "summary": "President Isaac Herzog har utsett oppositionsledaren Gadi Eisenkot att försöka bilda regering, efter att partier med 67 av Knessets 120 mandat rekommenderat honom. Likud blev största parti med 27 mandat mot 21 för Eisenkots Yashar, men ingen sida har en självklar majoritet. Eisenkot får formellt uppdraget på söndagen och har 28 dagar på sig, med möjlig förlängning på 14 dagar.",
+     "title": "Eisenkot får första chansen att bilda regering i Israel",
+     "weak": false
+    },
+    {
+     "assessment": "Attackerna bekräftas av flera oberoende redaktioner och av båda parter. Antalet robotar och drönare kommer från ukrainsk sida, och uppgifterna om offer skiljer sig mellan källor (minst nio skadade respektive minst två döda och omkring tolv skadade).",
+     "independentSources": 3,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "AP via Anchorage Daily News",
+       "url": "https://www.adn.com/nation-world/2026/11/07/russian-drone-and-missile-attacks-strike-ukraine-ahead-of-peace-talks-with-us/"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
+      },
+      {
+       "name": "TT via Sweden Herald",
+       "url": "https://swedenherald.com/article/at-least-five-injured-in-russian-attacks-on-kyiv-major-bridge-damaged"
+      }
+     ],
+     "summary": "Ryska robotar och drönare skadade ukrainsk energiinfrastruktur och en viktig bro i Kyiv natten mot lördagen, dagar före USA-medlade samtal i Abu Dhabi på tisdag. President Volodymyr Zelenskyj anklagar Ryssland för att trappa upp för att sätta press på Ukraina, medan ryska försvarsministeriet säger att målen var militärindustri, energi och transport.",
+     "title": "Ryska anfall mot Ukraina inför samtalen i Abu Dhabi",
+     "weak": false
+    },
+    {
+     "assessment": "AFP, Al Jazeera med Reuters-material och public service-bolaget RNZ är samstämmiga. Siffrorna är preliminära och slutresultatet kan ändra majoritetsbilden.",
+     "independentSources": 3,
+     "reliability": "hog",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results"
+      },
+      {
+       "name": "AFP via France 24",
+       "url": "https://www.france24.com/en/live-news/20261107-new-zealand-counts-the-votes-in-knife-edge-poll"
+      },
+      {
+       "name": "RNZ",
+       "url": "https://www.rnz.co.nz/news/election-2026-results/electorates"
+      }
+     ],
+     "summary": "I det preliminära resultatet har regeringskoalitionen 67 av 131 mandat, ett över majoritetsgränsen, medan National och Labour båda fått runt 29 procent. Premiärminister Christopher Luxon säger att läget är för jämnt för att avgöra, och oppositionsledaren Chris Hipkins pekar på att kompromisser krävs. Omkring 14 procent av rösterna, som brukar gynna vänstersidan, är ännu oräknade fram till slutresultatet den 27 november.",
+     "title": "Jämnt val i Nya Zeeland – regeringssidan leder preliminärt",
+     "weak": false
+    }
+   ]
+  }
+ ],
+ "watch": "Veckan rymmer flera avgörande datum: Abu Dhabi-samtalen om Ukraina på tisdag, den svenska övergångsbudgeten den 12 november och Centerpartiets krav på svar från M och S senast den 13 november."
+}
