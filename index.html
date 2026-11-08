@@ -23,7 +23,8 @@
 :root{
   --bg:#F2F4F8; --surface:#FFFFFF; --ink:#141A24; --muted:#5A6476; --line:#DCE1EA; --accent:#2446C9; --accent-ink:#FFFFFF;
   --teknik:#6247D8; --hallbarhet:#0F8577; --inrikes:#2E6BD1; --utrikes:#B4447E;
-  --hog:#2B8A3E; --medel:#B7791F; --lag:#C23B2E;
+  --hog:#2B8A3E; --medel:#B7791F; --lag:#C23B2E; --bg-back:#E6EAF3;
+  --k1:#2446C9; --k2:#0F8577; --k3:#B7791F; --k4:#B4447E; --k5:#6B7385;
   --display:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
   --body:"Newsreader", Georgia, "Times New Roman", serif;
   --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
@@ -31,14 +32,16 @@
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --bg:#0E1219; --surface:#161B24; --ink:#E6EAF1; --muted:#9AA3B4; --line:#262E3D; --accent:#8EA6FF; --accent-ink:#0E1219;
   --teknik:#A796FF; --hallbarhet:#4CC7B4; --inrikes:#7FA9F2; --utrikes:#E58BB8;
-  --hog:#5BC170; --medel:#E3AE52; --lag:#F07A6C; color-scheme:dark;}}
+  --hog:#5BC170; --medel:#E3AE52; --lag:#F07A6C; --bg-back:#141B29;
+  --k1:#8EA6FF; --k2:#4CC7B4; --k3:#E3AE52; --k4:#E58BB8; --k5:#8A93A6; color-scheme:dark;}}
 :root[data-theme="dark"]{
   --bg:#0E1219; --surface:#161B24; --ink:#E6EAF1; --muted:#9AA3B4; --line:#262E3D; --accent:#8EA6FF; --accent-ink:#0E1219;
   --teknik:#A796FF; --hallbarhet:#4CC7B4; --inrikes:#7FA9F2; --utrikes:#E58BB8;
-  --hog:#5BC170; --medel:#E3AE52; --lag:#F07A6C; color-scheme:dark;}
+  --hog:#5BC170; --medel:#E3AE52; --lag:#F07A6C; --bg-back:#141B29;
+  --k1:#8EA6FF; --k2:#4CC7B4; --k3:#E3AE52; --k4:#E58BB8; --k5:#8A93A6; color-scheme:dark;}
 
 *{box-sizing:border-box}
-body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.55}
+body{transition:background .3s;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.55}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
 .wrap{max-width:760px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 a{color:inherit}
@@ -110,6 +113,38 @@ article p{margin:0;max-width:65ch}
 .watch{padding:16px 18px;border-radius:14px;border:1px dashed var(--accent);display:grid;gap:6px}
 .watch h2{margin:0;font-family:var(--mono);font-size:12px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
 .watch p{margin:0}
+/* Baksidan */
+.sidebar{display:flex;align-items:center;gap:10px}
+.sidebar .strip{flex:1;min-width:0}
+.flip{flex:none;display:inline-flex;align-items:center;gap:6px;padding:8px 12px;border-radius:999px;border:1px solid var(--accent);background:var(--surface);color:var(--accent);font-family:var(--mono);font-size:12px;font-weight:500;letter-spacing:.04em;cursor:pointer}
+.flip[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.flip svg{width:14px;height:14px}
+body.back{--bg:var(--bg-back)}
+.backhead{display:grid;gap:6px}
+.backhead .eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+.backhead h2{margin:0;font-family:var(--display);font-size:20px}
+.backhead p{margin:0;color:var(--muted);max-width:60ch}
+.tag{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:3px 8px;border-radius:6px;background:var(--line);color:var(--ink)}
+.why{font-size:15.5px;border-left:2px solid var(--accent);padding-left:12px}
+.why b{font-family:var(--mono);font-weight:500;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-right:6px}
+.rota{display:flex;flex-wrap:wrap;gap:6px;font-family:var(--mono);font-size:11px;color:var(--muted)}
+.rota span{padding:3px 8px;border-radius:6px;border:1px solid var(--line)}
+.rota span.on{border-color:var(--accent);color:var(--accent)}
+.bias{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 18px;display:grid;grid-template-columns:minmax(0,1fr);gap:16px;min-width:0}
+.bias .lead{margin:0;font-size:16px}
+.metric{display:grid;gap:6px;min-width:0}
+.metric .lbl{display:flex;justify-content:space-between;gap:10px;font-family:var(--mono);font-size:12px;color:var(--muted)}
+.metric .lbl b{color:var(--ink);font-weight:500}
+.sbar{display:flex;height:10px;border-radius:5px;overflow:hidden;gap:2px;background:var(--line)}
+.sbar span{display:block;min-width:3px}
+.keys{display:flex;flex-wrap:wrap;gap:4px 12px;font-family:var(--mono);font-size:11px;color:var(--muted)}
+.keys span{display:inline-flex;align-items:center;gap:5px}
+.keys i{width:9px;height:9px;border-radius:2px}
+.toplist{margin:0;padding:0;list-style:none;display:grid;gap:4px;font-family:var(--mono);font-size:12px}
+.toplist li{display:flex;justify-content:space-between;gap:10px;border-bottom:1px dashed var(--line);padding-bottom:3px}
+.toplist li span:first-child{min-width:0;overflow-wrap:anywhere}
+.note{font-family:var(--mono);font-size:11px;color:var(--muted);margin:0}
+@media (prefers-reduced-motion:no-preference){.flipping{animation:flipin .45s cubic-bezier(.2,.7,.2,1) both}@keyframes flipin{from{transform:perspective(1400px) rotateY(-80deg);opacity:0}to{transform:none;opacity:1}}}
 
 .state{padding:40px 0;display:grid;gap:10px;max-width:52ch}
 .state h2{margin:0;font-family:var(--display);font-size:22px}
@@ -135,7 +170,10 @@ img{max-width:100%}
       </div>
       <button class="navbtn" id="next" aria-label="Nästa dag" disabled>›</button>
     </div>
-    <nav class="strip" id="strip" aria-label="Välj dag"></nav>
+    <div class="sidebar">
+      <nav class="strip" id="strip" aria-label="Välj dag"></nav>
+      <button class="flip" id="flip" aria-pressed="false"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13.5 6.5A5.5 5.5 0 0 0 3.2 4.8M2.5 9.5a5.5 5.5 0 0 0 10.3 1.7"/><path d="M3 2v3h3M13 14v-3h-3"/></svg><span>Baksidan</span></button>
+    </div>
   </div>
 </header>
 
@@ -177,16 +215,43 @@ function renderStrip(){
     const d=parseDate(r.date);
     return `<button class="chip" data-d="${esc(r.date)}" aria-current="${r.date===current}" aria-label="${esc(longDate(r.date))}">
       ${DAYS[d.getDay()]}<b>${d.getDate()}</b>${read.has(r.date)||r.date===current?"":'<span class="unread"></span>'}</button>`}).join("");
-  const cur=$("#strip [aria-current=true]"); if(cur) cur.scrollIntoView({inline:"nearest",block:"nearest"});
+  const cur=$("#strip [aria-current=true]"); if(cur){const st=$("#strip");const l=cur.offsetLeft-st.offsetLeft;if(l<st.scrollLeft||l+cur.offsetWidth>st.scrollLeft+st.clientWidth)st.scrollLeft=l-8}
   const i=reports.findIndex(r=>r.date===current);
   $("#prev").disabled=i<0||i>=reports.length-1;
   $("#next").disabled=i<=0;
+}
+
+const ROTATION=["Något udda eller hoppfullt","Afrika","Vetenskap","Latinamerika","Kultur","Asien och Oceanien","Något udda eller hoppfullt"];
+const KINDS=[["public","Public service","--k1"],["kommersiell","Kommersiell media","--k2"],["nyhetsbyra","Nyhetsbyrå","--k3"],["myndighet","Myndighet / organisation","--k4"],["ovrigt","Blogg / övrigt","--k5"]];
+let side="front";
+
+function itemHTML(it,extra=""){
+  const k=relKey(it.reliability);
+  const n=Number(it.independentSources)||(it.sources||[]).length||0;
+  const dots=Array.from({length:Math.max(3,n)},(_,i)=>`<i class="${i<n?"on":""}"></i>`).join("");
+  const src=(it.sources||[]).map(x=>{const u=safeUrl(x.url);return u?`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(x.name||new URL(u).hostname)}</a>`:""}).join("");
+  return `<article>
+    ${extra}
+    <h3>${esc(it.title)}</h3>
+    <div class="signals">
+      <span class="pill" style="--r:var(--${k})">${REL[k]} tillförlitlighet</span>
+      <span class="dots" title="Antal oberoende källor">${dots} ${n} oberoende ${n===1?"källa":"källor"}</span>
+      ${it.weak?'<span class="weak">Svagare underlag</span>':""}
+    </div>
+    <p>${esc(it.summary)}</p>
+    ${it.why?`<p class="why"><b>Därför värt att veta</b>${esc(it.why)}</p>`:""}
+    ${it.assessment?`<p class="assess"><b>Källkritik</b>${esc(it.assessment)}</p>`:""}
+    ${src?`<div class="sources">${src}</div>`:""}
+  </article>`;
 }
 
 function render(){
   const r=reports.find(x=>x.date===current);
   if(!r){state("Ingen rapport för den dagen","Välj en annan dag i listan ovan.");return}
   $("#dayTitle").textContent=longDate(r.date);
+  document.body.classList.toggle("back",side==="back");
+  $("#flip").setAttribute("aria-pressed",String(side==="back"));
+  $("#flip span").textContent=side==="back"?"Framsidan":"Baksidan";
   if(!r.sections){
     renderStrip();
     if(r.failed){state("Rapporten kunde inte laddas","Kontrollera uppkopplingen och ladda om sidan.");return}
@@ -195,6 +260,11 @@ function render(){
     return;
   }
   markRead(r.date);
+  if(side==="back") renderBack(r); else renderFront(r);
+  renderStrip();
+}
+
+function renderFront(r){
   const secs=BEATS.map(b=>({...b,items:((r.sections||[]).find(s=>s.id===b.id)||{}).items||[]}));
   let gen="";
   if(r.generatedAt){const g=new Date(r.generatedAt);if(!isNaN(g))gen=`Sammanställd ${g.toLocaleTimeString("sv-SE",{hour:"2-digit",minute:"2-digit"})}`}
@@ -211,22 +281,7 @@ function render(){
   const sections=empty+shown.filter(s=>s.items.length).map(s=>`
     <section class="beatsec" id="sec-${s.id}" style="--c:var(--${s.id})">
       <div class="sechead"><h2>${s.name}</h2><span>${s.items.length} ${s.items.length===1?"nyhet":"nyheter"}</span></div>
-      ${s.items.map(it=>{
-        const k=relKey(it.reliability);
-        const n=Number(it.independentSources)||(it.sources||[]).length||0;
-        const dots=Array.from({length:Math.max(3,n)},(_,i)=>`<i class="${i<n?"on":""}"></i>`).join("");
-        const src=(it.sources||[]).map(x=>{const u=safeUrl(x.url);return u?`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(x.name||new URL(u).hostname)}</a>`:""}).join("");
-        return `<article>
-          <h3>${esc(it.title)}</h3>
-          <div class="signals">
-            <span class="pill" style="--r:var(--${k})">${REL[k]} tillförlitlighet</span>
-            <span class="dots" title="Antal oberoende källor">${dots} ${n} oberoende ${n===1?"källa":"källor"}</span>
-            ${it.weak?'<span class="weak">Svagare underlag</span>':""}
-          </div>
-          <p>${esc(it.summary)}</p>
-          ${it.assessment?`<p class="assess"><b>Källkritik</b>${esc(it.assessment)}</p>`:""}
-          ${src?`<div class="sources">${src}</div>`:""}
-        </article>`}).join("")}
+      ${s.items.map(it=>itemHTML(it)).join("")}
     </section>`).join("");
   $("#view").innerHTML=`
     <div class="meta"><span>${total} nyheter</span>${gen?`<span>${gen}</span>`:""}<span>Senaste dygnet</span>${reports.length===1?"<span>Första rapporten i arkivet, fler dagar fylls på varje morgon</span>":""}</div>
@@ -236,16 +291,84 @@ function render(){
       <div class="legend"><span><i style="background:var(--hog)"></i>Hög</span><span><i style="background:var(--medel)"></i>Medel</span><span><i style="background:var(--lag)"></i>Låg tillförlitlighet</span>${filter?'<button class="showall" data-all>Visa alla områden</button>':""}</div>
     </div>
     ${sections}
-    ${r.watch?`<div class="watch"><h2>Att bevaka</h2><p>${esc(r.watch)}</p></div>`:""}`;
-  renderStrip();
+    ${r.watch?`<div class="watch"><h2>Att bevaka</h2><p>${esc(r.watch)}</p></div>`:""}
+    <button class="flip" data-flipback style="justify-self:start">Vänd till baksidan: det du annars missar</button>`;
+}
+
+// Källornas ursprung: fälten country/kind/owner i rapporten, annars en gissning från adressen (.se = svensk)
+function srcInfo(x){
+  let host="";try{host=new URL(x.url).hostname.replace(/^www\./,"")}catch{}
+  const country=String(x.country||(/\.se$/.test(host)?"SE":"")).toUpperCase();
+  const kind=KINDS.some(k=>k[0]===x.kind)?x.kind:null;
+  const owner=x.owner||x.name||host||"Okänd";
+  return {country,kind,owner};
+}
+function countryName(c){try{return new Intl.DisplayNames(["sv"],{type:"region"}).of(c)||c}catch{return c}}
+function biasHTML(r){
+  const all=[];(r.sections||[]).forEach(s=>(s.items||[]).forEach(it=>(it.sources||[]).forEach(x=>all.push(srcInfo(x)))));
+  if(!all.length) return "";
+  const n=all.length, pct=v=>Math.round(100*v/n);
+  const se=all.filter(a=>a.country==="SE").length, fo=n-se;
+  const countries={};all.filter(a=>a.country&&a.country!=="SE").forEach(a=>countries[a.country]=(countries[a.country]||0)+1);
+  const topC=Object.entries(countries).sort((a,b)=>b[1]-a[1]).slice(0,4);
+  const owners={};all.forEach(a=>owners[a.owner]=(owners[a.owner]||0)+1);
+  const own=Object.entries(owners).sort((a,b)=>b[1]-a[1]);
+  const kinds={};all.forEach(a=>{if(a.kind)kinds[a.kind]=(kinds[a.kind]||0)+1});
+  const kindKnown=Object.values(kinds).reduce((x,y)=>x+y,0);
+  const lead=`${pct(se)} % av framsidans ${n} källänkar kommer från svenska medier och ${100-pct(se)} % från utländska. De fördelar sig på ${own.length} olika källor, och den mest använda (${esc(own[0][0])}) står för ${own[0][1]} av dem.`;
+  const kindBlock=kindKnown?`<div class="metric"><div class="lbl"><span>Typ av källa</span><b>${kindKnown} av ${n} klassade</b></div>
+      <div class="sbar">${KINDS.filter(k=>kinds[k[0]]).map(k=>`<span style="flex:${kinds[k[0]]};background:var(${k[2]})"></span>`).join("")}</div>
+      <div class="keys">${KINDS.filter(k=>kinds[k[0]]).map(k=>`<span><i style="background:var(${k[2]})"></i>${k[1]} ${kinds[k[0]]}</span>`).join("")}</div></div>`
+    :`<p class="note">Typ av källa (public service, kommersiell media, nyhetsbyrå …) visas från och med rapporter som klassar sina källor.</p>`;
+  return `<section class="bias" aria-label="Framsidans källor">
+    <div class="backhead"><span class="eyebrow">Ögonöppnaren</span><h2>Så ser framsidans urval ut</h2></div>
+    <p class="lead">${lead}</p>
+    <div class="metric"><div class="lbl"><span>Svenska och utländska källor</span><b>${se} / ${fo}</b></div>
+      <div class="sbar">${se?`<span style="flex:${se};background:var(--k1)"></span>`:""}${fo?`<span style="flex:${fo};background:var(--k4)"></span>`:""}</div>
+      <div class="keys"><span><i style="background:var(--k1)"></i>Svenska ${pct(se)} %</span><span><i style="background:var(--k4)"></i>Utländska ${100-pct(se)} %</span></div>
+      ${topC.length?`<ul class="toplist">${topC.map(([c,v])=>`<li><span>${esc(countryName(c))}</span><span>${v}</span></li>`).join("")}</ul>`:""}</div>
+    ${kindBlock}
+    <div class="metric"><div class="lbl"><span>Mest använda källor</span><b>${own.length} olika</b></div>
+      <ul class="toplist">${own.slice(0,5).map(([o,v])=>`<li><span>${esc(o)}</span><span>${v}</span></li>`).join("")}</ul></div>
+  </section>`;
+}
+
+function renderBack(r){
+  const bs=r.backside||{};
+  const must=bs.mustKnow||[];
+  const unk=bs.unknown||null;
+  const dow=parseDate(r.date).getDay();
+  const theme=(unk&&unk.theme)||ROTATION[dow];
+  const rota=[1,2,3,4,5,6,0].map(d=>`<span class="${d===dow?"on":""}">${DAYS[d]} · ${ROTATION[d]}</span>`).join("");
+  const missing=!r.backside?`<p class="note">Baksidans nyheter finns från och med rapporten den 9 november. Ögonöppnaren nedan fungerar för alla dagar.</p>`:"";
+  $("#view").innerHTML=`
+    <div class="backhead"><span class="eyebrow">Baksidan</span>
+      <p>Det som ligger utanför dina fyra områden: dygnets måsten, en nyhet från okänd mark och en blick på framsidans eget urval.</p></div>
+    ${missing}
+    ${must.length?`<section class="beatsec" style="--c:var(--accent)">
+      <div class="sechead"><h2>Inte att missa</h2><span>oavsett ämne</span></div>
+      ${must.map(it=>itemHTML(it,it.area?`<div><span class="tag">${esc(it.area)}</span></div>`:"")).join("")}
+    </section>`:""}
+    ${unk&&unk.item?`<section class="beatsec" style="--c:var(--utrikes)">
+      <div class="sechead"><h2>Okänd mark</h2><span>${esc(theme)}</span></div>
+      ${itemHTML(unk.item)}
+      <div class="rota" aria-label="Veckans teman">${rota}</div>
+    </section>`:""}
+    ${biasHTML(r)}`;
 }
 
 function go(d,push=true){current=d;if(push){try{history.replaceState(null,"","#"+d)}catch{location.hash=d}}render();window.scrollTo({top:0})}
+function flipTo(next){
+  side=next;render();window.scrollTo({top:0});
+  const v=$("#view");v.classList.remove("flipping");void v.offsetWidth;v.classList.add("flipping");
+}
+$("#flip").onclick=()=>flipTo(side==="back"?"front":"back");
 
 document.addEventListener("click",e=>{
   const chip=e.target.closest(".chip"); if(chip){go(chip.dataset.d);return}
   const b=e.target.closest("[data-beat]"); if(b){filter=filter===b.dataset.beat?null:b.dataset.beat;render();return}
   if(e.target.closest("[data-all]")){filter=null;render()}
+  if(e.target.closest("[data-flipback]")){flipTo("back")}
 });
 $("#prev").onclick=()=>{const i=reports.findIndex(r=>r.date===current);if(reports[i+1])go(reports[i+1].date)};
 $("#next").onclick=()=>{const i=reports.findIndex(r=>r.date===current);if(i>0)go(reports[i-1].date)};
