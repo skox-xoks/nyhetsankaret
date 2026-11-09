@@ -1,0 +1,389 @@
+{
+ "backside": {
+  "mustKnow": [
+   {
+    "area": "Säkerhet",
+    "assessment": "Dödssiffran och terrorutredningen stäms av flera redaktioner. Uppgifterna går isär om mannens ålder (24 eller 25 år) och om han lever: polska medier uppger både att han vårdas i allvarligt tillstånd och att han dött på sjukhus.",
+    "independentSources": 3,
+    "reliability": "medel",
+    "sources": [
+     {
+      "country": "PL",
+      "kind": "kommersiell",
+      "name": "TVN24",
+      "owner": "TVN",
+      "url": "https://tvn24.pl/krakow/krakow-strzelanina-na-rynku-glownym-najwazniejsze-fakty-st9328267"
+     },
+     {
+      "country": "PL",
+      "kind": "public",
+      "name": "Radio Kraków",
+      "owner": "Radio Kraków",
+      "url": "https://radiokrakow.pl/wiadomosci/krakow/strzelanina-na-rynku-glownym-prokuratura-zapowiada-sledztwo-w-sprawie-terroryzmu/187463"
+     },
+     {
+      "country": "US",
+      "kind": "kommersiell",
+      "name": "Newsweek",
+      "owner": "Newsweek",
+      "url": "https://www.newsweek.com/poland-shooting-5-dead-after-gunman-opens-fire-in-krakow-tourist-square-12681709"
+     }
+    ],
+    "summary": "Polska åklagare har inlett en utredning om skjutningen på Stora torget i Kraków i lördags, där sex personer dödades och 16 skadades, som ett brott av terroristisk karaktär. Föräldrarna och systern till den misstänkte hittades skjutna i familjens hem i Ostrowiec Świętokrzyski. Inrikesministern beskriver mannens åsikter som mycket radikala, men motivet är inte fastställt.",
+    "title": "Kraków: Åklagare utreder masskjutningen som terrorbrott",
+    "weak": false
+   },
+   {
+    "area": "Ekonomi",
+    "assessment": "Riktningen stäms av flera källor, men exakta siffror varierar med tidpunkten, och för Sydkoreas Kospi anges både uppgång och nedgång. AP är det starkaste underlaget, övriga två är mindre etablerade som marknadskällor.",
+    "independentSources": 3,
+    "reliability": "medel",
+    "sources": [
+     {
+      "country": "US",
+      "kind": "nyhetsbyra",
+      "name": "AP via News4Jax",
+      "owner": "Associated Press",
+      "url": "https://news4jax.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street"
+     },
+     {
+      "country": "TH",
+      "kind": "kommersiell",
+      "name": "Nation Thailand",
+      "owner": "Nation Thailand",
+      "url": "https://www.nationthailand.com/news/world/40073266"
+     },
+     {
+      "country": "IN",
+      "kind": "ovrigt",
+      "name": "HDFC Sky",
+      "owner": "HDFC Securities",
+      "url": "https://hdfcsky.com/news/global-markets-today-november-9-2026-asia-rises-us-futures-higher-oil-slips-to-98-as-easing-iran-tensions-lift-sentiment"
+     }
+    ],
+    "summary": "Flera asiatiska börser steg på måndagen efter förra veckans kraftiga fall för AI-aktier, med Taiwan som största vinnare tack vare chipjätten TSMC. Oljepriset föll tillbaka mot 97 dollar fatet efter Trumps uttalanden om Iran. På tisdag kommer ny amerikansk inflationsstatistik, som marknaden väntar på inför Federal Reserves nästa besked.",
+    "title": "Börserna i Asien återhämtar sig – oljan under 100 dollar",
+    "weak": false
+   }
+  ],
+  "unknown": {
+   "item": {
+    "assessment": "Slutresultaten kommer från valkommissionen och stäms av Reuters, Al Jazeera och eNCA. Den exakta koalitionsbilden är ännu oklar.",
+    "independentSources": 3,
+    "reliability": "hog",
+    "sources": [
+     {
+      "country": "GB",
+      "kind": "nyhetsbyra",
+      "name": "Reuters via Citi Newsroom",
+      "owner": "Thomson Reuters",
+      "url": "https://www.citinewsroom.com/2026/11/south-africas-anc-suffers-worst-ever-local-elections-result/"
+     },
+     {
+      "country": "QA",
+      "kind": "public",
+      "name": "Al Jazeera",
+      "owner": "Al Jazeera Media Network",
+      "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections"
+     },
+     {
+      "country": "ZA",
+      "kind": "kommersiell",
+      "name": "eNCA",
+      "owner": "eNCA",
+      "url": "https://www.enca.com/news-top-stories-videos/ramaphosa-says-anc-accepts-election-results-humility"
+     }
+    ],
+    "summary": "Det styrande ANC fick 30,76 procent i de sydafrikanska kommunalvalen, nästan 15 procentenheter lägre än 2021. Demokratiska alliansen fick 24,64 procent och Jacob Zumas MK 9,76 procent, och i Johannesburg leder DA stort med omkring 35 procent mot ANC:s 20. Partierna har nu 14 dagar på sig att förhandla fram koalitioner i de kommuner där ingen fått egen majoritet.",
+    "title": "ANC gör sitt sämsta val någonsin i Sydafrika",
+    "weak": false,
+    "why": "Partiet som styrt sedan apartheids fall tappar greppet om storstäderna, och det gör koalitionsstyre till vardag i ett av Afrikas tyngsta länder."
+   },
+   "theme": "Afrika"
+  }
+ },
+ "date": "2026-11-09",
+ "generatedAt": "2026-11-09T08:40:11+01:00",
+ "lede": "Magdalena Andersson vill bilda regering med C och MP men utan V, ett besked som Vänsterpartiet genast avvisar och som gör extraval till en allt tydligare möjlighet. I Antalya inleds klimatmötet COP31 samtidigt som Nvidias styrelse utreder vd:n Jensen Huang efter uppgifter om kinesisk underrättelseverksamhet.",
+ "sections": [
+  {
+   "id": "teknik",
+   "items": [
+    {
+     "assessment": "Att utredningen inletts är bekräftat av Nvidia själva och stäms av CBS och AP. Spionuppgifterna bygger däremot på anonyma källor i New York Times och är inte offentligt styrkta.",
+     "independentSources": 3,
+     "reliability": "hog",
+     "sources": [
+      {
+       "country": "US",
+       "kind": "ovrigt",
+       "name": "Nvidia (styrelsens uttalande)",
+       "owner": "Nvidia",
+       "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx"
+      },
+      {
+       "country": "US",
+       "kind": "kommersiell",
+       "name": "CBS News",
+       "owner": "CBS News",
+       "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/"
+      },
+      {
+       "country": "US",
+       "kind": "nyhetsbyra",
+       "name": "AP via News4Jax",
+       "owner": "Associated Press",
+       "url": "https://news4jax.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street"
+      }
+     ],
+     "summary": "Nvidias styrelse har tillsatt en utredning, ledd av oberoende ledamöter och externa jurister, efter uppgifter om att Jensen Huang varit måltavla för utländsk underrättelseverksamhet. New York Times har rapporterat om hans nära relation till en affärskvinna som enligt amerikansk underrättelsetjänst arbetat för Kina, och Huang har erkänt otrohet och bett om ursäkt. Styrelsen säger sig inte ha skäl att tro att företagshemligheter eller nationell säkerhet röjts, och Kina avfärdar uppgifterna som grundlösa.",
+     "title": "Nvidias styrelse utreder vd:n Jensen Huang efter spionuppgifter",
+     "weak": false
+    },
+    {
+     "assessment": "Bygger på FT:s och WSJ:s uppgifter från investerare, lästa via The Decoder och Financial News, och siffrorna skiljer sig något åt. Observera jäv: Anthropic har utvecklat Claude, den AI som sammanställt denna rapport.",
+     "independentSources": 2,
+     "reliability": "medel",
+     "sources": [
+      {
+       "country": "DE",
+       "kind": "kommersiell",
+       "name": "The Decoder (om FT:s uppgifter)",
+       "owner": "The Decoder",
+       "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/"
+      },
+      {
+       "country": "KR",
+       "kind": "kommersiell",
+       "name": "Financial News Korea (om FT:s och WSJ:s uppgifter)",
+       "owner": "Financial News",
+       "url": "https://en.fnnews.com/news/202611090906290990"
+      }
+     ],
+     "summary": "AI-bolaget Anthropic vill enligt Financial Times gå till börsen före Thanksgiving den 26 november och ta in 80–100 miljarder dollar, trots den senaste tidens ras för teknikaktier. Värderingen väntas enligt FT hamna på 1 250–1 750 miljarder dollar, lägre än de 2 000 miljarder som de mest optimistiska investerarna hoppats på. Ett slutligt prisintervall är inte offentliggjort.",
+     "title": "Anthropic håller fast vid börsnotering före Thanksgiving – till lägre värdering",
+     "weak": true
+    }
+   ]
+  },
+  {
+   "id": "hallbarhet",
+   "items": [
+    {
+     "assessment": "Samstämmig rapportering om mötet och löftet. Elens andel i dag anges olika, cirka en femtedel (Al Jazeera, Euronews) respektive 23 procent (Yle med hänvisning till IEA), vilket kan bero på olika mått.",
+     "independentSources": 3,
+     "reliability": "hog",
+     "sources": [
+      {
+       "country": "QA",
+       "kind": "public",
+       "name": "Al Jazeera",
+       "owner": "Al Jazeera Media Network",
+       "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open"
+      },
+      {
+       "country": "FR",
+       "kind": "kommersiell",
+       "name": "Euronews",
+       "owner": "Euronews",
+       "url": "https://www.euronews.com/2026/11/09/we-will-not-lower-our-ambition-everything-you-need-to-know-on-day-one-of-the-cop31-climate"
+      },
+      {
+       "country": "FI",
+       "kind": "public",
+       "name": "Yle",
+       "owner": "Yleisradio",
+       "url": "https://yle.fi/a/7-10108348?origin=rss"
+      }
+     ],
+     "summary": "FN:s klimatmöte öppnar i dag i Turkiet med nästan 200 delegationer och pågår till den 20 november. Värdlandet driver det frivilliga löftet ”35 by 35”, att el ska stå för minst 35 procent av världens energianvändning 2035. Kritiker påpekar att löftet inte kräver att den nya elen är fossilfri, och enligt Climate Action Tracker leder nuvarande politik bara till 28 procent.",
+     "title": "COP31 inleds i Antalya med elektrifiering som huvudfråga",
+     "weak": false
+    },
+    {
+     "assessment": "Rollfördelningen beskrivs likartat av flera redaktioner. SVT:s text är märkt analys, så framtidsbedömningarna i den är tolkningar snarare än fakta.",
+     "independentSources": 3,
+     "reliability": "hog",
+     "sources": [
+      {
+       "country": "SE",
+       "kind": "public",
+       "name": "SVT",
+       "owner": "Sveriges Television",
+       "url": "https://svt.se/nyheter/utrikes/analys-darfor-blir-det-ny-fajt-om-det-fossila-trots-oljestaternas-motstand"
+      },
+      {
+       "country": "FR",
+       "kind": "kommersiell",
+       "name": "Euronews",
+       "owner": "Euronews",
+       "url": "https://www.euronews.com/2026/11/09/we-will-not-lower-our-ambition-everything-you-need-to-know-on-day-one-of-the-cop31-climate"
+      },
+      {
+       "country": "QA",
+       "kind": "public",
+       "name": "Al Jazeera",
+       "owner": "Al Jazeera Media Network",
+       "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open"
+      }
+     ],
+     "summary": "EU och andra länder vill ha en färdplan bort från olja, kol och gas, medan oljestater och en del utvecklingsländer motsätter sig det. Frågan finns inte på den formella förhandlingsagendan, och Saudiarabien är ett av länderna som hävdar att fossila bränslen kan fortsätta användas om utsläppen fångas in. USA skickar ingen officiell delegation, men kongressledamöter och företag deltar.",
+     "title": "Striden om det fossila väntar – trots att frågan inte står på dagordningen",
+     "weak": false
+    }
+   ]
+  },
+  {
+   "id": "inrikes",
+   "items": [
+    {
+     "assessment": "Pressträffen och partiernas svar är direkt dokumenterade och återges samstämmigt av SVT, TV4 och TT. Vad V faktiskt gör i en omröstning är ännu ett ställningstagande, inte ett utfall.",
+     "independentSources": 3,
+     "reliability": "hog",
+     "sources": [
+      {
+       "country": "SE",
+       "kind": "public",
+       "name": "SVT",
+       "owner": "Sveriges Television",
+       "url": "https://www.svt.se/nyheter/inrikes/andersson-vill-regera-med-c-och-mp-utan-v"
+      },
+      {
+       "country": "SE",
+       "kind": "kommersiell",
+       "name": "TV4",
+       "owner": "TV4",
+       "url": "https://www.tv4.se/artikel/6SLDnPs6vRcNTZ55OnEfzr/nu-ligger-avgoerandet-i-vaensterpartiets-knae"
+      },
+      {
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "name": "TT via Hallands Nyheter",
+       "owner": "TT Nyhetsbyrån",
+       "url": "https://www.hn.se/nyheter/sverige/andersson-s-vill-bilda-regering-utan-v.900bba31-e286-5cab-a761-96f210056cd5"
+      }
+     ],
+     "summary": "S-ledaren Magdalena Andersson sade på söndagen att hon vill bilda regering med C och MP, med V som stödparti som får inflytande utan ministerposter. V:s vice ordförande Ida Gabrielsson svarar att partiets kongressbeslut om regeringsdeltagande inte går att ändra, och att V röstar nej till Andersson om en sådan regering prövas. C-ledaren Elisabeth Thand Ringqvist vill vänta på de ”totalpaket” hon begärt av S och M till på fredag.",
+     "title": "Andersson vill regera med C och MP utan V – Vänsterpartiet säger nej",
+     "weak": false
+    },
+    {
+     "assessment": "Det formella läget är bekräftat, men uppgifterna om stämningen inom S kommer från anonyma källor och bedömningarna om extraval är kommentatorers. Kristerssons tidsgräns är inte preciserad utöver ”några dagar”.",
+     "independentSources": 2,
+     "reliability": "medel",
+     "sources": [
+      {
+       "country": "SE",
+       "kind": "public",
+       "name": "SVT",
+       "owner": "Sveriges Television",
+       "url": "https://svt.se/nyheter/inrikes/pressen-okar-pa-andersson-s-da-kan-hon-tvingas-avga"
+      },
+      {
+       "country": "SE",
+       "kind": "kommersiell",
+       "name": "TV4",
+       "owner": "TV4",
+       "url": "https://www.tv4.se/artikel/6SLDnPs6vRcNTZ55OnEfzr/nu-ligger-avgoerandet-i-vaensterpartiets-knae"
+      }
+     ],
+     "summary": "Två statsministeromröstningar har misslyckats, och efter fyra utlyses extraval automatiskt. Ulf Kristersson (M) har fått förlängt sonderingsuppdrag sedan SD släppt kravet på ministerposter och C öppnat för att stödja den kandidat som har bäst sakpolitik. Enligt SVT växer irritationen inom S, och statsvetaren Jenny Madestam menar att ett extraval sannolikt skulle slå mot de rödgröna.",
+     "title": "Extraval allt mer på tal när Kristersson fortsätter sondera",
+     "weak": true
+    }
+   ]
+  },
+  {
+   "id": "utrikes",
+   "items": [
+    {
+     "assessment": "Uttalandena är väldokumenterade, men Reuters kunde inte bekräfta uppgifterna om träffade fartyg, och källorna anger olika intervjuer för Trumps citat (CNN respektive 60 Minutes). Mycket kommer från parterna själva.",
+     "independentSources": 3,
+     "reliability": "medel",
+     "sources": [
+      {
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "name": "Reuters via Cyprus Mail",
+       "owner": "Thomson Reuters",
+       "url": "https://cyprus-mail.com/2026/11/09/trump-says-fresh-iran-strikes-unlikely-if-peace-talks-progress"
+      },
+      {
+       "country": "US",
+       "kind": "kommersiell",
+       "name": "CBS News",
+       "owner": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+      },
+      {
+       "country": "IL",
+       "kind": "kommersiell",
+       "name": "The Times of Israel",
+       "owner": "The Times of Israel",
+       "url": "https://www.timesofisrael.com/liveblog-november-9-2026"
+      }
+     ],
+     "summary": "USA:s president Donald Trump säger att nya anfall är ”högst osannolika” om Iran skriver under ett starkt avtal, medan utrikesminister Marco Rubio beskriver Irans krav som orealistiska och säger att inget genombrott är nära. Båda sidor rapporterar om fartyg som träffats i eller nära Hormuzsundet, och USA har skapat en styrka för att stoppa Irans transporter på land och över Kaspiska havet. Iran säger att samtal kräver att USA först uppfyller sju krav.",
+     "title": "Trump: Nya anfall mot Iran osannolika om samtalen går framåt",
+     "weak": false
+    },
+    {
+     "assessment": "Uppdraget och mandatsiffrorna stämmer överens mellan källorna. Redovisningen av vad som händer om Eisenkot misslyckas skiljer sig något, och Netanyahus påstående om stulet val saknar enligt PBS belägg.",
+     "independentSources": 3,
+     "reliability": "hog",
+     "sources": [
+      {
+       "country": "IL",
+       "kind": "kommersiell",
+       "name": "The Times of Israel",
+       "owner": "The Times of Israel",
+       "url": "https://www.timesofisrael.com/eisenkot-gets-nod-to-form-government-vows-unconventional-acts-in-time-of-emergency/"
+      },
+      {
+       "country": "US",
+       "kind": "public",
+       "name": "PBS NewsHour",
+       "owner": "PBS",
+       "url": "https://www.pbs.org/newshour/world/israels-president-formally-gives-eisenkot-the-first-chance-to-form-the-next-government"
+      },
+      {
+       "country": "QA",
+       "kind": "public",
+       "name": "Al Jazeera",
+       "owner": "Al Jazeera Media Network",
+       "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+      }
+     ],
+     "summary": "President Isaac Herzog gav på söndagen formellt Gadi Eisenkot uppdraget att bilda regering, efter att 67 av Knessets 120 ledamöter ställt sig bakom honom. Eisenkot lovar en nationell nödregering som ersätter Benjamin Netanyahu, men hans block har bara 48 mandat och delar av det vill inte luta sig mot de arabledda partierna. Netanyahu vill i stället se en enhetsregering.",
+     "title": "Eisenkot utsedd att försöka bilda ”nödregering” i Israel",
+     "weak": false
+    },
+    {
+     "assessment": "Bara två oberoende källor lästa, och siffrorna kommer främst från ukrainska myndigheter. RFE/RL påpekar att uppgifterna från striderna inte kan kontrolleras oberoende.",
+     "independentSources": 2,
+     "reliability": "medel",
+     "sources": [
+      {
+       "country": "US",
+       "kind": "public",
+       "name": "Radio Free Europe/Radio Liberty",
+       "owner": "Radio Free Europe/Radio Liberty",
+       "url": "https://www.rferl.org/a/russia-strikes-ukraine-energy/33893219.html"
+      },
+      {
+       "country": "QA",
+       "kind": "public",
+       "name": "Al Jazeera",
+       "owner": "Al Jazeera Media Network",
+       "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
+      }
+     ],
+     "summary": "Ryska anfall mot elnätet i Dnipropetrovsk lämnade omkring 600 000 människor utan ström under söndagen, och sjukhus fick gå över till dieselgeneratorer. President Volodymyr Zelenskyj anklagar Ryssland för att utöva ”maximalt tryck” inför de USA-medierade samtalen i Abu Dhabi på tisdag. Ryssland säger att anfallen riktats mot mål kopplade till försvarsindustrin.",
+     "title": "600 000 utan el i Ukraina inför samtalen i Abu Dhabi",
+     "weak": true
+    }
+   ]
+  }
+ ],
+ "watch": "På fredag ska S och M lägga fram sina ”totalpaket”, ett besked som kan avgöra om C väljer sida eller om Sverige rör sig mot extraval."
+}
