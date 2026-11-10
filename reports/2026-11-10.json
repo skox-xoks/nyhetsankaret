@@ -1,0 +1,475 @@
+{
+ "date": "2026-11-10",
+ "generatedAt": "2026-11-10T09:05:00+01:00",
+ "lede": "Regeringsfrågan hårdnar: Centerpartiet vill ha två färdiga förslag till fredag medan de rödgröna mötena ställts in. Samtidigt visar Global Carbon Budget att fossila utsläpp väntas minska något i år, och Trump ifrågasätter mellanårsvalet han tidigare accepterat.",
+ "sections": [
+  {
+   "id": "teknik",
+   "items": [
+    {
+     "title": "Nvidia-affären växer: Trump säger att FBI tittar på saken, aktieägare stämmer",
+     "summary": "President Trump sade på måndagen att FBI \"tittar på\" Jensen Huangs relation med en kvinna som amerikanska myndigheter enligt New York Times bedömer som kinesisk underrättelsetillgång, men att han tror Huang när denne säger att han inte visste något. Aktieägare lämnade samtidigt in en grupptalan i San Jose om att bolaget dolt relationen. Nvidia-aktien föll drygt 4 procent, motsvarande runt 190 miljarder dollar i börsvärde.",
+     "assessment": "Rättegångsansökan och kursfallet bekräftas av flera oberoende redaktioner; att FBI utreder vilar enbart på Trumps ord, och spionanklagelsen bygger på anonyma källor och förnekas av Kina.",
+     "reliability": "medel",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Reuters (via Investing.com)",
+       "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy-5013619",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      },
+      {
+       "name": "Börsvärlden",
+       "url": "https://borsvarlden.com/artiklar/trump-forsvarar-nvidias-vd-efter-misstankar-om-kinesiskt-spionage",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "Börsvärlden"
+      },
+      {
+       "name": "Forbes",
+       "url": "https://www.forbes.com/sites/fionariley/2026/11/09/jensen-huang-falls-two-spots-in-billionaire-rankings-as-nvidia-investigates-his-affair-with-alleged-chinese-spy/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Forbes Media"
+      },
+      {
+       "name": "Fox Business",
+       "url": "https://www.foxbusiness.com/markets/nvidia-shares-fall-after-investigation-ceos-relationship-alleged-chinese-spy",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Fox Corporation"
+      },
+      {
+       "name": "Göteborgs-Posten",
+       "url": "https://www.gp.se/ekonomi/nvidias-aktie-rasar-vd-n-otrogen-med-misstankt-kinesisk-spion.ecfba0a2-c247-5ca0-9dca-227b8b8439ea",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "Stampen Media"
+      }
+     ]
+    },
+    {
+     "title": "Google lanserar AI-chippen TPU 8tx och TPU 8i Max",
+     "summary": "Google utökar sin åttonde TPU-generation med TPU 8tx, byggt för konfidentiell AI-inferens där data och modellvikter isoleras i hårdvaran och som kan köras i kundernas egna datacenter, samt TPU 8i Max med två chip i samma kapsel för mycket långa kontextfönster. Det är första året Google lanserar fyra TPU-system; bolaget uppger att nästan 100 kunder använder TPU:er.",
+     "assessment": "Lanseringen är bekräftad, men alla prestandasiffror kommer från Google självt och saknar oberoende tester; analytiker på IDC är avvaktande. Pris och tillgänglighet är inte angivna.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Google (officiell blogg)",
+       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+       "country": "US",
+       "kind": "ovrigt",
+       "owner": "Alphabet"
+      },
+      {
+       "name": "Data Center Knowledge",
+       "url": "https://www.datacenterknowledge.com/data-center-chips/google-adds-tpu-8tx-8i-max-for-enterprise-ai",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Informa TechTarget"
+      },
+      {
+       "name": "SiliconANGLE",
+       "url": "https://siliconangle.com/2026/11/09/google-advances-agentic-ai-custom-silicon-expanding-tpu-family-with-8tx-and-8i-max/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "SiliconANGLE Media"
+      },
+      {
+       "name": "Igor's Lab",
+       "url": "https://www.igorslab.de/en/google-expands-tpu-generation-8tx-amd-epyc-confidential-ai-8i-max-double-memory-bandwidth/",
+       "country": "DE",
+       "kind": "kommersiell",
+       "owner": "Igor's Lab"
+      }
+     ]
+    },
+    {
+     "title": "Anthropic drar tillbaka uppgifter om börspris i utskick till banker",
+     "summary": "Enligt Reuters skickade Anthropic sent på måndagen ett utkast till börsprospekt till banker med ett prisintervall på 70–80 dollar per aktie, men drog strax därefter tillbaka uppgifterna som \"felaktiga\" och utlovade ett uppdaterat dokument. Roadshowen väntas starta i dagarna och noteringen på Nasdaq kan ske runt 19–20 november; värderingsdiskussionen ska ha sjunkit till omkring 1,1–1,3 biljoner dollar.",
+     "assessment": "Bygger i huvudsak på en enda Reuters-uppgift som andra återger; värderingen kommer från anonyma investerarkällor och inget officiellt prisintervall finns. Notera att denna sammanställning görs med hjälp av Claude, som utvecklas av Anthropic.",
+     "reliability": "medel",
+     "independentSources": 1,
+     "weak": true,
+     "sources": [
+      {
+       "name": "Reuters (via Investing.com)",
+       "url": "https://uk.investing.com/news/stock-market-news/anthropic-retracts-ipo-details-after-sending-filing-to-bankers--reuters-4970197",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      },
+      {
+       "name": "Stocktwits",
+       "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-retracts-reported-70-80-ipo-price-range-says-pricing-update-is-coming-listing-expected-next-week/cNGud3sR970",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Stocktwits"
+      },
+      {
+       "name": "The Daily Upside",
+       "url": "https://www.thedailyupside.com/technology/artificial-intelligence/anthropic-can-now-start-its-roadshow-the-traffics-bad/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "The Daily Upside"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hallbarhet",
+   "items": [
+    {
+     "title": "Fossila utsläpp väntas minska 0,4 procent i år – men totala koldioxidutsläpp slår rekord",
+     "summary": "Global Carbon Project beräknar att fossila koldioxidutsläpp landar på 38,2 miljarder ton 2026, en minskning med 0,4 procent, främst för att oljeanvändningen fallit efter Iran-konflikten och störningarna i Hormuzsundet. Medräknat markanvändning blir utsläppen ändå rekordhöga, 43,3 miljarder ton, på grund av torvbränder i Sydostasien. Den kvarvarande budgeten för 1,5 grader motsvarar mindre än fyra års utsläpp.",
+     "assessment": "Alla källor återger samma vetenskapliga rapport och är samstämmiga; samtliga betonar att nedgången är skör och inte en bekräftad topp. Carbon Brief-texten är skriven av rapportens författare och räknas inte som oberoende.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Global Carbon Budget",
+       "url": "https://globalcarbonbudget.org/fossil-co2-emissions-decrease-in-2026/",
+       "country": "GB",
+       "kind": "myndighet",
+       "owner": "Global Carbon Project"
+      },
+      {
+       "name": "ABC News",
+       "url": "https://www.abc.net.au/news/2026-11-10/fossil-fuel-emissions-to-fall-in-2026-due-to-iran-war/107329262",
+       "country": "AU",
+       "kind": "public",
+       "owner": "Australian Broadcasting Corporation"
+      },
+      {
+       "name": "Euronews",
+       "url": "https://www.euronews.com/2026/11/10/fossil-fuel-emissions-are-expected-to-fall-in-2026-why-arent-climate-experts-celebrating",
+       "country": "FR",
+       "kind": "kommersiell",
+       "owner": "Euronews"
+      },
+      {
+       "name": "Carbon Brief",
+       "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
+       "country": "GB",
+       "kind": "ovrigt",
+       "owner": "Carbon Brief"
+      }
+     ]
+    },
+    {
+     "title": "COP31 dag två: Turkiet driver mål om 35 procent elektrifiering till 2035",
+     "summary": "Värdlandet Turkiet vill att länder lovar att 35 procent av den slutliga energianvändningen ska vara elektrifierad till 2035, mot drygt 20 procent i dag, och att målet skrivs in i toppmötets slutresultat. Kritiker påpekar att löftet inte kräver att elen är fossilfri; Portugal driver på för ”ren elektrifiering”. Redan dagordningen antogs efter strid, där G77 och Kina krävde en egen punkt om klimatfinansiering som EU motsatte sig.",
+     "assessment": "Elektrifieringsmålet och kritiken bekräftas av flera oberoende källor; turkiska statliga TRT återger värdlandets bild okritiskt. Uppgifter om vilka länder som redan anslutit sig är obekräftade.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Reuters (via RTÉ)",
+       "url": "https://www.rte.ie/news/environment/2026/1110/1598617-cop31-turkey/",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      },
+      {
+       "name": "Business Standard",
+       "url": "https://www.business-standard.com/world-news/cop31-antalya-climate-finance-eu-g77-india-climate-talks-126111000162_1.html",
+       "country": "IN",
+       "kind": "kommersiell",
+       "owner": "Business Standard Pvt Ltd"
+      },
+      {
+       "name": "The Nightly",
+       "url": "https://thenightly.com.au/politics/bowen-tells-cop31-faster-electrification-needed-but-admits-aus-has-more-to-do-on-lowering-electricity-prices-c-23139386",
+       "country": "AU",
+       "kind": "kommersiell",
+       "owner": "Seven West Media"
+      },
+      {
+       "name": "TRT World",
+       "url": "https://www.trtworld.com/article/adc1626e31f4",
+       "country": "TR",
+       "kind": "public",
+       "owner": "TRT"
+      }
+     ]
+    },
+    {
+     "title": "Norge stoppar nya elnätsanslutningar för datacenter till 2027",
+     "summary": "Stamnätsoperatören Statnett har tillfälligt stoppat nya kapacitetsreservationer och ansökningar för datacenter fram till senast 1 augusti 2027. 800 MW datacenter är anslutna, men 4 200 MW är reserverade och ytterligare tusentals megawatt köar – att jämföra med Norges toppförbrukning på drygt 25 000 MW. Regeringen aviserar också ett nytt koncessionssystem.",
+     "assessment": "Siffrorna kommer från Statnetts officiella besked och återges samstämmigt; beskedet kom i utkanten av dygnet (måndag morgon). Detaljerna i de nya kraven ska ut på remiss.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Statnett",
+       "url": "https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/",
+       "country": "NO",
+       "kind": "myndighet",
+       "owner": "Statnett"
+      },
+      {
+       "name": "E24",
+       "url": "https://e24.no/energi-og-klima/i/Pv38Rb/statnett-midlertidig-stans-i-kraft-til-datasentre",
+       "country": "NO",
+       "kind": "kommersiell",
+       "owner": "Schibsted"
+      },
+      {
+       "name": "Evertiq",
+       "url": "https://evertiq.se/news/2026-11-10-norge-stoppar-ytterligare-datacenter-fran-att-ansluta-till-elnatet",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "Evertiq"
+      },
+      {
+       "name": "NRK",
+       "url": "https://www.nrk.no/nyheter/statnett-setter-bremsene-pa-for-nye-datasentre-frem-til-sommeren-2027-1.18077188",
+       "country": "NO",
+       "kind": "public",
+       "owner": "NRK"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inrikes",
+   "items": [
+    {
+     "title": "Rödgröna möten inställda – V står fast vid kravet på ministerposter",
+     "summary": "Planerade möten mellan S, V, MP och C ställdes in på måndagen efter att Magdalena Andersson sagt att V inte ska ingå i hennes regering. V:s vice ordförande Ida Gabrielsson bekräftade och anklagade C för att öppna för att luta sig mot SD:s mandat. I SVT Aktuellt sade hon att kravet på ministerposter ”har diskuterats”, men skrev kort därefter att partiet inte ändrat ståndpunkt.",
+     "assessment": "Inställda möten och Gabrielssons uttalanden bekräftas av SVT, TV4 och TT; vissa detaljer bygger på anonyma källor. Om V:s krav är förhandlingsbart är oklart och under utveckling.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "SVT",
+       "url": "https://www.svt.se/nyheter/inrikes/ida-gabrielsson-pressas-om-ministerkravet-har-diskuterats",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "SVT (direktrapport)",
+       "url": "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026?inlagg=716c35bf0b2849199c4ceecd747bd65c",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "TV4",
+       "url": "https://www.tv4.se/artikel/ULdYDxBRzTBgIvvNZgTew/uppgifter-roedgroena-moeten-instaellda-efter-anderssons-v-diss",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "TV4"
+      },
+      {
+       "name": "TT (via Corren)",
+       "url": "https://www.corren.se/nyheter/inrikes/politik/artikel/intensivt-skede-nu-maste-c-bestamma-sig/jp9zx17l",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      }
+     ]
+    },
+    {
+     "title": "C förhandlar med båda sidor inför fredagens besked – Andersson: C måste ”bjuda till”",
+     "summary": "Centerpartiet förhandlar parallellt med Andersson och Kristersson och vill ha två färdiga paket om politik och styrning att välja mellan senast fredag 13 november. Andersson sade i SVT på tisdagsmorgonen att C behöver lägga förslag som ger V politiskt avtryck, och har i Sveriges Radio kallat en C-medverkan i en SD-beroende regering ”det största politiska sveket”. Enligt uppgifter till Expressen och TV4 lutar C-ledningen åt Kristersson, vilket C inte bekräftat.",
+     "assessment": "Parallella förhandlingar och fristen är bekräftade; Anderssons citat är uttalanden från en part. Uppgiften om C-ledningens preferens bygger på anonyma källor.",
+     "reliability": "medel",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "TT (via Corren)",
+       "url": "https://www.corren.se/nyheter/inrikes/politik/artikel/intensivt-skede-nu-maste-c-bestamma-sig/jp9zx17l",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      },
+      {
+       "name": "SVT",
+       "url": "https://www.svt.se/nyheter/inrikes/andersson-s-centerpartiet-behover-bjuda-till-nu",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "TV4",
+       "url": "https://www.tv4.se/artikel/ULdYDxBRzTBgIvvNZgTew/uppgifter-roedgroena-moeten-instaellda-efter-anderssons-v-diss",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "TV4"
+      }
+     ]
+    },
+    {
+     "title": "LO och 13 förbund uppmanar V att släppa kravet på ministerposter",
+     "summary": "LO:s ordförande Johan Lindholm och ordförandena för LO:s 13 förbund skriver i en debattartikel i Aftonbladet att V bör släppa sitt ovillkorliga krav på ministerposter och i stället förhandla hårt om politiken. De varnar för att en fortsatt Kristersson-regering innebär högerpolitik.",
+     "assessment": "Att artikeln publicerats är säkert, men rapporteringen bygger hittills på samma TT-text i flera tidningar; argumenten är en intresseorganisations egna. V hade inte svarat.",
+     "reliability": "medel",
+     "independentSources": 1,
+     "weak": true,
+     "sources": [
+      {
+       "name": "TT (via Hallandsposten)",
+       "url": "https://www.hallandsposten.se/nyheter/sverige/lo-till-v-slapp-kravet-pa-ministerposter.259984fd-26d1-5c62-9d42-9442a71315b8",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "utrikes",
+   "items": [
+    {
+     "title": "Trump ifrågasätter mellanårsvalet han tidigare accepterat",
+     "summary": "I ett inlägg på måndagen frågade Trump om någon ”verkligen tror” att valet var ärligt och pekade utan bevis på förtidsröster och röstmaskiner. Det är en helomvändning: efter valet den 3 november, då Demokraterna vann båda kamrarna, sade han att han ”absolut” accepterade resultatet. Demokratiska ledare avfärdar påståendena.",
+     "assessment": "Citaten och att de saknar belägg bekräftas samstämmigt av tre oberoende redaktioner; påståendet om valfusk är en parts obelagda uppgift.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "SVT",
+       "url": "https://www.svt.se/nyheter/utrikes/trump-ifragasatter-resultatet-i-mellanarsvalet",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "Time",
+       "url": "https://time.com/article/2026/11/09/trump-casts-doubt-on-midterm-election-results/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Time USA"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections",
+       "country": "QA",
+       "kind": "public",
+       "owner": "Al Jazeera Media Network"
+      }
+     ]
+    },
+    {
+     "title": "Fredssamtal om Ukraina inleds i Abu Dhabi – Europa vid sidan av",
+     "summary": "USA-medlade samtal mellan Ryssland och Ukraina inleds i Abu Dhabi 10–11 november, de första trepartssamtalen sedan februari, med Witkoff och Kushner som medlare. Storbritannien, Frankrike, Tyskland, Italien, EU och Nato skickar företrädare för separata samtal med Ukraina om säkerhetsgarantier, men Kreml vill hålla fast vid trepartsformatet. Zelenskyj varnar för ett ”Jalta 2.0”.",
+     "assessment": "Delegationer och formatstrid bekräftas av tre oberoende källor; inget resultat finns ännu och läget är under utveckling.",
+     "reliability": "medel",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Yle",
+       "url": "https://yle.fi/a/7-10108387",
+       "country": "FI",
+       "kind": "public",
+       "owner": "Yle"
+      },
+      {
+       "name": "AFP (via Malay Mail)",
+       "url": "https://www.malaymail.com/news/world/2026/11/10/us-mediated-talks-with-russia-and-ukraine-on-ending-war-to-start-in-abu-dhabi-europe-watches-nervously/242703",
+       "country": "FR",
+       "kind": "nyhetsbyra",
+       "owner": "AFP"
+      },
+      {
+       "name": "Meduza",
+       "url": "https://meduza.io/en/feature/2026/11/10/russia-ukraine-and-the-u-s-to-hold-peace-talks-in-abu-dhabi-on-november-10-their-first-trilateral-meeting-since-february-with-security-issues-expected-to-top-the-agenda",
+       "country": "LV",
+       "kind": "kommersiell",
+       "owner": "Meduza"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "watch": "Centerpartiets besked senast fredag 13 november avgör om Sverige får en regering eller närmar sig extraval.",
+ "backside": {
+  "mustKnow": [
+   {
+    "title": "Frankrike pekar ut Iran för hackerattack mot butikskylar",
+    "summary": "Frankrikes utrikesminister Jean-Noël Barrot anklagar en cyberenhet kopplad till Irans revolutionsgarde för attacken i oktober då temperaturen i kyl- och frysdiskar höjdes kraftigt i omkring 700 franska livsmedelsbutiker. Åklagare begär internationella arresteringsorder, Irans ambassadör har kallats upp och Frankrike vill driva EU-sanktioner. Svenska livsmedelsbutiker drabbades av en liknande attack veckan innan, som inte kopplats till Iran.",
+    "assessment": "Anklagelsen och Frankrikes åtgärder bekräftas av tre oberoende källor, men själva attributionen kommer från den franska staten och Iran har inte kommenterat. Uppgifterna om omfattning skiljer sig något.",
+    "reliability": "hog",
+    "independentSources": 3,
+    "weak": false,
+    "sources": [
+     {
+      "name": "SVT",
+      "url": "https://www.svt.se/nyheter/utrikes/iran-pekas-ut-efter-hackerattack-mot-kylar-i-frankrike",
+      "country": "SE",
+      "kind": "public",
+      "owner": "Sveriges Television"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
+      "country": "QA",
+      "kind": "public",
+      "owner": "Al Jazeera Media Network"
+     },
+     {
+      "name": "AP (via OPB)",
+      "url": "https://www.opb.org/article/2026/11/09/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
+      "country": "US",
+      "kind": "nyhetsbyra",
+      "owner": "Associated Press"
+     }
+    ],
+    "area": "Säkerhet"
+   }
+  ],
+  "unknown": {
+   "theme": "Vetenskap",
+   "item": {
+    "title": "Jordisk mikrob växte i 160 dagar under Mars-liknande förhållanden",
+    "summary": "Forskare vid University of Florida odlade den salttåliga arkén Haloferax volcanii i 160 dagar i syrefri, koldioxidrik saltlake under lågt tryck, där mikroberna ”andades” nitrat eller perklorat – ämnen som finns på Mars – i stället för syre. De förökade sig långsamt och bildade biofilmer som höll kvar vatten. Studien är publicerad i Applied and Environmental Microbiology.",
+    "assessment": "En enskild granskad laboratoriestudie: kulturerna hölls betydligt varmare än Mars underjord och fick näring, och saltfickorna är inte observerade på Mars. Två oberoende medier plus universitetet – något svagare underlag.",
+    "reliability": "medel",
+    "independentSources": 2,
+    "weak": true,
+    "sources": [
+     {
+      "name": "University of Florida",
+      "url": "https://news.ufl.edu/2026/11/microbes-martian-conditions/",
+      "country": "US",
+      "kind": "myndighet",
+      "owner": "University of Florida"
+     },
+     {
+      "name": "Gizmodo",
+      "url": "https://gizmodo.com/scientists-gave-an-earth-microbe-toxins-found-on-mars-it-started-multiplying-2000837233",
+      "country": "US",
+      "kind": "kommersiell",
+      "owner": "Gizmodo"
+     },
+     {
+      "name": "ZME Science",
+      "url": "https://www.zmescience.com/science/news-science/microbes-grow-mars-like/",
+      "country": "RO",
+      "kind": "kommersiell",
+      "owner": "ZME Science"
+     }
+    ],
+    "why": "Den flyttar frågan från om Mars någon gång varit beboelig till om salta fickor under ytan kan hysa aktivt liv i dag – med följder för hur rymdsonder letar liv och skyddas mot smitta från jorden."
+   }
+  }
+ }
+}
