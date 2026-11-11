@@ -1,0 +1,447 @@
+{
+ "date": "2026-11-11",
+ "generatedAt": "2026-11-11T09:00:00+01:00",
+ "lede": "Ukrainasamtalen i Abu Dhabi går in på sin andra dag utan genombrott, samtidigt som Kristersson fått en vecka till och Centerpartiet kräver totalpaket senast fredag.",
+ "sections": [
+  {
+   "id": "teknik",
+   "items": [
+    {
+     "title": "Anthropic sätter prisintervall inför rekordnotering på Nasdaq",
+     "summary": "Anthropic har inlett sin roadshow och erbjuder 825 miljoner A-aktier till 70–78 dollar styck, vilket kan ge upp till 64,4 miljarder dollar. Toppen av intervallet motsvarar fullt utspätt en värdering på omkring 1 400 miljarder dollar, lägre än tidigare spekulationer. Prissättningen väntas 18 november och handeln börjar 19 november; strategiska partner som Nvidia, Google, Microsoft och TSMC har åtagit sig att köpa aktier för 26 miljarder dollar.",
+     "assessment": "Fyra oberoende redaktioner är överens om intervall, antal aktier och belopp, men värderingen anges olika beroende på beräkningssätt. Siffrorna kommer från bolagets prospekt och noteringen är ännu inte genomförd.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut",
+       "country": "QA",
+       "kind": "public",
+       "owner": "Al Jazeera Media Network"
+      },
+      {
+       "name": "Fortune",
+       "url": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Fortune Media"
+      },
+      {
+       "name": "Placera (Nyhetsbyrån Direkt)",
+       "url": "https://www.placera.se/nyheter/anthropic-siktar-pa-vardering-over-1-000-miljarder-dollar-2026-11-10",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "Nyhetsbyrån Direkt"
+      },
+      {
+       "name": "Dagens PS",
+       "url": "https://www.dagensps.se/bors-finans/aktier/om-nio-dagar-noteras-anthropic-en-listigaktie-ger-grundarna-all-makt/",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "Dagens PS"
+      }
+     ]
+    },
+    {
+     "title": "Microsoft täpper till över 1 000 säkerhetshål – Outlook-lucka utnyttjas redan",
+     "summary": "Microsofts säkerhetsuppdatering för november är en av de största hittills, med över 1 000 åtgärdade sårbarheter varav drygt 60 kritiska. En förfalskningsbugg i Outlook utnyttjas redan av angripare och kan få programmet att skicka användarens inloggningshash till en angriparstyrd server. Användare och organisationer uppmanas att uppdatera snabbt.",
+     "assessment": "Tre oberoende källor (två facktidningar och en säkerhetsleverantör) är överens om den aktivt utnyttjade Outlook-luckan, men räknar antalet sårbarheter olika (1 093–1 235). Att AI-verktyg ligger bakom rekordnivån är en tolkning från BleepingComputer.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "BleepingComputer",
+       "url": "https://bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "BleepingComputer"
+      },
+      {
+       "name": "CyberInsider",
+       "url": "https://cyberinsider.com/microsoft-november-2026-patch-tuesday-outlook-zero-day/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "CyberInsider"
+      },
+      {
+       "name": "Tenable",
+       "url": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+       "country": "US",
+       "kind": "ovrigt",
+       "owner": "Tenable Holdings"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hallbarhet",
+   "items": [
+    {
+     "title": "Brasilien lägger fram färdplan bort från fossila bränslen på COP31",
+     "summary": "Brasilien, värd för COP30, presenterade i Antalya en global och frivillig färdplan för att fasa ut kol, olja och gas, med verktyg för att bedöma länders fossilberoende och en uppmaning om nationella planer till 2028. Enligt Climate Home har bland andra Indien, Nigeria, Tyskland, Storbritannien och Australien ställt sig bakom. FN:s generalsekreterare Guterres uppmanade alla länder att ta fram nationella färdplaner med tidslinjer.",
+     "assessment": "Fyra oberoende källor bekräftar att färdplanen lagts fram och att den är frivillig; uppgiften om vilka länder som stöder den kommer främst från Climate Home. Att oljeproducenter kommer att motsätta sig att den skrivs in i slutbeslutet är en bedömning, inte bekräftat.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Climate Home News",
+       "url": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
+       "country": "GB",
+       "kind": "kommersiell",
+       "owner": "Climate Home News"
+      },
+      {
+       "name": "UN News (via Manila Times)",
+       "url": "https://www.manilatimes.net/2026/11/11/world/un-news/cop31-energy-transition-takes-centre-stage-as-countries-map-path-beyond-fossil-fuels/2467236",
+       "country": "PH",
+       "kind": "myndighet",
+       "owner": "Förenta nationerna"
+      },
+      {
+       "name": "Handelsblatt (AP)",
+       "url": "https://www.handelsblatt.com/politik/international/klimakonferenz-brasilien-legt-fahrplan-zur-abkehr-von-oel-kohle-und-gas-vor/100268832.html",
+       "country": "DE",
+       "kind": "nyhetsbyra",
+       "owner": "Associated Press"
+      },
+      {
+       "name": "World Resources Institute",
+       "url": "https://www.wri.org/news/statement-brazil-unveils-fossil-fuel-transition-roadmap-cop30-presidency-legacy",
+       "country": "US",
+       "kind": "ovrigt",
+       "owner": "World Resources Institute"
+      }
+     ]
+    },
+    {
+     "title": "COP31:s energidag: frivilliga löften om solceller på tak och geotermi",
+     "summary": "Ett Australien-lett initiativ vill fördubbla antalet hushåll med takmonterade solceller till 300 miljoner till 2030, och Turkiet och Irena lanserade ett löfte om att tolvfaldiga geotermisk energi till 2050, som EU anslutit sig till. Samtidigt fortsätter striden om huruvida värdlandets mål om 35 procent elektrifiering till 2035 ska kräva fossilfri el.",
+     "assessment": "Solcellsinitiativet bekräftas av ABC och Climate Home, medan geotermilöftet bara bekräftas av EU-kommissionen som är part. Antalet anslutna länder är oklart och inga löften är bindande.",
+     "reliability": "medel",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "ABC News (Australien)",
+       "url": "https://www.abc.net.au/news/2026-11-11/cop31-electrification-turkiye-australia/107371196",
+       "country": "AU",
+       "kind": "public",
+       "owner": "Australian Broadcasting Corporation"
+      },
+      {
+       "name": "Climate Home News",
+       "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/",
+       "country": "GB",
+       "kind": "kommersiell",
+       "owner": "Climate Home News"
+      },
+      {
+       "name": "Europeiska kommissionen",
+       "url": "https://energy.ec.europa.eu/news/eu-signs-global-geothermal-pledge-cop31-2026-11-10_en",
+       "country": "BE",
+       "kind": "myndighet",
+       "owner": "Europeiska kommissionen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inrikes",
+   "items": [
+    {
+     "title": "Kristersson får en vecka till – Andersson vill undvika ny omröstning",
+     "summary": "Talman Andreas Norlén förlängde Ulf Kristerssons (M) sonderingsuppdrag till den 17 november. Kristersson fortsätter arbeta för en regering med M, C, KD och L, medan Magdalena Andersson (S) säger sig redo för ett eget uppdrag och att en tredje statsministeromröstning inte bör hållas förrän ett förslag har majoritetsstöd. Efter redovisningen ska talmannen samtala med alla partiledare.",
+     "assessment": "Förlängningen är bekräftad genom talmannens besked och rapporteras samstämmigt av SVT, TT och TV4. Partiledarnas utspel är deras egna positioner.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/inrikes/kristersson-far-forlangd-sondering-efter-nya-besked-fran-sd-och-c",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "TT (via Hallandsposten)",
+       "url": "https://www.hn.se/nyheter/sverige/kristersson-far-en-vecka-till.784f5c32-ad12-5245-b151-364be51afa81",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      },
+      {
+       "name": "TV4 Nyheterna",
+       "url": "https://tv4.se/artikel/rNVZzMXpbK2nIp4Psmd7Y/kristersson-far-en-vecka-till-skyldighet-gentemot-medborgarna",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "TV4 (Telia Company)"
+      }
+     ]
+    },
+    {
+     "title": "V tillbaka vid förhandlingsbordet – C kräver totalpaket senast fredag kl 17",
+     "summary": "Vänsterpartiet har gått med på att återuppta samtalen med S, MP och C, men betonar att kravet på ministerposter står kvar. C:s partisekreterare Hannes Hervieu satte samtidigt en tidsgräns: S och M ska lämna sina totalpaket senast kl 17 på fredag.",
+     "assessment": "Att V återvänder byggde först på anonyma källor (TV4 enligt SVT), men TT har V:s egen bekräftelse; tidsgränsen kommer direkt från C. Endast två oberoende redaktioner har lästs.",
+     "reliability": "medel",
+     "independentSources": 2,
+     "weak": true,
+     "sources": [
+      {
+       "name": "SVT Nyheter (liveblogg)",
+       "url": "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026?inlagg=ed3edc1b3f709238b9ee9aa07f5dca4b",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "TT (via Göteborgs-Posten)",
+       "url": "https://www.gp.se/nyheter/sverige/andersson-det-ror-pa-sig-behover-mer-tid.60f3bdc7-e7b2-5cb8-976a-9a3b6037d5e1",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      }
+     ]
+    },
+    {
+     "title": "Åkesson: SD blir oppositionsparti utan budgetlöften i förväg",
+     "summary": "I SVT:s Aktuellt sa SD-ledaren Jimmie Åkesson att SD inte kommer att sitta i regeringen utan bli ett oppositionsparti som lägger egen budget och inte lovar budgetstöd i förväg, men som kan förhandla med båda sidor. Han menade att det nu är upp till C att välja regering och att SD inte fruktar ett extraval.",
+     "assessment": "Bygger på en enda intervju i SVT; ingen annan oberoende redaktion har hittats. Att SD släppt ministerkravet var känt sedan tidigare – nytt är beskedet om budgetlöften.",
+     "reliability": "medel",
+     "independentSources": 1,
+     "weak": true,
+     "sources": [
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-vill-vara-oppositionsparti-i-mitten",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      }
+     ]
+    },
+    {
+     "title": "Felaktiga uppgifter i nyvalde V-ledamoten Mohamed Alis cv",
+     "summary": "Expressen har granskat cv:t för Vänsterpartiets nyvalde riksdagsledamot Mohamed Ali och hittat flera felaktiga uppgifter om utbildning och anställningar, bland annat en fyraårig anställning som var en fyra månader lång provanställning. Ali medger felen men säger att han inte ville vilseleda.",
+     "assessment": "Granskningen kommer från Expressen och har tagits upp av TT, SVT och Kvartal; Ali har själv bekräftat flera av felen.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "TT (via Göteborgs-Posten)",
+       "url": "https://www.gp.se/nyheter/sverige/felaktiga-uppgifter-i-mohamed-alis-cv.2c85734a-624c-51a5-ac4e-f09f61e346f0",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      },
+      {
+       "name": "SVT Nyheter (liveblogg)",
+       "url": "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026?inlagg=d38fb07055a5ea951d9140fbaf57cf0a",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "Kvartal",
+       "url": "https://kvartal.se/nyheter/artiklar/ali-avslojas-med-falska-uppgifter-i-cv/cG9zdDoyNTMwNTY",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "Kvartal"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "utrikes",
+   "items": [
+    {
+     "title": "Första dagen av Ukrainasamtalen i Abu Dhabi utan genombrott",
+     "summary": "USA, Ukraina och Ryssland förhandlade i drygt fyra timmar på tisdagen och fortsätter på onsdagen. Zelenskyj kallade samtalen konstruktiva; fångutväxling, återlämnande av ukrainska barn, säkerhetsgarantier och nedtrappning diskuterades, men ingen överenskommelse om vapenvila eller territorium har rapporterats. Ryssland motsätter sig europeiskt deltagande, vilket bland andra Kristersson kritiserat.",
+     "assessment": "Fyra oberoende redaktioner ger samma bild. Uppgifterna om framsteg kommer främst från ukrainska och amerikanska parter, och påståenden om flexibilitet kring territorium bygger på en anonym amerikansk källa.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Kyiv Post",
+       "url": "https://www.kyivpost.com/post/89635",
+       "country": "UA",
+       "kind": "kommersiell",
+       "owner": "Kyiv Post"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes",
+       "country": "QA",
+       "kind": "public",
+       "owner": "Al Jazeera Media Network"
+      },
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "Radio Free Europe/Radio Liberty",
+       "url": "https://www.rferl.org/a/us-ukraine-peace-abu-dhabi-talks-russia-witkoff/33894497.html",
+       "country": "US",
+       "kind": "public",
+       "owner": "RFE/RL"
+      }
+     ]
+    },
+    {
+     "title": "Fler tankfartyg träffas i Persiska viken trots Trumps tal om avspänning",
+     "summary": "Ett fartyg från emiratiska Adnoc skadades i en attack i Persiska viken, och brittiska UKMTO rapporterade att en tanker träffats av en projektil utanför Oman; Indien uppger att fyra besättningsmän skadades på en supertanker. Iranska Revolutionsgardet säger att tre tankfartyg på otillåtna rutter i Hormuzsundet fattat eld. Samtidigt säger Trump att militära insatser inte behövs just nu, och oljepriset föll till lägsta nivån på två månader.",
+     "assessment": "Attackerna bekräftas av nyhetsbyrå, sjöfartsmedia och regionala dagstidningar. Vem som står bakom är inte officiellt fastställt och Revolutionsgardets påståenden är bara delvis verifierade.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Reuters (via WHBL)",
+       "url": "https://whbl.com/2026/11/10/tankers-continue-to-burn-in-the-middle-east-despite-hopes-for-de-escalation/",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      },
+      {
+       "name": "gCaptain",
+       "url": "https://gcaptain.com/adnoc-vessel-damaged-in-gulf-attack-as-ukmto-reports-fresh-tanker-strike-near-hormuz/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "gCaptain"
+      },
+      {
+       "name": "Gulf News",
+       "url": "https://gulfnews.com/world/mena/four-injured-as-tanker-with-indian-crew-hit-by-projectile-in-arabian-gulf-1.500743272",
+       "country": "AE",
+       "kind": "kommersiell",
+       "owner": "Al Nisr Publishing"
+      },
+      {
+       "name": "Khaleej Times",
+       "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-10-2026",
+       "country": "AE",
+       "kind": "kommersiell",
+       "owner": "Khaleej Times"
+      }
+     ]
+    },
+    {
+     "title": "Representanthuset stoppar riksrättsförsök mot Hegseth",
+     "summary": "Republikanen Thomas Massies förslag om riksrätt mot försvarsminister Pete Hegseth skickades till justitieutskottet efter en omröstning 211–204, vilket i praktiken stoppar det. Massie anklagade Hegseth bland annat för att ha inlett Irankriget utan kongressens godkännande och för dödliga attacker mot båtar i Karibien. Hegseth kallade försöket ett politiskt spektakel.",
+     "assessment": "Röstsiffrorna stämmer överens hos CBS och ABC; CNN:s rapport kunde bara delvis läsas. Det var en procedurröstning, inte en omröstning om själva riksrätten.",
+     "reliability": "medel",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Paramount Skydance"
+      },
+      {
+       "name": "ABC News",
+       "url": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "The Walt Disney Company"
+      },
+      {
+       "name": "CNN",
+       "url": "https://www.cnn.com/2026/11/10/politics/live-news/hegseth-impeachment-congress",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Warner Bros. Discovery"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "watch": "Fredag kl 17: Centerpartiets tidsgräns för S och M att lämna totalpaket – och om Abu Dhabi-samtalen leder till en fångutväxling.",
+ "backside": {
+  "mustKnow": [
+   {
+    "area": "Ekonomi",
+    "title": "Storbankerna: tillväxten mattas 2027 och räntan kan höjas igen",
+    "summary": "I nya prognoser räknar Swedbank och SEB med att svensk ekonomi växer starkt i år men bromsar in 2027 på grund av stigande inflation, högre räntor och mindre expansiv finanspolitik. Båda tror att Riksbanken höjer styrräntan till 2,25 procent under 2027, men SEB:s chefsekonom ser ingen dramatisk försämring för hushållen.",
+    "assessment": "Prognoserna kommer från bankerna själva och har rapporterats av TT och Finwire; det är prognoser, inte utfall, och tillväxtsiffrorna för 2026 skiljer sig något mellan källorna.",
+    "reliability": "medel",
+    "independentSources": 3,
+    "weak": false,
+    "sources": [
+     {
+      "name": "TT (via Corren)",
+      "url": "https://www.corren.se/ekonomi/artikel/storbanken-nu-vantar-tuffare-ekonomiska-tider/j82kn4yj",
+      "country": "SE",
+      "kind": "nyhetsbyra",
+      "owner": "TT Nyhetsbyrån"
+     },
+     {
+      "name": "Placera (Finwire)",
+      "url": "https://www.placera.se/nyheter/swedbank-hojer-bnp-prognosen-rejalt-for-i-ar-2026-11-10",
+      "country": "SE",
+      "kind": "nyhetsbyra",
+      "owner": "Finwire"
+     },
+     {
+      "name": "Swedbank",
+      "url": "https://www.swedbank-aktiellt.se/2026/november/svensk_ekonomi_vaxlar_ned_efter_stark_aterhamtning.csp?lt=csaa-1",
+      "country": "SE",
+      "kind": "ovrigt",
+      "owner": "Swedbank"
+     }
+    ]
+   }
+  ],
+  "unknown": {
+   "theme": "Latinamerika",
+   "item": {
+    "title": "Bankkrasch fällde Paraguays president – efterträdaren byter militärledning",
+    "summary": "Kollapsen för Paraguays största digitala bank, Ueno, frös sparpengar för omkring hälften av invånarna och ledde till att senaten enhälligt avsatte president Santiago Peña den 6 november; han är nu frihetsberövad, misstänkt för förmånliga lån från banken. Den 10 november bytte efterträdaren Pedro Alliana ut militärledningen och bad samtliga ministrar lämna in avskedsansökningar. Omkring 800 miljoner dollar i offentliga medel, främst pensionspengar, har fortfarande oklar framtid.",
+    "assessment": "Al Jazeera, EFE och RFI rapporterar oberoende och stämmer överens om förloppet, men siffrorna för återbetalda insättningar skiljer sig, troligen beroende på olika datum. Peña är misstänkt men inte dömd och nekar.",
+    "reliability": "hog",
+    "independentSources": 3,
+    "weak": false,
+    "why": "Den visar hur en snabbväxande digitalbank med statliga pensionspengar kunde välta en regering på en vecka – frågor om tillsyn och korruption som är relevanta långt utanför Paraguay.",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena",
+      "country": "QA",
+      "kind": "public",
+      "owner": "Al Jazeera Media Network"
+     },
+     {
+      "name": "EFE (via Infobae)",
+      "url": "https://www.infobae.com/america/agencias/2026/11/10/alliana-cambia-la-cupula-militar-en-paraguay-tras-el-escandalo-por-la-caida-de-ueno-bank/",
+      "country": "ES",
+      "kind": "nyhetsbyra",
+      "owner": "Agencia EFE"
+     },
+     {
+      "name": "RFI (via BioBioChile)",
+      "url": "https://www.biobiochile.cl/noticias/internacional/radio-france-internationale/2026/11/10/ueno-bank-en-medio-de-una-ola-de-allanamientos-algunos-paraguayos-temen-un-mero-cambio-de-maquillaje.shtml",
+      "country": "FR",
+      "kind": "public",
+      "owner": "France Médias Monde"
+     }
+    ]
+   }
+  }
+ }
+}
