@@ -1,0 +1,420 @@
+{
+ "date": "2026-11-12",
+ "generatedAt": "2026-11-12T09:30:00+01:00",
+ "lede": "Ukrainasamtalen i Abu Dhabi slutade med en överenskommelse om ett stort fångutbyte men utan fredsgenombrott, samtidigt som Nvidias styrelse överväger att avsätta vd Jensen Huang. I Sverige lägger expeditionsregeringen i dag fram en övergångsbudget utan nya satsningar.",
+ "sections": [
+  {
+   "id": "teknik",
+   "items": [
+    {
+     "title": "Nvidias styrelse överväger att avsätta Jensen Huang – aktien rasar efter stängning",
+     "summary": "Nvidias styrelse sammanträdde under onsdagen amerikansk tid för att avgöra om vd:n och grundaren Jensen Huang ska avsättas, sedan uppgifter kommit om två relationer – bland annat med en underställd chef – och en granskning inletts av en relation till en affärskvinna som anklagas för att ha hjälpt Kina att få tag på chip. Enligt Wall Street Journal förbereder styrelsen hans avgång och tar hjälp av en extern firma för att hitta en efterträdare. Aktien steg 2,9 procent under dagen men föll över 8 procent i handeln efter stängning.",
+     "assessment": "Flera oberoende redaktioner återger samstämmigt att mötet hölls och att aktien föll; uppgiften om en förberedd avsättning bygger på WSJ och har enligt Forbes bekräftats av Reuters. Inget beslut var offentliggjort vid rapportens skrivande – läget är under utveckling.",
+     "reliability": "medel",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Forbes",
+       "url": "https://www.forbes.com/sites/siladityaray/2026/11/12/nvidia-shares-plunge-as-board-reportedly-prepares-to-oust-ceo-jensen-huang/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Forbes"
+      },
+      {
+       "name": "The National",
+       "url": "https://www.thenationalnews.com/future/technology/2026/11/12/jensen-huang-faces-second-affair-claim-as-nvidia-board-weighs-his-future/",
+       "country": "AE",
+       "kind": "kommersiell",
+       "owner": "The National"
+      },
+      {
+       "name": "ABC7 San Francisco",
+       "url": "https://abc7news.com/post/nvidia-board-preparing-oust-ceo-jensen-huang-2nd-affair-subordinate-revealed-reports-say/20034548/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Disney"
+      },
+      {
+       "name": "The Daily Star (Reuters)",
+       "url": "https://www.thedailystar.net/news/technology/news/nvidia-board-decide-if-jensen-huang-stays-or-goes-4321796",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Reuters"
+      },
+      {
+       "name": "Business Today",
+       "url": "https://www.businesstoday.in/technology/news/story/nvidia-in-turmoil-jensen-huangs-future-uncertain-as-board-probes-weighs-his-exit-566948-2026-11-12",
+       "country": "IN",
+       "kind": "kommersiell",
+       "owner": "India Today Group"
+      }
+     ]
+    },
+    {
+     "title": "Maersk bekräftar dataintrång – utpressargrupp kräver 5 miljoner dollar",
+     "summary": "Rederijätten Maersk bekräftar att obehöriga tagit sig in i ett äldre system som följde med ett tidigare företagsförvärv och fört ut data därifrån. Utpressningsgruppen WhiteArmor påstår sig ha stulit omkring 100 GB, bland annat tiotusentals förar- och användaruppgifter, och kräver 5 miljoner dollar i bitcoin. Maersk säger att inga känsliga uppgifter verkar ha röjts och att frakt och kundintegrationer inte påverkats.",
+     "assessment": "Att intrånget skett är bekräftat av Maersk; uppgifterna om datamängd och innehåll kommer från angriparna och är obekräftade. Källorna är främst it-säkerhetsmedier och skiljer sig något i detaljer om vilka konton som berörs.",
+     "reliability": "medel",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "BleepingComputer",
+       "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "BleepingComputer"
+      },
+      {
+       "name": "Cybernews",
+       "url": "https://cybernews.com/security/maersk-confirms-cyberattack-ransomware/",
+       "country": "LT",
+       "kind": "kommersiell",
+       "owner": "Cybernews"
+      },
+      {
+       "name": "El Estrecho Digital",
+       "url": "https://www.elestrechodigital.com/en/2026/11/11/maersk-investigates-unauthorized-access-to-its-systems-following-claim-of-data-theft",
+       "country": "ES",
+       "kind": "kommersiell",
+       "owner": "El Estrecho Digital"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hallbarhet",
+   "items": [
+    {
+     "title": "COP31: ett 40-tal ledare talade i Antalya – flera stora utsläppare uteblev",
+     "summary": "Toppmötesdelen av klimatkonferensen COP31 inleddes i Antalya där omkring 40 stats- och regeringschefer, bland dem Erdoğan, Lula, Albanese och von der Leyen, höll tal. FN:s generalsekreterare Guterres varnade för att klimatkrisen springer ifrån världen, och EU ställde sig bakom Turkiets frivilliga löfte om att elektricitetens andel av världens energianvändning ska nå 35 procent till 2035. Flera ledare, däribland från Nigeria, Kenya, Egypten, Nederländerna och Sverige, hoppade av och USA saknar formell delegation.",
+     "assessment": "Reuters, Climate Home News och FN rapporterar samstämmigt om talen och löftet; uppgifterna om elens nuvarande andel skiljer sig något (cirka 20–23 procent). Löftena är frivilliga och inga förhandlade beslut finns ännu – mötet pågår till 20 november.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "ThePrint (Reuters)",
+       "url": "https://theprint.in/world/world-leaders-speak-at-cop31-climate-conference/3096451/",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Reuters"
+      },
+      {
+       "name": "Climate Home News",
+       "url": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
+       "country": "GB",
+       "kind": "kommersiell",
+       "owner": "Climate Home News"
+      },
+      {
+       "name": "UN News",
+       "url": "https://news.un.org/en/story/2026/11/1168775",
+       "country": "US",
+       "kind": "myndighet",
+       "owner": "Förenta nationerna"
+      },
+      {
+       "name": "MIT Technology Review",
+       "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "MIT"
+      }
+     ]
+    },
+    {
+     "title": "Värdlandet Turkiet lyfter nollavfall – men återvinningen hemma släpar",
+     "summary": "Turkiet använder COP31 för att marknadsföra sitt nollavfallsprogram, som COP-ordföranden Murat Kurum kallar en av konferensens huvudpelare. Granskningar visar samtidigt att landets totala avfallsmängd ökat och att återvinningsgraden ligger långt under EU-snittet, medan ett förbud mot engångsplast fortfarande väntar på presidentens underskrift.",
+     "assessment": "Bygger främst på en granskning i Climate Home News (vars resa betalades av turkiska staten, vilket redovisas) samt Washington Posts rapportering; officiell avfallsstatistik från Eurostat stöder bilden. Färre än tre oberoende källor lästa.",
+     "reliability": "medel",
+     "independentSources": 2,
+     "weak": true,
+     "sources": [
+      {
+       "name": "Climate Home News",
+       "url": "https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/",
+       "country": "GB",
+       "kind": "kommersiell",
+       "owner": "Climate Home News"
+      },
+      {
+       "name": "The Washington Post",
+       "url": "https://www.washingtonpost.com/business/2026/11/11/climate-cop31-turkey-waste-recycling/6e8230b2-dde2-11f1-912c-4fbb80d73f7f_story.html",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Nash Holdings"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inrikes",
+   "items": [
+    {
+     "title": "Övergångsbudget utan nya satsningar – dyrare jordbruksdiesel",
+     "summary": "Expeditionsregeringen lämnar i dag en övergångsbudget för 2027 där anslagen i princip ligger kvar på 2026 års nivå, vilket innebär att flera planerade höjningar, bland annat till Polisen, faller bort. Undantag görs för Kriminalvården, försvaret och infrastruktur, och nedsättningen av skatten på jordbruksdiesel förlängs inte. Partierna kan lämna egna budgetmotioner till 27 november och riksdagen röstar 9 december.",
+     "assessment": "Regeringens eget pressmeddelande samt SVT och TV4/TT ger en samstämmig bild av innehållet. Fakta om förslaget är bekräftade; vad en ny regering gör med budgeten är öppet.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "SVT",
+       "url": "https://www.svt.se/nyheter/inrikes/dyrare-diesel-kungligt-kalas-och-fangelseplatser-det-innehaller-budgeten",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "TV4",
+       "url": "https://www.tv4.se/artikel/6fdHCUFfihxCWFjIA8WY3W/nu-presenteras-oevergangsbudgeten",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "Telia"
+      },
+      {
+       "name": "Regeringen",
+       "url": "https://www.regeringen.se/pressmeddelanden/2026/11/presentation-av-budgetpropositionen-for-2027/",
+       "country": "SE",
+       "kind": "myndighet",
+       "owner": "Regeringskansliet"
+      },
+      {
+       "name": "ATL",
+       "url": "https://www.atl.nu/hostbudgeten-presenteras-ar-dieselrabatten-med",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "LRF Media"
+      }
+     ]
+    },
+    {
+     "title": "Regeringsfrågan: C håller fast vid röda linjer inför fredagens deadline",
+     "summary": "Centerpartiet upprepar att det inte stöder en regering som är beroende av SD eller där V ingår, och väntar på ”totalpaket” från både Kristersson och Andersson senast fredag kl 17. Magdalena Andersson säger att målet är en regering som kan samla 176 mandat, medan V har sagt att partiet inte stöder en regering det inte ingår i.",
+     "assessment": "Uppgifterna kommer från partiernas egna uttalanden återgivna av public service; läget är under utveckling och få nya fakta tillkom under dygnet. Färre än tre oberoende källor lästa.",
+     "reliability": "medel",
+     "independentSources": 2,
+     "weak": true,
+     "sources": [
+      {
+       "name": "SVT",
+       "url": "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026?inlagg=8210bbcb5ab2a4fc61b06e5a6a45b8f8",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "Sveriges Radio",
+       "url": "https://www.sverigesradio.se/artikel/centerpartiet-kraver-regeringsbesked-av-andersson-och-kristersson",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Radio"
+      }
+     ]
+    },
+    {
+     "title": "Gränskontroll vid inre gräns återinförs från i dag",
+     "summary": "Från och med i dag, 12 november, gäller åter tillfällig gränskontroll vid Sveriges inre gränser till och med 11 maj. Regeringen, som fattade beslutet förra veckan, hänvisar till säkerhetsläget och hotet mot allmän ordning och inre säkerhet.",
+     "assessment": "Beslutet är bekräftat genom regeringens pressmeddelande och har rapporterats av flera oberoende redaktioner; själva beslutet är från 5 november men träder i kraft i dag.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Regeringen",
+       "url": "https://www.regeringen.se/pressmeddelanden/2026/11/aterinford-granskontroll-vid-inre-grans/",
+       "country": "SE",
+       "kind": "myndighet",
+       "owner": "Regeringskansliet"
+      },
+      {
+       "name": "Realtid",
+       "url": "https://www.realtid.se/samhalle/aterinford-tillfallig-granskontroll-vid-inre-grans/",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "Realtid"
+      },
+      {
+       "name": "Arab News",
+       "url": "https://www.arabnews.pk/world/sweden-reintroduces-internal-border-control-citing-security-situation-3006175",
+       "country": "SA",
+       "kind": "kommersiell",
+       "owner": "Saudi Research and Media Group"
+      },
+      {
+       "name": "The Star",
+       "url": "https://www.thestar.com.my/news/world/2026/11/05/sweden-reintroduces-internal-border-control-citing-security-situation",
+       "country": "MY",
+       "kind": "kommersiell",
+       "owner": "Star Media Group"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "utrikes",
+   "items": [
+    {
+     "title": "Abu Dhabi-samtalen slutade med fångutbyte – men inget fredsgenombrott",
+     "summary": "De USA-ledda samtalen mellan Ryssland och Ukraina i Abu Dhabi avslutades efter två dagar med en principöverenskommelse om ett stort fångutbyte, enligt rysk sida med mer än 1 000 personer på vardera sida. Kärnfrågorna står kvar: Ryssland kräver att Ukraina lämnar Donbas och avvisar omedelbar vapenvila, medan Ukraina vägrar avstå territorium. De amerikanska sändebuden Kushner och Witkoff reser till Moskva för att möta Putin och därefter till Zelenskyj i Irland.",
+     "assessment": "Ukrainska, ryska och europeiska redaktioner bekräftar oberoende av varandra utfallet; exakt antal fångar och tidpunkt är ännu inte fastställda.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Euronews",
+       "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu",
+       "country": "FR",
+       "kind": "kommersiell",
+       "owner": "Alpac Capital"
+      },
+      {
+       "name": "Kyiv Independent",
+       "url": "https://kyivindependent.com/ukraine-war-latest-large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/",
+       "country": "UA",
+       "kind": "kommersiell",
+       "owner": "Kyiv Independent"
+      },
+      {
+       "name": "The Moscow Times",
+       "url": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227",
+       "country": "NL",
+       "kind": "kommersiell",
+       "owner": "The Moscow Times"
+      },
+      {
+       "name": "NPR",
+       "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+       "country": "US",
+       "kind": "public",
+       "owner": "NPR"
+      }
+     ]
+    },
+    {
+     "title": "Trump: USA vill ha ”total seger” i Irankriget",
+     "summary": "I ett tal på veterandagen vid Arlingtonkyrkogården sa president Trump att USA inte startade kriget mot Iran men vill uppnå en total seger, och att kriget snart ska vara över. Han nämnde 18 stupade amerikaner sedan operationerna inleddes för omkring sju månader sedan.",
+     "assessment": "Uttalandet återges samstämmigt av flera oberoende medier; det rör sig om en parts egna påståenden, och läget i själva kriget beskrivs inte närmare i källorna.",
+     "reliability": "medel",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Middle East Eye",
+       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-vows-total-victory-against-iran",
+       "country": "GB",
+       "kind": "kommersiell",
+       "owner": "Middle East Eye"
+      },
+      {
+       "name": "The Tribune (ANI)",
+       "url": "https://tribuneindia.com/news/usa-news/america-did-not-start-war-with-iran-trump-says-wants-to-have-total-victory",
+       "country": "IN",
+       "kind": "kommersiell",
+       "owner": "The Tribune Trust"
+      },
+      {
+       "name": "SBS News",
+       "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008842074",
+       "country": "KR",
+       "kind": "kommersiell",
+       "owner": "SBS"
+      },
+      {
+       "name": "Times of Israel",
+       "url": "https://www.timesofisrael.com/liveblog-november-11-2026/",
+       "country": "IL",
+       "kind": "kommersiell",
+       "owner": "Times of Israel"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "watch": "Bevaka Nvidias styrelsebeslut om Jensen Huang och Centerpartiets fredagsdeadline för regeringsunderlagen.",
+ "backside": {
+  "mustKnow": [
+   {
+    "title": "Het amerikansk inflation skickar räntorna mot 5 procent",
+    "summary": "Den amerikanska konsumentprisinflationen steg 0,4 procent i oktober, mer än väntat, och den tioåriga statsräntan steg till nära 5 procent medan den tvååriga fick sitt största dagslyft sedan april 2025. Marknaden prisar nu in en räntehöjning från Federal Reserve i december och fler under 2027, vilket pressade börser, guld och kryptovalutor.",
+    "assessment": "Flera oberoende finansmedier ger samma bild; små skillnader i exakta räntenivåer och sannolikheter beror på olika mättidpunkter.",
+    "reliability": "hog",
+    "independentSources": 3,
+    "weak": false,
+    "area": "Ekonomi",
+    "sources": [
+     {
+      "name": "Yahoo Finance (WSJ)",
+      "url": "https://finance.yahoo.com/economy/policy/articles/treasury-yields-turn-higher-fed-103000990.html",
+      "country": "US",
+      "kind": "kommersiell",
+      "owner": "News Corp"
+     },
+     {
+      "name": "Saxo Bank",
+      "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---us-treasury-yields-rip-higher---11-november-2026-11112026",
+      "country": "DK",
+      "kind": "ovrigt",
+      "owner": "Saxo Bank"
+     },
+     {
+      "name": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/11/the-2-year-treasury-yield-just-had-its-biggest-jump-in-19-months/",
+      "country": "US",
+      "kind": "kommersiell",
+      "owner": "24/7 Wall St."
+     },
+     {
+      "name": "CNN",
+      "url": "https://www.cnn.com/2026/11/10/investing/bond-yields-inflation-fed",
+      "country": "US",
+      "kind": "kommersiell",
+      "owner": "Warner Bros. Discovery"
+     }
+    ]
+   }
+  ],
+  "unknown": {
+   "theme": "Kultur",
+   "item": {
+    "title": "81-årig science fiction-veteran vinner Bookerpriset",
+    "summary": "Brittiske M. John Harrison har tilldelats Bookerpriset 2026 för romanen The End of Everything, en satirisk postapokalyptisk berättelse om en långsam invasion av formskiftande varelser längs Englands sydkust. Han är 81 år och den äldsta vinnaren i prisets historia, och enligt Bookerstiftelsen den första pristagaren som kommer direkt ur science fiction-världen. Juryn under ledning av Mary Beard var enig.",
+    "assessment": "Vinnaren och de centrala uppgifterna bekräftas av amerikansk public service och nyhetsbyrårapportering; priset delades ut 9 november, alltså strax utanför dygnet.",
+    "reliability": "hog",
+    "independentSources": 3,
+    "weak": false,
+    "why": "Att ett av världens tyngsta litteraturpris går till en genreförfattare visar hur gränsen mellan ”finlitteratur” och science fiction håller på att suddas ut.",
+    "sources": [
+     {
+      "name": "NPR",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6028700/2026-booker-prize-winner-the-end-of-everything",
+      "country": "US",
+      "kind": "public",
+      "owner": "NPR"
+     },
+     {
+      "name": "The Star (Xinhua)",
+      "url": "https://www.thestar.com.my/news/world/2026/11/10/british-science-fiction-writer-m-john-harrison-wins-2026-booker-prize",
+      "country": "CN",
+      "kind": "nyhetsbyra",
+      "owner": "Xinhua"
+     },
+     {
+      "name": "The Week",
+      "url": "https://www.theweek.in/wire-updates/international/2026/11/10/british-author-m-john-harrison-wins-booker-prize-for-the-end-of-everything.html",
+      "country": "IN",
+      "kind": "kommersiell",
+      "owner": "Malayala Manorama"
+     }
+    ]
+   }
+  }
+ }
+}
