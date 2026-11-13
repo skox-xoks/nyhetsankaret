@@ -1,0 +1,598 @@
+{
+ "date": "2026-11-13",
+ "generatedAt": "2026-11-13T09:15:00+01:00",
+ "lede": "Jensen Huang har lämnat Nvidia med omedelbar verkan, och Trump säger att USA inte längre behöver något avtal med Iran, vilket drev upp olje- och gaspriserna. I Sverige går Centerpartiets tidsgräns för besked från S och M ut i dag kl. 17.",
+ "sections": [
+  {
+   "id": "teknik",
+   "items": [
+    {
+     "title": "Jensen Huang lämnar Nvidia – finanschefen tar över tillfälligt",
+     "summary": "Nvidia meddelade på torsdagen att grundaren Jensen Huang lämnat posterna som vd och styrelseledamot med omedelbar verkan. Finanschefen Colette Kress blir tillförordnad vd och Harvey Jones bolagets första styrelseordförande. Avgången följer på avslöjanden om två relationer, varav en med en affärskvinna som amerikansk underrättelsetjänst enligt NYT misstänker arbetar för Kina. Aktien föll som mest drygt 10–14 procent under dagen och stängde enligt AP drygt 4 procent lägre. Trump har föreslagit Tim Cook som efterträdare.",
+     "assessment": "Avgången och ledningsförändringen är bekräftade av Nvidia och i SEC-anmälan. Spionmisstankarna bygger på anonyma underrättelsekällor och förnekas; TT talar om att Huang fått sparken medan bolaget säger att han avgått, och uppgifterna om kursfallet varierar.",
+     "reliability": "hog",
+     "independentSources": 5,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Nvidia (pressmeddelande)",
+       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+       "country": "US",
+       "kind": "ovrigt",
+       "owner": "Nvidia"
+      },
+      {
+       "name": "SEC (8-K)",
+       "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+       "country": "US",
+       "kind": "myndighet",
+       "owner": "U.S. Securities and Exchange Commission"
+      },
+      {
+       "name": "AP via The Tribune",
+       "url": "https://www.tribuneindia.com/news/world/what-we-know-after-jensen-huang-resigns-as-nvidia-ceo/",
+       "country": "US",
+       "kind": "nyhetsbyra",
+       "owner": "Associated Press"
+      },
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Yahoo"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress",
+       "country": "QA",
+       "kind": "public",
+       "owner": "Al Jazeera Media Network"
+      },
+      {
+       "name": "TT via Corren",
+       "url": "https://www.corren.se/ekonomi/artikel/nvidias-vd-far-sparken-efter-otrohetsskandal/r5pkm83j",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      },
+      {
+       "name": "SVT Nyheter Direkt",
+       "url": "https://www.svtplay.se/video/KqPAJxG/svt-nyheter-direkt/nvidias-vd-avgar-vad-hander-nu",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      }
+     ]
+    },
+    {
+     "title": "Globalt avbrott i Microsoft 365 – Outlook och Teams nere i timmar",
+     "summary": "Ett omfattande avbrott som började i Exchange Online på torsdagseftermiddagen spred sig till Outlook, Teams, SharePoint, OneDrive och Copilot för användare i ett 70-tal länder. Microsoft säger att många servrar oväntat blev otillgängliga och överbelastade resten av systemet, och rullar tillbaka en nätverksändring, men ser inga tecken på cyberattack. På fredagsmorgonen rapporterades återhämtningen som delvis och ojämn.",
+     "assessment": "Avbrottet och Microsofts egna förklaringar bekräftas av flera oberoende redaktioner. Grundorsaken är inte fastställd och uppgifterna om när tjänsterna återställdes skiljer sig åt.",
+     "reliability": "hog",
+     "independentSources": 5,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Reuters via Yahoo",
+       "url": "https://ca.finance.yahoo.com/news/microsoft-outage-drags-hours-disrupting-233132055.html",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      },
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/inrikes/microsoft-drabbat-av-storningar",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "ABC News",
+       "url": "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Walt Disney Company"
+      },
+      {
+       "name": "ABC (Australien)",
+       "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050",
+       "country": "AU",
+       "kind": "public",
+       "owner": "Australian Broadcasting Corporation"
+      },
+      {
+       "name": "SecurityWeek",
+       "url": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Wired Business Media"
+      }
+     ]
+    },
+    {
+     "title": "Cyberangrepp mot tysk drönartillverkare – Bundeswehr satte drönare på marken",
+     "summary": "Münchenbaserade Quantum Systems, en viktig leverantör till tyska försvarsmakten, bekräftar ett aktivt cyberangrepp mot sina interna system som upptäcktes i slutet av oktober. Enligt Der Spiegel planterades skadlig kod på en intern uppdateringsserver, förklädd som en uppdatering av planeringsprogramvara, och den nådde kunders servrar. Bundeswehr ska ha stoppat flygningar med bolagets drönare i förebyggande syfte; ingen gärningsman har pekats ut.",
+     "assessment": "Själva angreppet är bekräftat av bolaget, men detaljerna om uppdateringsservern bygger på Spiegel och flygstoppet är inte bekräftat av försvarsministeriet. Uppgifterna om huruvida flottan redan är i drift igen går isär.",
+     "reliability": "medel",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Handelsblatt",
+       "url": "https://www.handelsblatt.com/technik/forschung-innovation/quantum-systems-drohnenhersteller-meldet-massiven-cyberangriff/100269533.html",
+       "country": "DE",
+       "kind": "kommersiell",
+       "owner": "Handelsblatt Media Group"
+      },
+      {
+       "name": "Euronews",
+       "url": "https://de.euronews.com/2026/11/13/bundeswehr-besorgt-nach-cyberangriff-auf-deutschen-drohnen-hersteller-quantum",
+       "country": "FR",
+       "kind": "kommersiell",
+       "owner": "Alpac Capital"
+      },
+      {
+       "name": "Ruhr Nachrichten",
+       "url": "https://www.ruhrnachrichten.de/ueberregionales/quantum-systems-hacker-angriff-cyberattacke-drohnen-muenchen-bundeswehr-drohnenhersteller-w1273693-2002298697/",
+       "country": "DE",
+       "kind": "kommersiell",
+       "owner": "Lensing Media"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hallbarhet",
+   "items": [
+    {
+     "title": "COP31 går in i förhandlingar – Venezuela försvarar sin olja",
+     "summary": "När klimattoppmötet i Antalya lämnade ledartalen och gick över till förhandlingar stod blocken långt ifrån varandra: önationer kräver djupa utsläppsminskningar, EU-länder vill ha bredare elektrifiering, utvecklingsländer kräver finansiering och oljeproducenter vill fortsätta. Venezuelas tillförordnade president Delcy Rodríguez hävdade landets suveräna rätt att bygga ut oljeindustrin, medan värdlandet Turkiet föreslog att elens andel av världens energianvändning ska höjas till 35 procent till 2035. Vid en insamling till Stillahavsländernas nya klimatfond utlovade inga länder nya pengar.",
+     "assessment": "Reuters, AFP och Climate Home rapporterar samstämmigt om talen och splittringen. Turkiets förslag saknar besked om hur stor del som ska vara förnybart; svenska medier har främst lyft frågan om utfasning av fossila bränslen.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Reuters via Al-Monitor",
+       "url": "https://www.al-monitor.com/originals/2026/11/venezuela-tells-cop31-it-has-sovereign-right-pump-more-oil",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      },
+      {
+       "name": "RTÉ (AFP)",
+       "url": "https://www.rte.ie/news/environment/2026/1112/1599028-world-leaders-clash-over-climate-change-talks-at-cop31/",
+       "country": "IE",
+       "kind": "public",
+       "owner": "Raidió Teilifís Éireann"
+      },
+      {
+       "name": "Climate Home News",
+       "url": "https://www.climatechangenews.com/2026/11/12/pacific-leaves-empty-handed-from-cop31-pledging-event-for-new-fund/",
+       "country": "GB",
+       "kind": "ovrigt",
+       "owner": "Climate Home News"
+      },
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/inrikes/fyra-knackfragor-pa-klimatmotet-cop31-i-turkiet-svts-reporter-reder-ut",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      }
+     ]
+    },
+    {
+     "title": "Energipriserna stiger efter Trumps Iranbesked – högt elpris i södra Sverige",
+     "summary": "Sedan Trump skrivit att USA inte behöver något avtal med Iran steg Brentoljan som mest mot 96 dollar fatet innan den föll tillbaka mot 94, och europeiskt naturgaspris (TTF) steg 6,7 procent till omkring 92 euro per MWh. I elområde 4 i södra Sverige har elpriset legat på de högsta nivåerna på flera år, med tre kärnreaktorer ur drift, svag vind och dyr gas som förklaringar. Ringhals 3 och 4 väntas tillbaka 20 respektive 27 november.",
+     "assessment": "Prisrörelserna på olja och gas bekräftas av flera oberoende källor, men nivåerna skiljer sig beroende på tidpunkt. De svenska elprisuppgifterna är delvis några dagar gamla och utgör bakgrund snarare än dygnsnyhet.",
+     "reliability": "medel",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "CNBC via CNBC Africa",
+       "url": "https://www.cnbcafrica.com/2026/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "NBCUniversal"
+      },
+      {
+       "name": "Anadolu via A News",
+       "url": "https://www.anews.com.tr/europe/2026/11/12/energy-prices-rise-after-trump-says-us-does-not-need-a-deal-with-iran",
+       "country": "TR",
+       "kind": "nyhetsbyra",
+       "owner": "Anadolu Ajansı"
+      },
+      {
+       "name": "Oilprice.com",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Briefly-Hits-94-After-Trump-Says-US-Has-No-Need-for-Iran-Deal.html",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "OilPrice.com"
+      },
+      {
+       "name": "SVT Halland",
+       "url": "https://www.svt.se/nyheter/lokalt/halland/323-dagar-utan-karnkraft-pa-ringhals-sa-paverkar-det-elpriset",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "TT via Hallands Nyheter",
+       "url": "https://www.hn.se/nyheter/sverige/elpriserna-skenar-blir-varre-i-veckan.47dc9157-cb4c-5f72-8664-ced18fccaf3d",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      }
+     ]
+    },
+    {
+     "title": "Rött larm i Toscana – floder svämmade över efter rekordregn",
+     "summary": "Över 350 millimeter regn på 36 timmar fick floder att svämma över i nordvästra Toscana, där Serchio nådde rekordflöde och ett hundratal personer i Massa evakuerades eller isolerades av jordskred. Skolor stängdes i flera provinser och även Ligurien drabbades. Inga dödsfall har rapporterats; orange varning gäller under fredagen i delar av Toscana, Ligurien, Emilia-Romagna och Lazio.",
+     "assessment": "Italienska medier av olika ägare och Anadolu stämmer överens om förloppet, men siffrorna för evakuerade varierar något. Internationell och svensk bevakning saknas än så länge.",
+     "reliability": "medel",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Open",
+       "url": "https://www.open.online/2026/11/12/maltempo-toscana-allerta-rossa-12-novembre/",
+       "country": "IT",
+       "kind": "kommersiell",
+       "owner": "Open Online"
+      },
+      {
+       "name": "il Giornale",
+       "url": "https://www.ilgiornale.it/news/meteo-e-clima/maltempo-fiumi-esondati-e-frane-tra-toscana-e-liguria-centinaia-di-sfollati-e-persone-isolate-dove-scatta-lallerta-arancione/",
+       "country": "IT",
+       "kind": "kommersiell",
+       "owner": "Angelucci-familjen"
+      },
+      {
+       "name": "Greenreport.it",
+       "url": "https://www.greenreport.it/news/crisi-climatica-e-adattamento/64886-allerta-rossa-in-toscana-tra-allagamenti-e-frane-esondato-il-serchio-in-provincia-di-lucca-cento-sfollati-a-massa",
+       "country": "IT",
+       "kind": "ovrigt",
+       "owner": "Greenreport.it"
+      },
+      {
+       "name": "Anadolu via A News",
+       "url": "https://www.anews.com.tr/europe/2026/11/12/severe-weather-triggers-river-overflows-evacuations-in-italy",
+       "country": "TR",
+       "kind": "nyhetsbyra",
+       "owner": "Anadolu Ajansı"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inrikes",
+   "items": [
+    {
+     "title": "Regeringsfrågan: C:s tidsgräns går ut i dag – V kräver att C väljer sida",
+     "summary": "Centerpartiet har gett S och M till i dag fredag kl. 17 att lämna var sitt totalpaket med politik, finansiering och partisammansättning. Vänsterpartiet krävde på torsdagen att C väljer Magdalena Andersson och hotar annars att lämna processen, medan C i sin tur kräver att V senast samma tid släpper kravet på ministerposter. Andersson förordar en regering av S, C och MP; Kristerssons sonderingsuppdrag har förlängts sedan SD släppt kravet på att sitta i regeringen.",
+     "assessment": "Tidsgränserna och partiernas offentliga besked är bekräftade av SVT, GP och TT. Uppgifter om ett S-erbjudande till V bygger på anonyma källor och motsägs av S; slutdatum för Kristerssons uppdrag är inte bekräftat i läst material.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/inrikes/v-utesluter-att-backa-efter-c-ledarens-nya-deadline",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "Göteborgs-Posten",
+       "url": "https://www.gp.se/politik/vansterpartiet-blixtinkallar-till-presstraff.2002466f-9252-520e-a40c-6c3c78b77426",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "Stampen Media"
+      },
+      {
+       "name": "TT via Corren",
+       "url": "https://www.corren.se/nyheter/inrikes/politik/artikel/vansterpartiet-haller-presstraff/rkywmxvj",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      },
+      {
+       "name": "TV4",
+       "url": "https://www.tv4.se/artikel/2QSmHihs8UDHfJgbArpDv7/kaellor-sa-foersoekte-s-locka-oever-v-fick-nobben",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "Schibsted"
+      }
+     ]
+    },
+    {
+     "title": "Övergångsbudgeten under lupp: polisen och elstödet blir utan",
+     "summary": "Expeditionsregeringens budgetproposition för 2027 förlänger i stort årets anslag, med undantag för planerade försvarshöjningar och mer pengar till Kriminalvården. Polisen får inte det utlovade tillskottet på 2,9 miljarder, och elstöd, sänkt drivmedelsskatt och skattelättnaden på jordbruksdiesel uteblir. Finansminister Elisabeth Svantesson (M) säger att nästa regering kommer till ”ett dukat bord”; riksdagen väntas fatta rambeslut 9 december.",
+     "assessment": "Siffrorna finns i propositionen och återges samstämmigt av SVT, TT och Kvartal. Uppgiften om reformutrymmet kommer bara från SVT; tydlig partikritik har ännu inte redovisats.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/inrikes/dyrare-diesel-kungligt-kalas-och-fangelseplatser-det-innehaller-budgeten",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "TT via VT",
+       "url": "https://www.vt.se/ekonomi/politik/artikel/budget-utan-ny-politik-presenteras-dukat-bord/r35k8zej",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      },
+      {
+       "name": "Kvartal",
+       "url": "https://kvartal.se/nyheter/artiklar/overgangsbudgeten-presenterad-flera-miljardsatsningar-uteblir/cG9zdDoyNTU3Nzk",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "Stiftelsen Kvartal"
+      },
+      {
+       "name": "Publikt",
+       "url": "https://www.publikt.se/nyhet/begarda-tillskott-uteblir-i-overgangsbudget-28123",
+       "country": "SE",
+       "kind": "ovrigt",
+       "owner": "Fackförbundet ST"
+      }
+     ]
+    },
+    {
+     "title": "Norden börjar ta fram gemensamt försvarsavtal",
+     "summary": "Försvarsministrarna i Sverige, Norge, Danmark, Finland och Island enades vid Nordefco-mötet i Oslo om att börja förhandla fram ett nytt nordiskt försvarssamarbetsavtal, det första mellan alla fem sedan Sverige och Finland gick med i Nato. Syftet är bland annat att trupp och materiel snabbt ska kunna förflyttas över gränserna. Sverige deltog med Pål Jonson och Carl-Oskar Bohlin och tar över ordförandeskapet i Nordefco vid årsskiftet.",
+     "assessment": "Beskedet bygger främst på norska regeringen och NTB; svensk bevakning har varit sparsam. Det är bara arbetet med avtalet som har inletts, inget avtal är klart.",
+     "reliability": "medel",
+     "independentSources": 2,
+     "weak": true,
+     "sources": [
+      {
+       "name": "Forsvarets forum (NTB)",
+       "url": "https://www.forsvaretsforum.no/danmark-finland-forsvaret/de-nordiske-landene-skal-lage-ny-forsvarsavtale/532472",
+       "country": "NO",
+       "kind": "nyhetsbyra",
+       "owner": "NTB"
+      },
+      {
+       "name": "Regjeringen.no",
+       "url": "https://www.regjeringen.no/no/aktuelt/begynner-arbeidet-med-nordisk-forsvarsavtale/id3192484/",
+       "country": "NO",
+       "kind": "myndighet",
+       "owner": "Norges regering"
+      },
+      {
+       "name": "Regeringen.se",
+       "url": "https://www.regeringen.se/pressmeddelanden/2026/11/forsvarsministern-och-ministern-for-civilt-forsvar-deltar-pa-nordiskt-forsvarsministermote-i-oslo/",
+       "country": "SE",
+       "kind": "myndighet",
+       "owner": "Regeringskansliet"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "utrikes",
+   "items": [
+    {
+     "title": "Trump: USA behöver inget avtal med Iran – Vance flyttas från förhandlingarna",
+     "summary": "Trump skrev på torsdagen att USA inte längre behöver något avtal med Iran och bad vicepresident JD Vance, som lett samtalen sedan april, att i stället fokusera på inrikesfrågor. Han sade också att han kan tänka sig att använda militärt våld ”redan nu” om Iran hotar allierade eller fartyg. Iran uppger att två tankfartyg träffats av minor öster om Hormuzsundet, något som inte bekräftats oberoende.",
+     "assessment": "Trumps uttalanden är bekräftade via hans egna inlägg och intervju och återges av flera oberoende redaktioner. Uppgifterna om tankfartygen kommer enbart från iransk sida och varierar mellan två och fyra fartyg; uppgifter om ett hätskt samtal med Netanyahu förnekas av Israel.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Reuters via Yahoo",
+       "url": "https://currently.att.yahoo.com/att/trump-says-vance-focus-domestic-133908907.html",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      },
+      {
+       "name": "USA Today",
+       "url": "https://www.yahoo.com/news/politics/articles/trump-says-deal-iran-not-223633935.html",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Gannett"
+      },
+      {
+       "name": "Times of Israel",
+       "url": "https://www.timesofisrael.com/trump-tells-vance-to-shift-his-focus-as-us-doesnt-need-a-deal-with-iran/amp/",
+       "country": "IL",
+       "kind": "kommersiell",
+       "owner": "Times of Israel"
+      },
+      {
+       "name": "Arab Times",
+       "url": "https://www.arabtimesonline.com/news/trump-warns-iran-i-could-use-military-force-right-now-if-us-allies-or-ships-are-threatened/",
+       "country": "KW",
+       "kind": "kommersiell",
+       "owner": "Dar Al-Seyassah"
+      },
+      {
+       "name": "Middle East Monitor",
+       "url": "https://www.middleeastmonitor.com/20261112-iran-says-2-oil-tankers-caught-fire-after-hitting-naval-mines-near-strait-of-hormuz/",
+       "country": "GB",
+       "kind": "ovrigt",
+       "owner": "Middle East Monitor"
+      }
+     ]
+    },
+    {
+     "title": "USA:s sändebud träffade Putin och Zelenskyj – Europa kan få plats vid bordet",
+     "summary": "Steve Witkoff och Jared Kushner träffade Putin i Kreml i två timmar på torsdagen och flög sedan till Dublin för ett möte med Zelenskyj i samband med Europeiska politiska gemenskapens toppmöte. Zelenskyj väntar sig krigets största fångutbyte och säger att europeiska förhandlare deltar i nästa samtalsrunda, men Kreml kräver att Europa först utser en enda företrädare och Putin avvisar europeisk trupp i Ukraina. EU förbereder ett 22:a sanktionspaket som ska läggas fram före toppmötet 26–27 november.",
+     "assessment": "Mötena är bekräftade av flera oberoende källor och parterna själva. Fångutbytet saknar siffror och Europas roll är fortfarande villkorad; uppgifterna kommer delvis från en part i taget.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "AP via PBS",
+       "url": "https://www.pbs.org/newshour/world/u-s-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-head-for-dublin-to-see-zelenskyy",
+       "country": "US",
+       "kind": "nyhetsbyra",
+       "owner": "Associated Press"
+      },
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/utrikes/direktrapport-forsamrat-sakerhetslage?inlagg=6fa4da25cdcbd0436e382b2ad9c492a3",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "Kyiv Independent",
+       "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/",
+       "country": "UA",
+       "kind": "kommersiell",
+       "owner": "Kyiv Independent"
+      },
+      {
+       "name": "Irish Times",
+       "url": "https://www.irishtimes.com/politics/2026/11/12/eu-meetings-dublin-road-closures-traffic-disruption-latest/",
+       "country": "IE",
+       "kind": "kommersiell",
+       "owner": "The Irish Times Trust"
+      },
+      {
+       "name": "Reuters via TimesLIVE",
+       "url": "https://www.timeslive.co.za/news/world/2026-11-12-eu-to-unveil-new-russia-sanctions-package-by-year-end/",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "watch": "Centerpartiets besked efter tidsgränsen kl. 17 i dag kan avgöra om Sverige får en S- eller M-ledd regering – eller närmar sig extraval.",
+ "backside": {
+  "mustKnow": [
+   {
+    "area": "Säkerhet",
+    "title": "Två iranier fällda i London för spionage mot Iran International",
+    "summary": "En jury i London fällde två iranska män för att ha bistått iransk underrättelsetjänst genom att spionera på journalister vid den persiskspråkiga kanalen Iran International. Den ene döms även för förberedelse till allvarligt våld. Enligt polisen är det första gången iranska medborgare åtalas enligt den brittiska säkerhetslagen; straffet bestäms i december och Irans ambassad avvisar domen.",
+    "assessment": "AP och Sky News rapporterar samstämmigt om domen. Iran International är en part i målet eftersom dess journalister var måltavlor.",
+    "reliability": "hog",
+    "independentSources": 3,
+    "weak": false,
+    "sources": [
+     {
+      "name": "AP via Yahoo",
+      "url": "https://ca.news.yahoo.com/london-court-finds-2-iranian-142500751.html",
+      "country": "US",
+      "kind": "nyhetsbyra",
+      "owner": "Associated Press"
+     },
+     {
+      "name": "Sky News via This is the Coast",
+      "url": "https://www.thisisthecoast.co.uk/news/national-news/two-iranians-convicted-of-spying-for-their-country-after-entering-britain-illegally/",
+      "country": "GB",
+      "kind": "kommersiell",
+      "owner": "Comcast"
+     },
+     {
+      "name": "Iran International",
+      "url": "https://www.iranintl.com/en/202611122230",
+      "country": "GB",
+      "kind": "ovrigt",
+      "owner": "Volant Media"
+     }
+    ]
+   },
+   {
+    "area": "Sport",
+    "title": "Harry Kane slog Shiltons rekord – mest landskamper för England",
+    "summary": "Harry Kane gjorde sin 126:e landskamp och passerade därmed Peter Shiltons rekord när England slog Kroatien med 2–1 på Wembley i Nations League. Kane avgjorde själv på straff, sitt 92:a landslagsmål. Rekordet kommer mindre än tre veckor efter att han vann Ballon d'Or.",
+    "assessment": "Flera oberoende sportredaktioner bekräftar rekordet och resultatet. Små skillnader finns i hur segern påverkade Englands kvartsfinalplats.",
+    "reliability": "hog",
+    "independentSources": 3,
+    "weak": false,
+    "sources": [
+     {
+      "name": "Sky Sports",
+      "url": "https://www.skysports.com/football/news/13611419/harry-kane-england-captain-breaks-three-lions-appearance-record-by-winning-126th-senior-cap-vs-croatia-at-wembley",
+      "country": "GB",
+      "kind": "kommersiell",
+      "owner": "Comcast"
+     },
+     {
+      "name": "Al Jazeera (AFP)",
+      "url": "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals",
+      "country": "QA",
+      "kind": "public",
+      "owner": "Al Jazeera Media Network"
+     },
+     {
+      "name": "beIN Sports",
+      "url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/harry-kane-makes-history-with-england-breaking-peter-shilton-s-record-2026-11-12",
+      "country": "QA",
+      "kind": "kommersiell",
+      "owner": "beIN Media Group"
+     }
+    ]
+   }
+  ],
+  "unknown": {
+   "theme": "Asien och Oceanien",
+   "item": {
+    "title": "Indonesiens vicepresident avgår efter examensskandal",
+    "summary": "Gibran Rakabuming Raka, 39, son till förre presidenten Joko Widodo, lämnade på torsdagen in sin avskedsansökan som vicepresident, timmar innan parlamentet skulle behandla en riksrättsbegäran. Bakgrunden är domstolsbeslut om att hans gymnasiebehörighet från studier i Australien inte styrkts; själv säger han att beslutet saknar koppling till examen. President Prabowo accepterade avgången och ska nominera två kandidater, medan rupien föll till rekordlåg nivå mot dollarn.",
+    "assessment": "Avgången bekräftas av Reuters, AFP, ABC och indonesiska medier. Bedömningarna av vad den betyder för alliansen mellan Prabowo och Widodo går isär.",
+    "reliability": "hog",
+    "independentSources": 4,
+    "weak": false,
+    "why": "Världens tredje största demokrati upplever sin mest uppmärksammade avgång sedan Suharto 1998, vilket ritar om maktbalansen i ett land med 280 miljoner invånare.",
+    "sources": [
+     {
+      "name": "ABC (Australien)",
+      "url": "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802",
+      "country": "AU",
+      "kind": "public",
+      "owner": "Australian Broadcasting Corporation"
+     },
+     {
+      "name": "Reuters via The Star",
+      "url": "https://www.thestar.com.my/news/world/2026/11/12/indonesia-vp-gibran-hands-in-his-resignation-to-upper-house",
+      "country": "GB",
+      "kind": "nyhetsbyra",
+      "owner": "Thomson Reuters"
+     },
+     {
+      "name": "AFP via Malay Mail",
+      "url": "https://malaymail.com/news/world/2026/11/12/jokowis-son-gibran-resigns-as-indonesias-vice-president-amid-fake-diploma-scandal/242945",
+      "country": "FR",
+      "kind": "nyhetsbyra",
+      "owner": "Agence France-Presse"
+     },
+     {
+      "name": "Jakarta Globe",
+      "url": "https://jakartaglobe.id/news/my-resignation-has-nothing-to-do-with-diploma-gibran",
+      "country": "ID",
+      "kind": "kommersiell",
+      "owner": "BeritaSatu Media Holdings"
+     },
+     {
+      "name": "TT-AFP via GP",
+      "url": "https://www.gp.se/nyheter/varlden/vicepresident-avgar-i-politisk-turbulens.9656c94c-cad1-5507-b406-d43159edb2d4",
+      "country": "SE",
+      "kind": "nyhetsbyra",
+      "owner": "TT Nyhetsbyrån"
+     }
+    ]
+   }
+  }
+ }
+}
