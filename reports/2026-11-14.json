@@ -1,0 +1,511 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T09:05:00+01:00",
+ "lede": "Hela USA:s flygtrafik stod still i över fyra timmar, och Vita huset bekräftar ett första toppmöte mellan Trump, Xi och Putin. I Sverige har S och M lämnat sina totalpaket till Centerpartiet, som väntas ge besked först nästa vecka.",
+ "sections": [
+  {
+   "id": "teknik",
+   "items": [
+    {
+     "title": "Microsofts globala avbrott drog ut på tiden, och bolaget kan inte säga när det är över",
+     "summary": "Avbrottet i Microsoft 365 började på torsdagseftermiddagen och fortsatte hela fredagen, eftersom servrar som startats om under natten kraschade igen när trafiken kom tillbaka. På fredagskvällen svensk tid sade Microsoft att återhämtningen var bred och bad om ursäkt, men gav ingen tidpunkt för när allt fungerar fullt ut. Outlook, Teams, Copilot och SharePoint drabbades i ett 70-tal länder, bland annat hos myndigheter i Australien, Singapore och Storbritannien.",
+     "assessment": "Fyra oberoende redaktioner ger en samstämmig bild av förloppet. Någon grundorsak är inte bekräftad: Microsoft säger att det inte finns några tecken på cyberattack, och utomstående experters förklaringar är spekulationer. Händelsen pågår fortfarande.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Euronews",
+       "url": "https://www.euronews.com/2026/11/13/microsoft-outage-explained-what-went-wrong-and-is-your-data-at-risk",
+       "country": "FR",
+       "kind": "kommersiell",
+       "owner": "Euronews"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why",
+       "country": "QA",
+       "kind": "public",
+       "owner": "Al Jazeera Media Network"
+      },
+      {
+       "name": "Forbes",
+       "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/13/microsoft-365-outage-continues-tech-giant-has-no-timeline-for-recovery-says-its-deeply-sorry/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Forbes"
+      },
+      {
+       "name": "Göteborgs-Posten (TT-AFP)",
+       "url": "https://www.gp.se/ekonomi/stora-storningar-for-microsoft.f0d759d0-3819-5579-b1bd-664a802be03b",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia-skandalen sprider sig till Trumps regering",
+     "summary": "USA:s finansminister Scott Bessent anklagade handelsdepartementet för att i månader ha dragit ut på att svartlista Singaporebolaget Megaspeed, som misstänks ha fört Nvidia-chip vidare till Kina. Enligt Reuters har höga tjänstemän i Vita huset diskuterat handelsminister Howard Lutnicks framtid, medan Vita huset säger att Trump har fullt förtroende för honom. En ny analys pekar samtidigt på att exportförbjudna Nvidia-chip använts för att träna ledande kinesiska AI-modeller.",
+     "assessment": "Bessents uttalanden är bekräftade av flera oberoende redaktioner. Uppgifterna om interna strider och om Lutnicks framtid bygger på anonyma källor och bestrids delvis av handelsdepartementet. Megaspeed förnekar att bolaget gjort något fel, och analysen om de kinesiska modellerna kommer från en enskild forskare.",
+     "reliability": "medel",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "AP (via PBS NewsHour)",
+       "url": "https://www.pbs.org/newshour/politics/bessent-blames-lutnicks-commerce-department-for-not-restricting-nvidia-chips-to-china",
+       "country": "US",
+       "kind": "nyhetsbyra",
+       "owner": "Associated Press"
+      },
+      {
+       "name": "TheStreet",
+       "url": "https://www.thestreet.com/technology/scott-bessent-and-lutnick-clash-over-nvidia-chips-and-china",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "The Arena Group"
+      },
+      {
+       "name": "Newsweek",
+       "url": "https://www.newsweek.com/scott-bessent-howard-lutnick-nvidia-scandal-12712195",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Newsweek"
+      },
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "TechCrunch"
+      }
+     ]
+    },
+    {
+     "title": "USA slår till mot Nordkoreas kryptostölder och deepfake-bedrägerier",
+     "summary": "Det amerikanska justitiedepartementet har fått domstolens tillstånd att beslagta eller frysa över 1,2 miljarder dollar från oktoberstölden mot kryptobörsen Binance, som FBI tillskriver Nordkorea. FBI har också slagit ut infrastrukturen bakom bedrägeriet ”FaceStealer”, där offer lockades in i falska videomöten med deepfakes av kända kryptoprofiler och lurades att installera skadlig kod. Enligt FBI har bedrägeriet gett över 400 miljoner dollar på 18 månader.",
+     "assessment": "Fyra oberoende fackmedier återger myndigheternas uppgifter samstämmigt, men allt bygger på amerikanska myndigheters uppgifter och Nordkorea förnekar inblandning. Beskedet kom sent den 12 november, men det mesta av rapporteringen publicerades under dygnet.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "The Record",
+       "url": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Recorded Future"
+      },
+      {
+       "name": "The Hacker News",
+       "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "The Hacker News"
+      },
+      {
+       "name": "Decrypt (via Yahoo News)",
+       "url": "https://www.yahoo.com/news/us/articles/north-korea-stole-400-million-220603779.html",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Decrypt"
+      },
+      {
+       "name": "Security Affairs",
+       "url": "https://securityaffairs.com/203012/cyber-crime/north-korea-crypto-theft-operations-doj-seizes-1-2-billion-and-disrupts-hacker-infrastructure.html",
+       "country": "IT",
+       "kind": "ovrigt",
+       "owner": "Security Affairs"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hallbarhet",
+   "items": [
+    {
+     "title": "COP31:s första vecka slutar utan enighet om fossila bränslen",
+     "summary": "FN:s generalsekreterare António Guterres, på sitt sista klimatmöte, krävde i Antalya ”omedelbara och drastiska” utsläppsminskningar och varnade för fossilindustrins inflytande. Värdlandet Turkiet driver ett mål om att el ska stå för 35 procent av världens energianvändning till 2035, men utan krav på förnybar el, medan Brasilien och EU vill ha tydligare planer för att lämna fossila bränslen. Australien, som leder förhandlingarna, ska lägga fram ett första utkast till slutdokument i början av nästa vecka.",
+     "assessment": "Fyra oberoende redaktioner ger en samstämmig bild av läget och av Guterres budskap. Förhandlingarna pågår och inget utfall är klart, och parterna bedömer elektrifieringsmålets ambitionsnivå olika.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "AP (via PBS NewsHour)",
+       "url": "https://www.pbs.org/newshour/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe",
+       "country": "US",
+       "kind": "nyhetsbyra",
+       "owner": "Associated Press"
+      },
+      {
+       "name": "Reuters (via The Business Standard)",
+       "url": "https://www.tbsnews.net/worldbiz/europe/un-chief-urges-drastic-emissions-cuts-cop31-talks-remain-divided-over-fossil-fuels",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      },
+      {
+       "name": "Inside Climate News",
+       "url": "https://insideclimatenews.org/news/13112026/u-n-leader-says-people-power-is-the-secret-weapon-against-global-warming/",
+       "country": "US",
+       "kind": "ovrigt",
+       "owner": "Inside Climate News"
+      },
+      {
+       "name": "ABC News Australia",
+       "url": "https://www.abc.net.au/news/2026-11-14/cop31-35-by-35-climate-change-target/107384386",
+       "country": "AU",
+       "kind": "public",
+       "owner": "Australian Broadcasting Corporation"
+      }
+     ]
+    },
+    {
+     "title": "IEA: Oljemarknaden får överskott för första gången sedan Irankriget",
+     "summary": "Internationella energiorganet IEA bedömer i sin novemberrapport att världens oljeutbud blir större än efterfrågan under fjärde kvartalet, för första gången sedan kriget med Iran bröt ut. Exporten från Gulfen återhämtar sig och Opec+ ökar produktionen, samtidigt som de höga priserna väntas minska efterfrågan med 2,7 miljoner fat per dag i år. Brentoljan låg kvar kring 96 dollar per fat, och diesel i Europa är fortfarande omkring 77 procent dyrare än före kriget.",
+     "assessment": "Flera oberoende redaktioner och nyhetsbyråer återger rapporten samstämmigt. Det är en prognos från en officiell organisation, och IEA pekar själv på fortsatta attacker mot tankfartyg i Hormuzsundet som en risk.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Reuters (via Business Recorder)",
+       "url": "https://www.brecorder.com/news/40448772/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-iea-says",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      },
+      {
+       "name": "Bloomberg (via Rigzone)",
+       "url": "https://www.rigzone.com/news/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article",
+       "country": "US",
+       "kind": "nyhetsbyra",
+       "owner": "Bloomberg"
+      },
+      {
+       "name": "The National",
+       "url": "https://www.thenationalnews.com/business/energy/2026/11/13/oil-market-to-return-to-surplus-for-first-time-since-start-of-iran-war-iea-says/",
+       "country": "AE",
+       "kind": "kommersiell",
+       "owner": "The National"
+      },
+      {
+       "name": "ANI",
+       "url": "https://aninews.in/news/business/global-oil-market-to-return-to-surplus-in-q4-2026-larger-supply-build-expected-in-2027-iea20261113165213/",
+       "country": "IN",
+       "kind": "nyhetsbyra",
+       "owner": "ANI"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inrikes",
+   "items": [
+    {
+     "title": "S och M har lämnat sina totalpaket – nu ska Centerpartiet välja väg",
+     "summary": "Socialdemokraterna och Moderaterna lämnade sina totalpaket till Centerpartiet före fredagens deadline kl. 17. Magdalena Andersson (S) vill bilda en regering av S, C och MP med V utanför och säger att den ”ligger inom räckhåll”, medan Ulf Kristersson (M) föreslår en borgerlig minoritetsregering av M, C, KD och L. C-ledaren Elisabeth Thand Ringqvist bekräftar att båda paketen kommit in men avslöjar inte innehållet, och enligt TT väntas besked troligen först nästa vecka.",
+     "assessment": "SVT, TT, TV4 och Bulletin återger samma uttalanden samstämmigt. Paketens innehåll är inte offentligt, så det som är känt är vad partiledarna själva har sagt.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/inrikes/deadline-for-totalpaket-har-lopt-ut",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "Corren (TT)",
+       "url": "https://www.corren.se/nyheter/inrikes/politik/artikel/andersson-ny-regering-ligger-inom-rackhall/lw6n25wj",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      },
+      {
+       "name": "TV4 Nyheterna",
+       "url": "https://www.tv4.se/artikel/22xsNbYnBQ5hp1gsRfqpGm/huvudpersonernas-haelsningar-efter-totalpaketens-deadline",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "TV4"
+      },
+      {
+       "name": "Bulletin",
+       "url": "https://bulletin.nu/totalpaketen-ar-lamnade-nu-ska-centerpartiet-valja",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "Bulletin"
+      }
+     ]
+    },
+    {
+     "title": "V står fast vid kravet på ministerposter när C:s tidsgräns löper ut",
+     "summary": "Centerpartiet hade gett Vänsterpartiet till fredag kl. 17 att släppa kravet på ministerposter i en S-ledd regering, men V vägrar backa och vill att C först väljer S-paketet innan samtalen mellan fyra partier återupptas. TV4:s politiska reporter beskriver det rödgröna paketet som ”havererat inför öppen ridå”, och enligt SVT:s Mats Knutson är C djupt splittrat i frågan om vilken sida partiet ska välja.",
+     "assessment": "V:s hållning är väl belagd hos SVT, TT och TV4, men de tydligaste uttalandena gjordes den 12 november, strax före dygnet. Något nytt formellt svar från V vid själva tidsgränsen har inte rapporterats.",
+     "reliability": "medel",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/inrikes/v-utesluter-att-backa-efter-c-ledarens-nya-deadline",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "Göteborgs-Posten (TT)",
+       "url": "https://gp.se/nyheter/sverige/c-anderssons-besked-har-fort-fragorna-framat.a0e6ebca-a05c-5830-9bb2-3fc1c9dc7e1b",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      },
+      {
+       "name": "TV4 Nyheterna",
+       "url": "https://www.tv4.se/artikel/5Uet3OFSZECBuxa6RuUPf2/deadline-foer-totalpaketen-havererat-infoer-oeppen-rida",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "TV4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "utrikes",
+   "items": [
+    {
+     "title": "Vita huset bekräftar första toppmötet mellan Trump, Xi och Putin",
+     "summary": "Donald Trump, Xi Jinping och Vladimir Putin ska ha sitt första trepartsmöte någonsin på torsdag, i samband med Apec-toppmötet i Shenzhen. Enligt amerikanska tjänstemän ska mötet främst handla om kärnvapennedrustning och kriget mot Iran men inte om Ukraina, och inga avtal väntas. Kremlrådgivaren Jurij Ushakov säger däremot att Ukraina kommer att diskuteras, och Ukrainas utrikesminister varnar för att mötet kan uppmuntra Putin att fortsätta kriget.",
+     "assessment": "AP, AFP och Kyiv Independent bekräftar beskedet oberoende av varandra. Uppgifterna om dagordningen kommer från anonyma amerikanska tjänstemän och skiljer sig från Kremls version.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "AP (via KPRC Click2Houston)",
+       "url": "https://www.click2houston.com/news/politics/2026/11/13/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-officials-say/",
+       "country": "US",
+       "kind": "nyhetsbyra",
+       "owner": "Associated Press"
+      },
+      {
+       "name": "Gulf News (AFP)",
+       "url": "https://gulfnews.com/world/trump-xi-putin-to-hold-historic-meeting-in-china-next-week-white-house-1.500746884",
+       "country": "FR",
+       "kind": "nyhetsbyra",
+       "owner": "Agence France-Presse"
+      },
+      {
+       "name": "The Kyiv Independent",
+       "url": "https://kyivindependent.com/historic-first-summit-among-trump-xi-putin-will-not-focus-on-ukraine-white-house-says/",
+       "country": "UA",
+       "kind": "kommersiell",
+       "owner": "The Kyiv Independent"
+      }
+     ]
+    },
+    {
+     "title": "Iran trappar upp i Gulfen: hävdar attack mot USA-radar i Bahrain",
+     "summary": "Irans revolutionsgarde säger att det förstört en amerikansk radar för tidig varning i Bahrain, som vedergällning för ett nattligt flyganfall mot hamnstaden Sirik vid Hormuzsundet. Revolutionsgardet uppger också att ett tankfartyg med flytande gas gått på en mina och exploderat i sundet, dagen efter att fyra oljetankfartyg träffats av explosioner. Samtidigt kallar Irans expertförsamling ett utträde ur icke-spridningsavtalet en ”oundviklig nödvändighet”.",
+     "assessment": "AP, Reuters, RFE/RL och ryska statliga TASS rapporterar, men allt bygger främst på revolutionsgardets påståenden som inte verifierats oberoende. USA och Bahrain hade inte kommenterat i de artiklar som lästes; uppgifter om ett amerikanskt dementi är obekräftade.",
+     "reliability": "medel",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "AP (via ABC News)",
+       "url": "https://abcnews.com/International/wireStory/irans-revolutionary-guard-destroyed-us-radar-bahrain-mideast-138102943",
+       "country": "US",
+       "kind": "nyhetsbyra",
+       "owner": "Associated Press"
+      },
+      {
+       "name": "Reuters (via gCaptain)",
+       "url": "https://gcaptain.com/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz/",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      },
+      {
+       "name": "Radio Free Europe/Radio Liberty",
+       "url": "https://www.rferl.org/a/iran-us-sirik-bahrain-war-nuclear-talks/33897951.html",
+       "country": "US",
+       "kind": "public",
+       "owner": "U.S. Agency for Global Media"
+      },
+      {
+       "name": "TASS",
+       "url": "https://tass.com/world/2217633",
+       "country": "RU",
+       "kind": "nyhetsbyra",
+       "owner": "Ryska staten"
+      }
+     ]
+    },
+    {
+     "title": "Europa ska delta i nästa fredssamtal om Ukraina, enligt USA och Kiev",
+     "summary": "Efter de amerikanska sändebuden Steve Witkoffs och Jared Kushners möten med Putin och Zelenskyj säger Kushner att båda sidor gått med på att Europa deltar i nästa förhandlingsrunda. Enligt EU-rådets ordförande António Costa ska delegationen bestå av EU-institutionerna samt Frankrike, Tyskland, Italien, Polen och Storbritannien. Kreml har varken bekräftat eller avvisat detta, och Putin står fast vid sina krav på fyra ukrainska regioner.",
+     "assessment": "Yle, CNN och RFE/RL rapporterar oberoende av varandra. Uppgiften om Rysslands samtycke kommer bara från amerikanskt håll, eftersom Kreml varit undvikande.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Svenska Yle",
+       "url": "https://yle.fi/a/7-10108647",
+       "country": "FI",
+       "kind": "public",
+       "owner": "Yleisradio"
+      },
+      {
+       "name": "CNN (via Yahoo News)",
+       "url": "https://www.yahoo.com/news/politics/articles/witkoff-kushner-arrive-moscow-ukraine-084920352.html",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Warner Bros. Discovery"
+      },
+      {
+       "name": "Radio Free Europe/Radio Liberty",
+       "url": "https://www.rferl.org/a/ukraine-russia-us-peace-talks/33897813.html",
+       "country": "US",
+       "kind": "public",
+       "owner": "U.S. Agency for Global Media"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "watch": "Bevaka Centerpartiets besked om vilket totalpaket partiet väljer, troligen nästa vecka, och tisdagen den 17 november då Ulf Kristersson redovisar sitt sonderingsuppdrag för talmannen.",
+ "backside": {
+  "mustKnow": [
+   {
+    "area": "Trafik och samhälle",
+    "title": "Hela USA:s flygtrafik stoppades i över fyra timmar",
+    "summary": "Den amerikanska luftfartsmyndigheten FAA beordrade på fredagseftermiddagen amerikansk tid ett startstopp på alla flygplatser i USA efter ett kommunikationsfel i flera flygledningscentraler. Enligt Flightradar24 ställdes över 4 700 flyg in och omkring 10 000 försenades, och störningarna fortsätter på lördagen. Transportminister Sean Duffy skyller på föråldrad teknik, och regeringen säger att inget tyder på en cyberattack.",
+    "assessment": "Bekräftat av FAA och flera oberoende redaktioner. Siffrorna för inställda och försenade flyg skiljer sig något mellan källorna, och förklaringen om teknisk överbelastning är regeringens preliminära bedömning.",
+    "reliability": "hog",
+    "independentSources": 4,
+    "weak": false,
+    "sources": [
+     {
+      "name": "FAA",
+      "url": "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop",
+      "country": "US",
+      "kind": "myndighet",
+      "owner": "Federal Aviation Administration"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848",
+      "country": "US",
+      "kind": "kommersiell",
+      "owner": "The Walt Disney Company"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next",
+      "country": "QA",
+      "kind": "public",
+      "owner": "Al Jazeera Media Network"
+     },
+     {
+      "name": "Fox Weather",
+      "url": "https://www.foxweather.com/weather-news/nationwide-ground-stop-ordered-faa",
+      "country": "US",
+      "kind": "kommersiell",
+      "owner": "Fox Corporation"
+     }
+    ]
+   },
+   {
+    "area": "Ekonomi",
+    "title": "USA:s producentpriser steg mest på nästan fyra år – räntehöjning väntas",
+    "summary": "De amerikanska producentpriserna steg med 6,5 procent på årsbasis i oktober, den största ökningen sedan november 2022, och den tioåriga statsobligationsräntan nådde 5,17 procent. Efter att även konsumentpriserna överraskat uppåt räknar marknaden nu med att Federal Reserve höjer räntan i december, vilket kan pressa börser och lånekostnader även utanför USA.",
+    "assessment": "Siffrorna kommer från den amerikanska statistikmyndigheten BLS och återges likadant av flera oberoende finansmedier. Att en räntehöjning väntas bygger på marknadens prissättning, inte på något beslut.",
+    "reliability": "hog",
+    "independentSources": 3,
+    "weak": false,
+    "sources": [
+     {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+      "country": "US",
+      "kind": "kommersiell",
+      "owner": "Yahoo Inc."
+     },
+     {
+      "name": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026",
+      "country": "US",
+      "kind": "kommersiell",
+      "owner": "The Arena Group"
+     },
+     {
+      "name": "The Tribune (ANI)",
+      "url": "https://www.tribuneindia.com/news/inflation-rate/us-producer-prices-rise-6-5-pc-annually-in-october-highest-since-november-2022",
+      "country": "IN",
+      "kind": "nyhetsbyra",
+      "owner": "ANI"
+     },
+     {
+      "name": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-midday-nov-13-nasdaq-plunges-as-nvidia-turmoil-deepens-and-treasury-yields-hit-5/",
+      "country": "US",
+      "kind": "kommersiell",
+      "owner": "The Motley Fool"
+     }
+    ]
+   }
+  ],
+  "unknown": {
+   "theme": "Något udda eller hoppfullt",
+   "item": {
+    "title": "Domedagen som uteblev: 1960 räknade forskare ut att jorden skulle gå under i går",
+    "summary": "År 1960 publicerade fysikern Heinz von Foerster och två studenter en artikel i Science med titeln ”Doomsday: Friday, 13 November, A.D. 2026”, där en ekvation byggd på 2 000 år av befolkningsdata lät jordens befolkning växa mot oändligheten just den dagen. Modellen stämde förvånansvärt väl fram till omkring 1990, men sedan sjönk födelsetalen världen över i takt med stigande inkomster, mer utbildning och urbanisering. I dag är vi omkring 8,3 miljarder människor i stället för de hundratals miljarder modellen förutspådde.",
+    "assessment": "Sakuppgifterna är historiska och lätta att kontrollera, och flera oberoende medier samt en kommentar från tankesmedjan AEI beskriver dem likadant. Inga public service- eller nordiska källor har hittats, och flera av källorna är lättare nyhetssajter.",
+    "reliability": "medel",
+    "independentSources": 3,
+    "weak": false,
+    "why": "Den påminner om att även välrenommerade prognoser kan slå fel, och om att det sjunkande barnafödandet i grunden har förändrat mänsklighetens framtid.",
+    "sources": [
+     {
+      "name": "Men's Journal",
+      "url": "https://www.mensjournal.com/news/today-is-the-exact-day-1960-study-predicted-world-would-end-on-nov-13-2026",
+      "country": "US",
+      "kind": "kommersiell",
+      "owner": "The Arena Group"
+     },
+     {
+      "name": "International Business Times UK",
+      "url": "https://www.ibtimes.co.uk/1960-doomsday-population-prediction-2026-1831915",
+      "country": "GB",
+      "kind": "kommersiell",
+      "owner": "IBTimes UK"
+     },
+     {
+      "name": "Pulse Nigeria",
+      "url": "https://www.pulse.ng/story/november-13-2026-doomsday-prediction-explained-2026111311380353107",
+      "country": "NG",
+      "kind": "kommersiell",
+      "owner": "Pulse Nigeria"
+     },
+     {
+      "name": "American Enterprise Institute",
+      "url": "https://www.aei.org/commentary/doomsday-friday/",
+      "country": "US",
+      "kind": "ovrigt",
+      "owner": "American Enterprise Institute"
+     }
+    ]
+   }
+  }
+ }
+}
