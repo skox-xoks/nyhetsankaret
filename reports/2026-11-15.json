@@ -1,0 +1,485 @@
+{
+ "date": "2026-11-15",
+ "generatedAt": "2026-11-15T09:15:00+01:00",
+ "lede": "Iran har angripit Bahrain på nytt och säger att Hormuzsundet är stängt, samtidigt som Kreml bekräftar toppmötet mellan Trump, Xi och Putin på torsdag. I Sverige pekar obekräftade uppgifter på att Centerpartiet lutar åt Kristersson inför måndagens väntade besked.",
+ "sections": [
+  {
+   "id": "teknik",
+   "items": [
+    {
+     "title": "Routerfel hos FAA-leverantör pekas ut bakom USA:s flygstopp",
+     "summary": "Transportminister Sean Duffy säger att arbete utfört av leverantören L3Harris troligen orsakade fredagens landsomfattande flygstopp i USA. När en kopparledning byttes mot fiber på en FAA-anläggning började en router översvämma flygledningens nät, och radarflöden föll bort. Nästan 10 000 flyg ställdes in på fredagen och tusentals till på lördagen; myndigheterna avskriver en cyberattack och Duffy begär 50 miljarder dollar för att modernisera flygledningen.",
+     "assessment": "Tre oberoende amerikanska medier med olika ägare återger samstämmigt Duffys besked. Orsaken är myndigheternas preliminära bedömning; L3Harris säger bara att bolaget bistår utredningen, och uppgifterna om vilken router det gällde skiljer sig något.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Fortune",
+       "url": "https://fortune.com/2026/11/14/faa-ground-stop-telecom-router-cybersecurity-white-house-situation-room-national-security-apparatus-l3harris/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Fortune Media"
+      },
+      {
+       "name": "USA Today (via Yahoo News)",
+       "url": "https://www.yahoo.com/news/us/articles/faa-contractor-router-focus-investigation-205320485.html",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Gannett"
+      },
+      {
+       "name": "Fox Business",
+       "url": "https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Fox Corporation"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Paramount Skydance"
+      }
+     ]
+    },
+    {
+     "title": "Microsofts globala avbrott över efter mer än ett dygn",
+     "summary": "Microsoft meddelade tidigt på lördagen att Outlook, Teams och andra Microsoft 365-tjänster fungerar igen för alla kunder. Enligt bolaget orsakades felet av en tidigare uppgradering av nätkapaciteten som blev synlig först vid en senare nätändring; Microsoft ser inga tecken på cyberattack. I Sverige drabbades bland annat Göteborgs stad, Blekinges kommuner och Region Västmanland.",
+     "assessment": "Bekräftat av nyhetsbyrå, amerikanskt tv-bolag, teknikpublikation och SVT. Förklaringen till felet kommer bara från Microsoft och har inte granskats oberoende.",
+     "reliability": "hog",
+     "independentSources": 4,
+     "weak": false,
+     "sources": [
+      {
+       "name": "AP (via KPRC Click2Houston)",
+       "url": "https://www.click2houston.com/business/2026/11/14/microsoft-says-services-fully-restored-after-hourslong-global-outage/",
+       "country": "US",
+       "kind": "nyhetsbyra",
+       "owner": "Associated Press"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Paramount Skydance"
+      },
+      {
+       "name": "Digital Trends",
+       "url": "https://www.digitaltrends.com/computing/microsoft-365-outage-resolved/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Designtechnica"
+      },
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/inrikes/microsoft-drabbat-av-storningar",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      }
+     ]
+    },
+    {
+     "title": "Nvidia-skandalen: nya uppgifter om Huang och tryck på Lutnick",
+     "summary": "Enligt Reuters beskrev Jensen Huang i oktober sina kontakter med bolaget Megaspeed för Nvidias chefsjurist som vanliga kundrelationer. Handelsminister Howard Lutnick pressas för att hans departement inte svartlistade Megaspeed, medan Vita huset säger sig ha fullt förtroende för honom. Ett upprop för att återinsätta Huang som vd har samtidigt fått över 100 000 underskrifter.",
+     "assessment": "Varje ny uppgift har i praktiken en ursprungskälla; Reuters-texten har bara kunnat läsas i andra hand och Newsweek-texten är delvis analys. Svagt underlag – uppgifterna kan ändras.",
+     "reliability": "lag",
+     "independentSources": 2,
+     "weak": true,
+     "sources": [
+      {
+       "name": "Newsweek (via Yahoo News)",
+       "url": "https://www.yahoo.com/news/politics/articles/nvidia-scandal-deals-blow-trumps-170512466.html",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Newsweek LLC"
+      },
+      {
+       "name": "Reuters",
+       "url": "https://www.reuters.com/world/china/ex-nvidia-ceo-misled-top-lawyer-affair-with-chinese-businesswoman-sources-say-2026-11-14/",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      },
+      {
+       "name": "Moneywise (via Yahoo Finance)",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-joins-100-000-172500045.html",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Wise Publishing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hallbarhet",
+   "items": [
+    {
+     "title": "COP31 vid halvtid: tusentals demonstrerar, förhandlingarna går trögt",
+     "summary": "Över 7 000 personer demonstrerade enligt polisen i Antalya på lördagen för klimaträttvisa och kritiserade värdlandet Turkiet för att sakna en plan för att fasa ut fossila bränslen. I förhandlingarna fick afrikanska länder inte igenom en egen dagordningspunkt om att tredubbla anpassningsfinansieringen, och utkastet till huvudbeslut beskrivs fortfarande som en önskelista. Ministrarna anländer nu inför andra veckan; mötet ska avslutas den 20 november.",
+     "assessment": "Samstämmigt rapporterat av AFP, Climate Home News, Irish Times, kenyanska The Star och Ekot. Förhandlingsläget bygger delvis på anonyma källor och utkast som kan ändras.",
+     "reliability": "hog",
+     "independentSources": 5,
+     "weak": false,
+     "sources": [
+      {
+       "name": "AFP (via Yahoo News)",
+       "url": "https://www.yahoo.com/news/world/articles/thousands-rally-against-cop31-climate-171714200.html",
+       "country": "FR",
+       "kind": "nyhetsbyra",
+       "owner": "Agence France-Presse"
+      },
+      {
+       "name": "Climate Home News",
+       "url": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/",
+       "country": "GB",
+       "kind": "kommersiell",
+       "owner": "Climate Home Ltd"
+      },
+      {
+       "name": "The Irish Times",
+       "url": "https://www.irishtimes.com/environment/climate-crisis/2026/11/14/thousands-protest-at-alternative-peoples-cop-march-in-turkey/",
+       "country": "IE",
+       "kind": "kommersiell",
+       "owner": "The Irish Times Trust"
+      },
+      {
+       "name": "The Star (Kenya)",
+       "url": "https://www.the-star.co.ke/news/2026-11-14-setback-for-africa-as-cop31-rejects-push-to-triple-adaptation-finance",
+       "country": "KE",
+       "kind": "kommersiell",
+       "owner": "Radio Africa Group"
+      },
+      {
+       "name": "Sveriges Radio Ekot (via Pressen.se)",
+       "url": "https://www.pressen.se/1371701173.html",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Radio"
+      }
+     ]
+    },
+    {
+     "title": "Strid om klimatvetenskapen: Saudiarabien vill hålla FN-rapport om 1,5-gradersöverskridande utanför",
+     "summary": "Saudiarabien leder, med stöd av bland andra Indien och Kina, en grupp länder som ifrågasätter UNEP-rapporten Limiting Overshoot och vill hålla den utanför slutbeslutet; forskarna bakom rapporten försvarar granskningen. EU, Storbritannien, de minst utvecklade länderna och önationerna vill i stället göra överskridandet till en prioritet. Striden hänger ihop med en tvist om att skjuta upp IPCC:s sjunde rapport till 2029.",
+     "assessment": "Kärnuppgiften kommer från Climate Home News och bygger på slutna möten; AFP har rapporterat om den närliggande IPCC-tvisten dagen innan. Svagare underlag.",
+     "reliability": "medel",
+     "independentSources": 2,
+     "weak": true,
+     "sources": [
+      {
+       "name": "Climate Home News",
+       "url": "https://www.climatechangenews.com/2026/11/14/scientists-defend-un-overshoot-report-after-saudi-led-push-to-sideline-it-at-cop31/",
+       "country": "GB",
+       "kind": "kommersiell",
+       "owner": "Climate Home Ltd"
+      },
+      {
+       "name": "AFP (via Yahoo News Singapore)",
+       "url": "https://sg.news.yahoo.com/fight-over-climate-science-intensifies-133514767.html",
+       "country": "FR",
+       "kind": "nyhetsbyra",
+       "owner": "Agence France-Presse"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inrikes",
+   "items": [
+    {
+     "title": "Uppgifter: C-ledaren lutar åt Kristersson – S talar om tydliga signaler",
+     "summary": "Aftonbladet rapporterade på lördagskvällen, med hänvisning till anonyma källor, att C-ledaren Elisabeth Thand Ringqvist bestämt sig för att gå mot en regering med M, KD och L, medan partiet är splittrat. S-kvinnornas ordförande Annika Strandhäll säger att S fått tydliga signaler om att C väljer Kristerssons alternativ på måndag. Centerpartiet har inte bekräftat något och säger att paketen behandlas internt.",
+     "assessment": "Uppgiften om C-ledarens beslut har en enda ursprungskälla (Aftonbladets anonyma källor) som andra återger utan egen bekräftelse. Strandhälls uttalande är bekräftat av SVT och TT men är en motparts tolkning, inte ett besked från C.",
+     "reliability": "medel",
+     "independentSources": 2,
+     "weak": true,
+     "sources": [
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026?inlagg=bd848c0f1b2b3f9e13316a9f8fb9b6de",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "Göteborgs-Posten (TT)",
+       "url": "https://www.gp.se/nyheter/sverige/gabrielsson-v-s-krav-ligger-fast.e99a1a2c-c02f-54a6-b07f-1d64985642cd",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      },
+      {
+       "name": "Bulletin",
+       "url": "https://bulletin.nu/kallor-c-ledaren-har-bestamt-sig-for-kristersson",
+       "country": "SE",
+       "kind": "kommersiell",
+       "owner": "Bulletin Media"
+      },
+      {
+       "name": "Morgon-Tidningen",
+       "url": "https://morgontidningen.se/2026/11/uppgifter-thand-ringqvist-har-bestamt-sig-for-hogerregering-blir-beroende-av-sd/",
+       "country": "SE",
+       "kind": "ovrigt",
+       "owner": "Morgon-Tidningen"
+      }
+     ]
+    },
+    {
+     "title": "S lockar C med grundlagsskyddad skog – V står fast vid ministerkrav",
+     "summary": "Magdalena Andersson (S) skriver i Expressen att S vill regera med C och MP med V som stödparti. Enligt uppgifter till SVT innehåller S-paketet bland annat grundlagsskydd för privat skogsäganderätt, straffbarhetsålder 15 år, ändrade regler för arbetskraftsinvandring och landsbygdssatsningar. V:s vice partiledare Ida Gabrielsson säger att Andersson tolkat V fel och att kravet på ministerposter ligger fast.",
+     "assessment": "Anderssons utspel finns i hennes egen debattartikel och återges av SVT och TT; paketets innehåll bygger på uppgifter till SVT som C och MP inte kommenterar. Två oberoende redaktioner har kunnat läsas.",
+     "reliability": "medel",
+     "independentSources": 2,
+     "weak": true,
+     "sources": [
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/inrikes/uppgifter-detta-erbjuder-s-till-c-i-sitt-totalpaket",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      },
+      {
+       "name": "Göteborgs-Posten (TT)",
+       "url": "https://www.gp.se/nyheter/sverige/gabrielsson-v-s-krav-ligger-fast.e99a1a2c-c02f-54a6-b07f-1d64985642cd",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      },
+      {
+       "name": "Pressen.se (återger DN)",
+       "url": "https://www.pressen.se/1371701857.html",
+       "country": "SE",
+       "kind": "ovrigt",
+       "owner": "Pressen.se"
+      }
+     ]
+    },
+    {
+     "title": "S hotar fälla en borgerlig budget om C väljer Kristersson",
+     "summary": "S ekonomisk-politiske talesperson Mikael Damberg säger att S, V och MP ska lägga en gemensam budgetreservation om C stöder en regering med Kristersson, eftersom de tre har fler mandat än M, C, KD och L utan SD. S menar att en sådan regering skulle bli beroende av SD och har bjudit in V och MP till budgetsamtal.",
+     "assessment": "Uttalandet är öppet och återges samstämmigt av TT och SVT; det är en uttalad avsikt, inget beslut, och M, KD och L har inte svarat. De flesta tidningar kör samma TT-text, så de oberoende källorna är två.",
+     "reliability": "medel",
+     "independentSources": 2,
+     "weak": true,
+     "sources": [
+      {
+       "name": "Göteborgs-Posten (TT)",
+       "url": "https://www.gp.se/nyheter/sverige/damberg-vi-kommer-att-stoppa-en-borgerlig-budget.cf8b4364-0c1f-5bed-8118-3c5faadbccb5",
+       "country": "SE",
+       "kind": "nyhetsbyra",
+       "owner": "TT Nyhetsbyrån"
+      },
+      {
+       "name": "SVT Nyheter",
+       "url": "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026?inlagg=690339c0afd578dcb9df50e405514550",
+       "country": "SE",
+       "kind": "public",
+       "owner": "Sveriges Television"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "utrikes",
+   "items": [
+    {
+     "title": "Iran attackerar Bahrain igen och säger att Hormuzsundet är stängt",
+     "summary": "Natten mot söndag hördes explosioner och flyglarm i Bahrain, som utfärdade sitt första rikstäckande hotlarm på flera månader. Irans revolutionsgarde säger att drönare angrep en amerikansk radar vid basen al-Riffa som en ”andra fas” av vedergällningen, att Hormuzsundet är stängt och att två tankfartyg gått på minor. Saudiledda koalitionen uppger samtidigt att den skjutit ner två Huthi-robotar mot Riyadh.",
+     "assessment": "Explosioner och larm bekräftas av AFP på plats och av Bahrains myndigheter. Skador, mål och minorna bygger bara på iranska uppgifter; USA har inte bekräftat söndagens attacker.",
+     "reliability": "medel",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "AFP (via The Manila Times)",
+       "url": "https://www.manilatimes.net/2026/11/15/world/blasts-sirens-in-bahrain-as-iran-announces-attack-on-us-base/2470216",
+       "country": "FR",
+       "kind": "nyhetsbyra",
+       "owner": "Agence France-Presse"
+      },
+      {
+       "name": "The National",
+       "url": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/",
+       "country": "AE",
+       "kind": "kommersiell",
+       "owner": "International Media Investments"
+      },
+      {
+       "name": "Gulf News",
+       "url": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-as-bahrain-issues-threat-alert-1.500747797",
+       "country": "AE",
+       "kind": "kommersiell",
+       "owner": "Al Nisr Publishing"
+      }
+     ]
+    },
+    {
+     "title": "Kreml bekräftar: Trump, Xi och Putin möts i Shenzhen den 19 november",
+     "summary": "Kremls talesperson Dmitrij Peskov säger att Putin, Xi och Trump kommit överens om att mötas den 19 november i Shenzhen i samband med APEC-toppmötet. Washington säger att Trump vill ta upp kärnvapennedrustning och Irankriget men att Ukraina inte står på trepartsmötets dagordning, medan ryska företrädare antytt att en fredsplan för Ukraina kan komma upp.",
+     "assessment": "Nytt är att Ryssland bekräftar och att datum är satt; uppgiften kommer från TASS och återges av flera oberoende redaktioner. Dagordningen beskrivs olika av Washington och Moskva.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Anadolu Agency",
+       "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290",
+       "country": "TR",
+       "kind": "nyhetsbyra",
+       "owner": "Anadolu (turkiska staten)"
+      },
+      {
+       "name": "SBS News",
+       "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008846118",
+       "country": "KR",
+       "kind": "kommersiell",
+       "owner": "SBS (Seoul Broadcasting System)"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/",
+       "country": "US",
+       "kind": "kommersiell",
+       "owner": "Paramount Skydance"
+      }
+     ]
+    },
+    {
+     "title": "ASEAN-toppmöte i Manila med energikris och stormakter i fokus",
+     "summary": "ASEAN:s 49:e toppmöte öppnade i Manila på söndagen och pågår till den 17 november, med energibristen efter Irankriget, Sydkinesiska havet och Myanmar högt på dagordningen. Bland gästerna finns Lula, Carney, Modi, Guterres och Kinas premiärminister Li Qiang, och Trump väntas på tisdag. Filippinerna säger att uppförandekoden för Sydkinesiska havet är ”80 procent” klar, men ingen underskrift väntas nu.",
+     "assessment": "AP, AFP och Al Jazeera rapporterar samstämmigt om deltagare och dagordning. Mötet har just börjat, så inga beslut finns ännu.",
+     "reliability": "hog",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "AP (via ABC News)",
+       "url": "https://abcnews.com/International/wireStory/southeast-asian-leaders-open-annual-summit-major-conflicts-138153824",
+       "country": "US",
+       "kind": "nyhetsbyra",
+       "owner": "Associated Press"
+      },
+      {
+       "name": "AFP (via The Star)",
+       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/global-powers-converge-on-manila-as-asean-summit-kicks-off",
+       "country": "FR",
+       "kind": "nyhetsbyra",
+       "owner": "Agence France-Presse"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake",
+       "country": "QA",
+       "kind": "public",
+       "owner": "Al Jazeera Media Network"
+      }
+     ]
+    },
+    {
+     "title": "Israel dödar Hamas Rafah-befälhavare trots vapenvila",
+     "summary": "Israels militär och Shin Bet säger att de dödat en högt uppsatt Hamas-befälhavare i en drönarattack i al-Mawasi i Khan Younis, vilket Hamas bekräftar. Försvarsminister Israel Katz säger att Israel fortsätter sin offensiva linje tills Gaza är demilitariserat. Enligt Gazas Hamasstyrda hälsomyndighet har över 1 600 palestinier dödats sedan vapenvilan i oktober 2025.",
+     "assessment": "Båda parter bekräftar dödsfallet. Dödssiffrorna kommer från den Hamasstyrda hälsomyndigheten, och AAP bygger delvis på Reuters, så de verkligt oberoende källorna är två till tre.",
+     "reliability": "medel",
+     "independentSources": 3,
+     "weak": false,
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+       "country": "QA",
+       "kind": "public",
+       "owner": "Al Jazeera Media Network"
+      },
+      {
+       "name": "Reuters (via Arab News)",
+       "url": "https://www.arabnews.com/middle-east/israeli-military-says-it-struck-senior-commander-in-hamas-military-wing-3011955",
+       "country": "GB",
+       "kind": "nyhetsbyra",
+       "owner": "Thomson Reuters"
+      },
+      {
+       "name": "AAP (via The Canberra Times)",
+       "url": "https://www.canberratimes.com.au/story/9391666/israel-kills-senior-hamas-military-commander-in-gaza/",
+       "country": "AU",
+       "kind": "nyhetsbyra",
+       "owner": "Australian Associated Press"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "watch": "Centerpartiets besked om regeringsfrågan, väntat på måndag, och Kristerssons rapport till talmannen den 17 november.",
+ "backside": {
+  "mustKnow": [
+   {
+    "title": "SpaceX fångar ett Starship i luften för första gången",
+    "summary": "Efter 14 varv runt jorden fångades SpaceX:s rymdskepp Starship på lördagen av startplattans robotarmar i Texas – första gången ett skepp som återvänt från omloppsbana fångats så. Boosterraketen förstördes däremot strax efter uppskjutningen, så den planerade dubbelfångsten misslyckades. NASA räknar med Starship för att landa astronauter på månen inom Artemis-programmet.",
+    "assessment": "Syns i SpaceX:s egna sändningar och rapporteras av AP och Reuters (via Al Jazeera) och Space.com; två oberoende redaktioner har kunnat läsas.",
+    "reliability": "medel",
+    "independentSources": 2,
+    "weak": true,
+    "sources": [
+     {
+      "name": "Al Jazeera (AP/Reuters)",
+      "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first",
+      "country": "QA",
+      "kind": "public",
+      "owner": "Al Jazeera Media Network"
+     },
+     {
+      "name": "Space.com",
+      "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt",
+      "country": "US",
+      "kind": "kommersiell",
+      "owner": "Future plc"
+     }
+    ],
+    "area": "Vetenskap/Rymd"
+   }
+  ],
+  "unknown": {
+   "theme": "Något udda eller hoppfullt",
+   "item": {
+    "title": "En ”hemlig” valunge ger hopp för en av världens mest hotade valar",
+    "summary": "Forskare fotograferade i september en nordkapare med en tidigare okänd unge vid Anticosti Island i Quebec. Modern, den minst 38 år gamla honan Silt, födde troligen ungen i vintras utan att någon inventering längs USA:s östkust upptäckte den. Säsongen har därmed 24 kända kalvar – flest sedan 2009 – för en art med omkring 380 djur kvar.",
+    "assessment": "Uppgifterna kommer från New England Aquariums pressmeddelande och bekräftas av AP och The Current med egna intervjuer, men alla bygger ytterst på samma forskningsdata. Nyheten är från början av november, inte från det senaste dygnet.",
+    "reliability": "hog",
+    "independentSources": 3,
+    "weak": false,
+    "sources": [
+     {
+      "name": "AP (via Maine Public)",
+      "url": "https://www.mainepublic.org/environment-and-outdoors/2026-11-06/scientists-discovered-an-unknown-baby-right-whale-off-canada-they-say-its-a-cause-for-joy",
+      "country": "US",
+      "kind": "nyhetsbyra",
+      "owner": "Associated Press"
+     },
+     {
+      "name": "New England Aquarium",
+      "url": "https://www.neaq.org/about-us/press-room/press-releases/in-surprise-sighting-previously-unknown-north-atlantic-right-whale-calf-is-spotted-in-canadian-waters/",
+      "country": "US",
+      "kind": "myndighet",
+      "owner": "New England Aquarium"
+     },
+     {
+      "name": "The Current",
+      "url": "https://thecurrentga.org/2026/11/07/surprise-calf-adds-to-2026-right-whale-calving-season-total/",
+      "country": "US",
+      "kind": "ovrigt",
+      "owner": "The Current GA"
+     }
+    ],
+    "why": "Att en 15 ton tung valunge kan gömma sig i ett halvår trots intensiv övervakning visar hur stort havet är – och hur mycket varje individ betyder för en art med under 400 djur kvar."
+   }
+  }
+ }
+}
